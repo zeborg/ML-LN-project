@@ -1,0 +1,1379 @@
+{
+  "url": "http://boxnovel.org/novel/emperor-of-solo-play",
+  "title": "Emperor of Solo Play",
+  "author": "D-dart (\ub514\ub2e4\ud2b8)",
+  "cover": "https://3.bp.blogspot.com/-oU27_CWYl0E/XbBoKbV6pvI/AAAAAAAAGxI/Ydp9oLQkKfUf1QTH29CnGvdjkLYUHGR9gCLcBGAsYHQ/s320/emperor-of-solo-play-d.jpg",
+  "volumes": [
+    {
+      "id": 0,
+      "title": "Volume 0",
+      "volume": "0",
+      "chapter_count": 1,
+      "final_chapter": 0,
+      "start_chapter": 0
+    },
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 100,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 91,
+      "final_chapter": 191,
+      "start_chapter": 101
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 0 - Prologue",
+      "id": 0,
+      "volume": 0,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-0-prologue",
+      "volume_title": "Volume 0"
+    },
+    {
+      "title": "Chapter 1 : The Hero Slaughterer (1).",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-1-the-hero-slaughterer-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2 : The Hero Slaughterer (2).",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-2-the-hero-slaughterer-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3 : A Class You Can Play Alone (1).",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-3-a-class-you-can-play-alone-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4 : A Class You Can Play Alone (2).",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-4-a-class-you-can-play-alone-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5 : A Class You Can Play Alone (3).",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-5-a-class-you-can-play-alone-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6 : Secret of the Expert (1).",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-6-secret-of-the-expert-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7 : Secret of the Expert (2).",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-7-secret-of-the-expert-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8 : Dancing with the Skeletons (1).",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-8-dancing-with-the-skeletons-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9 : Dancing with the Skeletons (2).",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-9-dancing-with-the-skeletons-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10 : Dancing with the Skeletons (3).",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-10-dancing-with-the-skeletons-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11 : Dancing with the Skeletons (4).",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-11-dancing-with-the-skeletons-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12 : A Mess of a Character to Others (1).",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-12-a-mess-of-a-character-to-others-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13 : A Mess of a Character to Others (2).",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-13-a-mess-of-a-character-to-others-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14 : A Cave in Mt. Bima (1).",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-14-a-cave-in-mt-bima-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15 : A Cave in Mt. Bima (2).",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-15-a-cave-in-mt-bima-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16 : A Cave in Mt. Bima (3).",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-16-a-cave-in-mt-bima-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17 : A Nail in a Pocket (1).",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-17-a-nail-in-a-pocket-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18 : A Nail in a Pocket (2).",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-18-a-nail-in-a-pocket-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19 : A Nail in a Pocket (3).",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-19-a-nail-in-a-pocket-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20 : Danger and Chance (1).",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-20-danger-and-chance-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21 : Danger and Chance (2).",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-21-danger-and-chance-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22 : Chance and Danger (3).",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-22-chance-and-danger-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23 : 70% Luck and 30% Effort (1).",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-23-70-luck-and-30-effort-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24 : 70% Luck 30% Effort (2).",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-24-70-luck-30-effort-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25 : 70% Luck 30% Effort (3).",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-25-70-luck-30-effort-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26 : Ahimbree (1).",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-26-ahimbree-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27 : Ahimbree (2).",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-27-ahimbree-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28 : Ahimbree (3).",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-28-ahimbree-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29 : Lizard Swamp (1).",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-29-lizard-swamp-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30 : Lizard Swamp (2).",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-30-lizard-swamp-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31 : Lizard Swamp (3).",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-31-lizard-swamp-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32 : Corrupted Stone (1).",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-32-corrupted-stone-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33 : Corrupted Stone (2).",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-33-corrupted-stone-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34 : Corrupted Stone (3).",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-34-corrupted-stone-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35 : Skeletons Hunting Skeletons (1).",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-35-skeletons-hunting-skeletons-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36 : Skeletons Hunting Skeletons (2).",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-36-skeletons-hunting-skeletons-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37 : Skeletons Hunting Skeletons (3).",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-37-skeletons-hunting-skeletons-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38 : Golden Skeleton (1).",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-38-golden-skeleton-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39 : Golden Skeleton (2).",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-39-golden-skeleton-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40 : Golden Skeleton (3).",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-40-golden-skeleton-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41 : Golden Skeleton (4).",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-41-golden-skeleton-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42 : Searching for Migi (1).",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-42-searching-for-migi-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43 : Searching for Migi (2).",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-43-searching-for-migi-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44 : Searching for Migi (3).",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-44-searching-for-migi-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45 : Bad Move (1).",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-45-bad-move-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46 : Bad Move (2).",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-46-bad-move-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47 : Bulkas Mountain Range (1).",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-47-bulkas-mountain-range-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48 : Bulkas Mountain Range (2).",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-48-bulkas-mountain-range-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49 : Bulkas Mountain Range (3).",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-49-bulkas-mountain-range-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50 : Lucky Drop (1).",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-50-lucky-drop-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51 : Lucky Drop (2).",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-51-lucky-drop-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52 : Lucky Drop (3).",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-52-lucky-drop-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53 : Lucky Drop (4).",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-53-lucky-drop-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54 : Maoongs Test (1).",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-54-maoongs-test-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55 : Maoongs Test (2).",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-55-maoongs-test-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56 : Maoongs Test (3).",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-56-maoongs-test-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57 : Bear Warrior (1).",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-57-bear-warrior-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58 : Bear Warrior (2).",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-58-bear-warrior-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59 : Dungeon Map (1).",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-59-dungeon-map-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60 : Dungeon Map (2).",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-60-dungeon-map-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61 : Dungeon Map (3).",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-61-dungeon-map-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62 : Deep Canyon Spring (1).",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-62-deep-canyon-spring-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63 : Deep Canyon Spring (2).",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-63-deep-canyon-spring-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64 : Deep Canyon Spring (3).",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-64-deep-canyon-spring-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65 : Skill Armament (1).",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-65-skill-armament-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66 : Skill Armament (2).",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-66-skill-armament-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67 : Skill Armament (3).",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-67-skill-armament-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68 Helm Ogre (1).",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-68-helm-ogre-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69 Helm Ogre (2).",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-69-helm-ogre-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70 Helm Ogre (3).",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-70-helm-ogre-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71 Secret Society (1) .",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-71-secret-society-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72 Secret Society (2).",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-72-secret-society-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73 Secret Society (3) .",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-73-secret-society-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74 Battlefield (1).",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-74-battlefield-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75 Battlefield (2).",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-75-battlefield-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76 Battlefield (3).",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-76-battlefield-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77 Golem Upgrade (1).",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-77-golem-upgrade-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78 Golem Upgrade (2).",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-78-golem-upgrade-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79 Golem Upgrade (3).",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-79-golem-upgrade-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80 - Olfs Errand",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-80-olfs-errand",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81 Olf's Errand (2).",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-81-olfs-errand-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82 The Baheim Tribe (1) .",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-82-the-baheim-tribe-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83 The Baheim Tribe (2).",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-83-the-baheim-tribe-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84 The Baheim Tribe (3).",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-84-the-baheim-tribe-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85 Deal with the Redbulls (1).",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-85-deal-with-the-redbulls-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86 Deal with the Red Bulls (2).",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-86-deal-with-the-red-bulls-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87 Corrupted Elf (1).",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-87-corrupted-elf-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88 Corrupted Elf (2).",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-88-corrupted-elf-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89 Corrupted Elf (3).",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-89-corrupted-elf-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90 Corrupted Elf (4).",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-90-corrupted-elf-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91 Elfs Keepsake (1).",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-91-elfs-keepsake-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92 Elf's Keepsake (2).",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-92-elfs-keepsake-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93 - Elfs Keepsake (3)",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-93-elfs-keepsake-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94 - Waltz (1)",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-94-waltz-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95 - Waltz (2)",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-95-waltz-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96 - Waltz (3)",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-96-waltz-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97 - Cursed Domain",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-97-cursed-domain",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98 - Cursed Domain(2)",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-98-cursed-domain2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99 - Cursed Domain (3)",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-99-cursed-domain-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100 - Cursed Domain(4)",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-100-cursed-domain4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101 - Guerrillas (1)",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-101-guerrillas-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102 - Guerrillas (2)",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-102-guerrillas-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103 - Guerrillas (3)",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-103-guerrillas-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104- There is No Free Lunch (1)",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-104-there-is-no-free-lunch-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105 - There is No Free Lunch (2)",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-105-there-is-no-free-lunch-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106 - Catacombs (1)",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-106-catacombs-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107 - Catacombs (2)",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-107-catacombs-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108 - Catacombs (3)",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-108-catacombs-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109 - How much? (1)",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-109-how-much-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110 - How Much? (2)",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-110-how-much-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111 - Black Tree (1)",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-111-black-tree-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112 - Black Tree (2)",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-112-black-tree-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113 - Black Tree (3)",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-113-black-tree-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114 - The Foe that Gives Generously (1)",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-114-the-foe-that-gives-generously-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115 - The Foe that Gives Generously (2)",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-115-the-foe-that-gives-generously-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116 - The Foe that Gives Generously (3)",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-116-the-foe-that-gives-generously-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117 - Prelude to the Great Battle (1)",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-117-prelude-to-the-great-battle-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118 - Prelude to the Great Battle (2)",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-118-prelude-to-the-great-battle-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119 - Prelude the Great Battle (3)",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-119-prelude-the-great-battle-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120 - Bad Ending? (1)",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-120-bad-ending-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121 - Bad Ending? (2)",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-121-bad-ending-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122 - Bad Ending? (3)",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-122-bad-ending-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123 - Power of Wealth (1)",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-123-power-of-wealth-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124 - Power of Wealth (2)",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-124-power-of-wealth-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125 - Power of Wealth (3)",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-125-power-of-wealth-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126 - Argardo Raid (1)",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-126-argardo-raid-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127 - Argardo Raid (2)",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-127-argardo-raid-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128 - Argardo Raid (3)",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-128-argardo-raid-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129 - Agardo Raid (4)",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-129-agardo-raid-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130 - On the Eve (1)",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-130-on-the-eve-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131 - On the Eve (2)",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-131-on-the-eve-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132 - On the Eve (3)",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-132-on-the-eve-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133 - Immoral Prince (1)",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-133-immoral-prince-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134 - Immoral Prince (2)",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-134-immoral-prince-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135 - Immoral Prince (3)",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-135-immoral-prince-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136 - Immoral Prince (4)",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-136-immoral-prince-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137 - If You Set It on Fire, Blessings Will Come Your Way (1)",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-137-if-you-set-it-on-fire-blessings-will-come-your-way-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138 - If You Set It on Fire, Blessings Will Come Your Way (2)",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-138-if-you-set-it-on-fire-blessings-will-come-your-way-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139 - If You Set It on Fire, Blessings Will Come Your Way (3)",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-139-if-you-set-it-on-fire-blessings-will-come-your-way-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140 - Across the Terube Castle Wall (1)",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-140-across-the-terube-castle-wall-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141 - Across the Terube Castle Wall (2)",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-141-across-the-terube-castle-wall-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142 - The Frozen Land (1)",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-142-the-frozen-land-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143 - The Frozen Land (2)",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-143-the-frozen-land-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144 - The Frozen Land (3)",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-144-the-frozen-land-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145 - Frost Knight (1)",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-145-frost-knight-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146 - Frost Knight (2)",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-146-frost-knight-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147 - Frost Knight (3)",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-147-frost-knight-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148 - Ancient Power (1)",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-148-ancient-power-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149 - Ancient Power (2)",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-149-ancient-power-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150 - Ancient Power (3)",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-150-ancient-power-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151 - Death Knight (1)",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-151-death-knight-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152 - Death Knight (2)",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-152-death-knight-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153 - Death Knight (3)",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-153-death-knight-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154 - Find the Ruins (1)",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-154-find-the-ruins-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155 Find the Ruins (2)",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-155-find-the-ruins-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156 Heard Fortress (1)",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-156-heard-fortress-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157 Heard Fortress (2)",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-157-heard-fortress-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158 Catch or Be Caught (1)",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-158-catch-or-be-caught-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159 Catch it or Be Caught (2)",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-159-catch-it-or-be-caught-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160 Catch it or Be Caught (3)",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-160-catch-it-or-be-caught-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161 Catch it or Be Caught (4)",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-161-catch-it-or-be-caught-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162 - Anugas Necklace (1)",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-162-anugas-necklace-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163 - Anugas Necklace (2)",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-163-anugas-necklace-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164 Anugas Necklace (3)",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-164-anugas-necklace-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165 Trace of Bokan (1)",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-165-trace-of-bokan-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166 Trace of Bokan (2)",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-166-trace-of-bokan-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167 Trace of Bokan (3)",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-167-trace-of-bokan-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168 Kings Tomb (1)",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-168-kings-tomb-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169 Kings Tomb (2)",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-169-kings-tomb-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170 Kings Tomb (3)",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-170-kings-tomb-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171 Bone Dragon (1)",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-171-bone-dragon-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172 Bone Dragon (2)",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-172-bone-dragon-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173 Bone Dragon (3)",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-173-bone-dragon-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174 Red Desert (1)",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-174-red-desert-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175 Red Desert (2)",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-175-red-desert-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176 Red Desert (3)",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-176-red-desert-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177 Red Desert (4)",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-177-red-desert-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178 Hero Slaughterer (1)",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-178-hero-slaughterer-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179 Hero Slaughterer (2)",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-179-hero-slaughterer-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180 Hero Slaughterer (3)",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-180-hero-slaughterer-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181 Hero Slaughterer (4)",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-181-hero-slaughterer-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182 Golden Conch (1)",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-182-golden-conch-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183 Golden Conch (2)",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-183-golden-conch-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184 Barbarian King (1)",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-184-barbarian-king-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185 Barbarian King (2)",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-185-barbarian-king-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186 Barbarian King (3)",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-186-barbarian-king-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187 Barbarian King (4)",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-187-barbarian-king-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188 Barbarian King (5)",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-188-barbarian-king-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189 Barbarian King (6)",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-189-barbarian-king-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190 Emperor of Solo Play",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-190-emperor-of-solo-play",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191 Epilogue",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/emperor-of-solo-play-chapter-191-epilogue",
+      "volume_title": "Volume 2"
+    }
+  ],
+  "rtl": false
+}

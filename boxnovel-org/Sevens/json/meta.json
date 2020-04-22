@@ -1,0 +1,2718 @@
+{
+  "url": "http://boxnovel.org/novel/sevens",
+  "title": "Sevens",
+  "author": "\u308f\u3044\uff0f\u4e09\u5d8b \u4e0e\u5922",
+  "cover": "https://2.bp.blogspot.com/-eCObOGclWAY/XbBr27wjBQI/AAAAAAAAHe0/66Dwa2BH-mAQ2OcALNwZPm_n_XIFpURUACLcBGAsYHQ/s320/sevens-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 20,
+      "final_chapter": 20,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 15,
+      "final_chapter": 35,
+      "start_chapter": 1
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 16,
+      "final_chapter": 51,
+      "start_chapter": 1
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 17,
+      "final_chapter": 68,
+      "start_chapter": 1
+    },
+    {
+      "id": 5,
+      "title": "Volume 5",
+      "volume": "5",
+      "chapter_count": 16,
+      "final_chapter": 84,
+      "start_chapter": 1
+    },
+    {
+      "id": 6,
+      "title": "Volume 6",
+      "volume": "6",
+      "chapter_count": 17,
+      "final_chapter": 101,
+      "start_chapter": 1
+    },
+    {
+      "id": 7,
+      "title": "Volume 7",
+      "volume": "7",
+      "chapter_count": 21,
+      "final_chapter": 122,
+      "start_chapter": 1
+    },
+    {
+      "id": 8,
+      "title": "Volume 8",
+      "volume": "8",
+      "chapter_count": 22,
+      "final_chapter": 144,
+      "start_chapter": 1
+    },
+    {
+      "id": 9,
+      "title": "Volume 9",
+      "volume": "9",
+      "chapter_count": 20,
+      "final_chapter": 164,
+      "start_chapter": 1
+    },
+    {
+      "id": 10,
+      "title": "Volume 10",
+      "volume": "10",
+      "chapter_count": 18,
+      "final_chapter": 182,
+      "start_chapter": 1
+    },
+    {
+      "id": 11,
+      "title": "Volume 11",
+      "volume": "11",
+      "chapter_count": 23,
+      "final_chapter": 205,
+      "start_chapter": 1
+    },
+    {
+      "id": 12,
+      "title": "Volume 12",
+      "volume": "12",
+      "chapter_count": 22,
+      "final_chapter": 227,
+      "start_chapter": 1
+    },
+    {
+      "id": 13,
+      "title": "Volume 13",
+      "volume": "13",
+      "chapter_count": 20,
+      "final_chapter": 247,
+      "start_chapter": 1
+    },
+    {
+      "id": 14,
+      "title": "Volume 14",
+      "volume": "14",
+      "chapter_count": 21,
+      "final_chapter": 268,
+      "start_chapter": 1
+    },
+    {
+      "id": 15,
+      "title": "Volume 15",
+      "volume": "15",
+      "chapter_count": 21,
+      "final_chapter": 289,
+      "start_chapter": 1
+    },
+    {
+      "id": 16,
+      "title": "Volume 16",
+      "volume": "16",
+      "chapter_count": 19,
+      "final_chapter": 308,
+      "start_chapter": 1
+    },
+    {
+      "id": 17,
+      "title": "Volume 17",
+      "volume": "17",
+      "chapter_count": 21,
+      "final_chapter": 329,
+      "start_chapter": 1
+    },
+    {
+      "id": 18,
+      "title": "Volume 18",
+      "volume": "18",
+      "chapter_count": 23,
+      "final_chapter": 352,
+      "start_chapter": 1
+    },
+    {
+      "id": 19,
+      "title": "Volume 19",
+      "volume": "19",
+      "chapter_count": 13,
+      "final_chapter": 365,
+      "start_chapter": 353
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Volume 1 - Prologue",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-prologue",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 1 - Chapter 1: Former Noble Lyle",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-1-former-noble-lyle",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 1: Growth",
+      "id": 1,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-1-growth",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 1: Arumsaas Guild",
+      "id": 1,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-1-arumsaas-guild",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 1: Poyopoyo",
+      "id": 1,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-1-poyopoyo",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 1: The Circry House",
+      "id": 1,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-1-the-circry-house",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 1: Fraud",
+      "id": 1,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-1-fraud",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 1: The Four Guild Branches",
+      "id": 1,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-1-the-four-guild-branches",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 1: Labyrinth Clearing Beim Style",
+      "id": 1,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-1-labyrinth-clearing-beim-style",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 1: Letter",
+      "id": 1,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-1-letter",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 1: Lorphys\u2019 Royal Princess",
+      "id": 1,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-1-lorphys%E2%80%99-royal-princess",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 1: Dangerous Individual",
+      "id": 1,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-1-dangerous-individual",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 1: Taking Over",
+      "id": 1,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-1-taking-over",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 1: Gina Tr\u0113s",
+      "id": 1,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-1-gina-tr%C4%93s",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 1: Setting Off from Beim",
+      "id": 1,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-1-setting-off-from-beim",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 1: Corps of Iron Pipes",
+      "id": 1,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-1-corps-of-iron-pipes",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 1: Faction",
+      "id": 1,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-1-faction",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 1: Various Forms of Peace",
+      "id": 1,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-1-various-forms-of-peace",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 1: The Enemy of an Enemy is also an Enemy and no Ally of Mine",
+      "id": 1,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-1-the-enemy-of-an-enemy-is-also-an-enemy-and-no-ally-of-mine",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 2: Former Fianc\u00e9e Novem",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-2-former-fiancee-novem",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 2: Level Up",
+      "id": 2,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-2-level-up",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 2: The Library of the City of Scholars",
+      "id": 2,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-2-the-library-of-the-city-of-scholars",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 2: Various Worries",
+      "id": 2,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-2-various-worries",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 2: Someone to Guard",
+      "id": 2,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-2-someone-to-guard",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 2: Singer",
+      "id": 2,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-2-singer",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 2: Men of the Walt House",
+      "id": 2,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-2-men-of-the-walt-house",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 2: Information Dealer",
+      "id": 2,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-2-information-dealer",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 2: Chivalry",
+      "id": 2,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-2-chivalry",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 2: Lyle\u2019s Room of Memories",
+      "id": 2,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-2-lyle%E2%80%99s-room-of-memories",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 2: Vera\u2019s Ship Log?",
+      "id": 2,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-2-vera%E2%80%99s-ship-log",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 2: LYLE",
+      "id": 2,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-2-lyle",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 2: Cartaffs",
+      "id": 2,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-2-cartaffs",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 2: Various Journeys",
+      "id": 2,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-2-various-journeys",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 2: Fortress Conquering",
+      "id": 2,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-2-fortress-conquering",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 2: Marriage Interview",
+      "id": 2,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-2-marriage-interview",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 2: There is a Rabbit on the Moon",
+      "id": 2,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-2-there-is-a-rabbit-on-the-moon",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 2: Knock and use the Front Door",
+      "id": 2,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-2-knock-and-use-the-front-door",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 3: The Seven Ancestors",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-3-the-seven-ancestors",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 3: Aria Lockwarde",
+      "id": 3,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-3-aria-lockwarde",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 3: The Seven Great of the City of Scholars",
+      "id": 3,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-3-the-seven-great-of-the-city-of-scholars",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 3: The Lifeform Known as a Feudal Lord.",
+      "id": 3,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-3-the-lifeform-known-as-a-feudal-lord",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 3: Monetary Support",
+      "id": 3,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-3-monetary-support",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 3: The Underside of a Promotion",
+      "id": 3,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-3-the-underside-of-a-promotion",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 3: East Branch",
+      "id": 3,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-3-east-branch",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 3: \u3010Interlude\u3011 Ancestors and Wives",
+      "id": 3,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-3-%E3%80%90interlude%E3%80%91-ancestors-and-wives",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 3: Information Dealer Rauno",
+      "id": 3,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-3-information-dealer-rauno",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 3: Fortress Battle",
+      "id": 3,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-3-fortress-battle",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 3: Skill",
+      "id": 3,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-3-skill",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 3: Lyle and LYLE",
+      "id": 3,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-3-lyle-and-lyle",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 3: Beim Starts to Move",
+      "id": 3,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-3-beim-starts-to-move",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 3: Faction",
+      "id": 3,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-3-faction",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 3: Fame",
+      "id": 3,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-3-fame",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 3: Maizel Walt",
+      "id": 3,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-3-maizel-walt",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 3: Passing it All",
+      "id": 3,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-3-passing-it-all",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 3: Black Quilin Rummel",
+      "id": 3,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-3-black-quilin-rummel",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 4: Monster",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-4-monster",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 4: Blue and Red",
+      "id": 4,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-4-blue-and-red",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 4: Adventurer\u2019 Circumstances",
+      "id": 4,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-4-adventurer%E2%80%99-circumstances",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 4: Get Along",
+      "id": 4,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-4-get-along",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 4: Preparations",
+      "id": 4,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-4-preparations",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 4: The Third\u2019s Past",
+      "id": 4,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-4-the-third%E2%80%99s-past",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 4: Adventurers",
+      "id": 4,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-4-adventurers",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 4: The Leader\u2019s Job",
+      "id": 4,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-4-the-leader%E2%80%99s-job",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 4: Trouble, or Goddess of Fortune?",
+      "id": 4,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-4-trouble-or-goddess-of-fortune",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 4: Selva Falls",
+      "id": 4,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-4-selva-falls",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 4: The Ancestors + \u03b1\u2019s Plan",
+      "id": 4,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-4-the-ancestors-%CE%B1%E2%80%99s-plan",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 4: Galleria",
+      "id": 4,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-4-galleria",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 4: Unlovable Adventurer",
+      "id": 4,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-4-unlovable-adventurer",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 4: What did I Want?",
+      "id": 4,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-4-what-did-i-want",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 4: Betrayal",
+      "id": 4,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-4-betrayal",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 4: A Deep and Quiet Distraction",
+      "id": 4,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-4-a-deep-and-quiet-distraction",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 4: The Truth",
+      "id": 4,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-4-the-truth",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 4: Lyle and Celes",
+      "id": 4,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-4-lyle-and-celes",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 5: Dalien",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-5-dalien",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 5: The Birth of a Skill",
+      "id": 5,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-5-the-birth-of-a-skill",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 5: Clara Bulmer",
+      "id": 5,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-5-clara-bulmer",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 5: Clara\u2019s Adventurer Course",
+      "id": 5,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-5-clara%E2%80%99s-adventurer-course",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 5: March",
+      "id": 5,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-5-march",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 5: The Fourth\u2019s Memory",
+      "id": 5,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-5-the-fourth%E2%80%99s-memory",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 5: Fighting with Skills",
+      "id": 5,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-5-fighting-with-skills",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 5: The Departing Subjugatory Force",
+      "id": 5,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-5-the-departing-subjugatory-force",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 5: Holy Maiden Candidate",
+      "id": 5,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-5-holy-maiden-candidate",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 5: Lyle\u2019s Party",
+      "id": 5,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-5-lyle%E2%80%99s-party",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 5: Guild Personnel",
+      "id": 5,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-5-guild-personnel",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 5: Rusworth",
+      "id": 5,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-5-rusworth",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 5: A Journey of Nothing but Manly Men",
+      "id": 5,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-5-a-journey-of-nothing-but-manly-men",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 5: Young Fredricks",
+      "id": 5,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-5-young-fredricks",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 5: Plunder",
+      "id": 5,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-5-plunder",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 5: Lyle the Fortunate",
+      "id": 5,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-5-lyle-the-fortunate",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 5: Circry",
+      "id": 5,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-5-circry",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 5: Lyle\u2019s Fighting Style",
+      "id": 5,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-5-lyle%E2%80%99s-fighting-style",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 6: Adventurers\u2019 Guild",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-6-adventurers%E2%80%99-guild",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 6: Day Off",
+      "id": 6,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-6-day-off",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 6: Shannon who sees Another World",
+      "id": 6,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-6-shannon-who-sees-another-world",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 6: Shannon Circry",
+      "id": 6,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-6-shannon-circry",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 6: Johnny Village",
+      "id": 6,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-6-johnny-village",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 6: Omen",
+      "id": 6,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-6-omen",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 6: Harem Master",
+      "id": 6,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-6-harem-master",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 6: Alette Baillet",
+      "id": 6,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-6-alette-baillet",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 6: High Priest",
+      "id": 6,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-6-high-priest",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 6: Money",
+      "id": 6,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-6-money",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 6: Katana",
+      "id": 6,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-6-katana",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 6: Rule Book",
+      "id": 6,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-6-rule-book",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 6: Lyle\u2019s Party Aboard",
+      "id": 6,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-6-lyle%E2%80%99s-party-aboard",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 6: Aria\u2019s Profit",
+      "id": 6,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-6-aria%E2%80%99s-profit",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 6: Obligation",
+      "id": 6,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-6-obligation",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 6: Natural Enemy of Labyrinths",
+      "id": 6,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-6-natural-enemy-of-labyrinths",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 6: Round Table",
+      "id": 6,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-6-round-table",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 6: Laughing Celes",
+      "id": 6,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-6-laughing-celes",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 7: Money",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-7-money",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 7: Comrade",
+      "id": 7,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-7-comrade",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 7: Before Clearing a Labyrinth",
+      "id": 7,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-7-before-clearing-a-labyrinth",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 7: Lyle\u2019s Golem",
+      "id": 7,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-7-lyle%E2%80%99s-golem",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 7: Carpe Cardium",
+      "id": 7,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-7-carpe-cardium",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 7: Lianne Faunbeux",
+      "id": 7,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-7-lianne-faunbeux",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 7: May",
+      "id": 7,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-7-may",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 7: Precious Stone",
+      "id": 7,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-7-precious-stone",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 7: Runaway Son",
+      "id": 7,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-7-runaway-son",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 7: The Tr\u0113s Trading Company",
+      "id": 7,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-7-the-tr%C4%93s-trading-company",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 7: Damien and Old Letarta",
+      "id": 7,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-7-damien-and-old-letarta",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 7: Max Plan",
+      "id": 7,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-7-max-plan",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 7: Bandelphia",
+      "id": 7,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-7-bandelphia",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 7: Jules Parswall",
+      "id": 7,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-7-jules-parswall",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 7: Network",
+      "id": 7,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-7-network",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 7: Not Knowing is\u2026",
+      "id": 7,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-7-not-knowing-is%E2%80%A6",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 7: Confession",
+      "id": 7,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-7-confession",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 7: A Goddess Revived",
+      "id": 7,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-7-a-goddess-revived",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 8: Veteran Adventurer Zelphy",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-8-veteran-adventurer-zelphy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 8: Humans and Demons are Equally Favored",
+      "id": 8,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-8-humans-and-demons-are-equally-favored",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 8: Damien Valle",
+      "id": 8,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-8-damien-valle",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 8: Lyle\u2019s Answer",
+      "id": 8,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-8-lyle%E2%80%99s-answer",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 8: The Second\u2019s Memory",
+      "id": 8,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-8-the-second%E2%80%99s-memory",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 8: Fellow Pupil",
+      "id": 8,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-8-fellow-pupil",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 8: Connection",
+      "id": 8,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-8-connection",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 8: Peridot",
+      "id": 8,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-8-peridot",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 8: The Outsider of the Basement",
+      "id": 8,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-8-the-outsider-of-the-basement",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 8: The Vera Tr\u0113s",
+      "id": 8,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-8-the-vera-tr%C4%93s",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 8: Mrs Milleia",
+      "id": 8,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-8-mrs-milleia",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 8: Threat",
+      "id": 8,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-8-threat",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 8: Those Who Wait",
+      "id": 8,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-8-those-who-wait",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 8: The Kingdom of Bahnseim",
+      "id": 8,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-8-the-kingdom-of-bahnseim",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 8: Scant Difference",
+      "id": 8,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-8-scant-difference",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 8: Not a Problem",
+      "id": 8,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-8-not-a-problem",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 8: Illustrated Diary",
+      "id": 8,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-8-illustrated-diary",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 8: The Seventh",
+      "id": 8,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-8-the-seventh",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 9: An Adventurer Shouldn\u2019t be Adventurous",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-9-an-adventurer-shouldn%E2%80%99t-be-adventurous",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 9: The First Generation\u2019s Weapon",
+      "id": 9,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-9-the-first-generation%E2%80%99s-weapon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 9: Labyrinth Specialist",
+      "id": 9,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-9-labyrinth-specialist",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 9: Porter",
+      "id": 9,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-9-porter",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 9: Hippogryph",
+      "id": 9,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-9-hippogryph",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 9: Reunion",
+      "id": 9,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-9-reunion",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 9: A Journey of Memory",
+      "id": 9,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-9-a-journey-of-memory",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 9: Message",
+      "id": 9,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-9-message",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 9: Determination",
+      "id": 9,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-9-determination",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 9: Sahuagin Assault",
+      "id": 9,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-9-sahuagin-assault",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 9: A Labyrinth Out of Control",
+      "id": 9,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-9-a-labyrinth-out-of-control",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 9: Domestic Affairs",
+      "id": 9,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-9-domestic-affairs",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 9: Marina Against May",
+      "id": 9,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-9-marina-against-may",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 9: Revenge",
+      "id": 9,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-9-revenge",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 9: Wit",
+      "id": 9,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-9-wit",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 9: Ms. Lianne",
+      "id": 9,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-9-ms-lianne",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 9: Terrible Enough to Cry",
+      "id": 9,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-9-terrible-enough-to-cry",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 9: Sevens",
+      "id": 9,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-9-sevens",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 10: Lyle\u2019s Ability",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-10-lyle%E2%80%99s-ability",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 10: Lyle\u2019s Growth",
+      "id": 10,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-10-lyle%E2%80%99s-growth",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 10: Mind",
+      "id": 10,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-10-mind",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 10: Preparations to Conquer",
+      "id": 10,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-10-preparations-to-conquer",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 10: Gryphon",
+      "id": 10,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-10-gryphon",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 10: Celes\u2019 Ability",
+      "id": 10,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-10-celes%E2%80%99-ability",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 10: First Job in Beim",
+      "id": 10,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-10-first-job-in-beim",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 10: Beim\u2019s Receptionists",
+      "id": 10,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-10-beim%E2%80%99s-receptionists",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 10: Worse than Zayin",
+      "id": 10,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-10-worse-than-zayin",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 10: Trident",
+      "id": 10,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-10-trident",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 10: I Want to Stand Out!",
+      "id": 10,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-10-i-want-to-stand-out",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 10: The Fourth\u2019s Era",
+      "id": 10,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-10-the-fourth%E2%80%99s-era",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 10: Warp",
+      "id": 10,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-10-warp",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 10: Margrave",
+      "id": 10,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-10-margrave",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 10: The Worst Man",
+      "id": 10,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-10-the-worst-man",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 10: The Goddam Chicks",
+      "id": 10,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-10-the-goddam-chicks",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 10: Field Potatoes",
+      "id": 10,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-10-field-potatoes",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 10: Army of the Dead vs. Army of the Dead",
+      "id": 10,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-10-army-of-the-dead-vs-army-of-the-dead",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 11: First Love",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-11-first-love",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 11: The Start of the Walt House",
+      "id": 11,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-11-the-start-of-the-walt-house",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 11: A Woman\u2019s Back",
+      "id": 11,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-11-a-woman%E2%80%99s-back",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 11: Conquering Commence",
+      "id": 11,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-11-conquering-commence",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 11: The Young Commanders",
+      "id": 11,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-11-the-young-commanders",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 11: Septem",
+      "id": 11,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-11-septem",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 11: Surroundings",
+      "id": 11,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-11-surroundings",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 11: Rock-Headed Creit",
+      "id": 11,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-11-rock-headed-creit",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 11: The Fourth Camp",
+      "id": 11,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-11-the-fourth-camp",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 11: The Goddesses have a Thing for Those that Fight on",
+      "id": 11,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-11-the-goddesses-have-a-thing-for-those-that-fight-on",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 11: Look Ahead",
+      "id": 11,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-11-look-ahead",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 11: Stray High Minister",
+      "id": 11,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-11-stray-high-minister",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 11: Trap",
+      "id": 11,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-11-trap",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 11: Varius",
+      "id": 11,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-11-varius",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 11: Dead Men",
+      "id": 11,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-11-dead-men",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 11: Brod and Maizel",
+      "id": 11,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-11-brod-and-maizel",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 11: The Best of Lyle",
+      "id": 11,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-11-the-best-of-lyle",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 11: The Shape of a Family",
+      "id": 11,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-11-the-shape-of-a-family",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 12: First Generation, Basil Walt",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-12-first-generation-basil-walt",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 2 - Chapter 12: Desiring a Reunion",
+      "id": 12,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-chapter-12-desiring-a-reunion",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Chapter 12: Mr. Lyle",
+      "id": 12,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-12-mr-lyle",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 12: Pursuer",
+      "id": 12,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-12-pursuer",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 12: One on One",
+      "id": 12,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-12-one-on-one",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 12: Let Me Start Your Story",
+      "id": 12,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-12-let-me-start-your-story",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 12: Wild Beasts",
+      "id": 12,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-12-wild-beasts",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 12: The Form of a Party",
+      "id": 12,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-12-the-form-of-a-party",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 12: Holy Knight Brigade",
+      "id": 12,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-12-holy-knight-brigade",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 12: Trump Card",
+      "id": 12,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-12-trump-card",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 12: An Army of Monsters",
+      "id": 12,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-12-an-army-of-monsters",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 12: Letter",
+      "id": 12,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-12-letter",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 12: Those Who Move",
+      "id": 12,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-12-those-who-move",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 12: Mother",
+      "id": 12,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-12-mother",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 12: Merciless Blade",
+      "id": 12,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-12-merciless-blade",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 12: Address",
+      "id": 12,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-12-address",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 12: 0 (Nihil)",
+      "id": 12,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-12-0-nihil",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 12: Prospects of Victory",
+      "id": 12,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-12-prospects-of-victory",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 13: Even If You Call It Foolish",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-13-even-if-you-call-it-foolish",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 3 - Chapter 13: Novem Forxuz",
+      "id": 13,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-chapter-13-novem-forxuz",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Chapter 13: Targeted Comrades",
+      "id": 13,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-13-targeted-comrades",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Chapter 13: The Second Generation Head",
+      "id": 13,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-chapter-13-the-second-generation-head",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Chapter 13: Dissolution",
+      "id": 13,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-13-dissolution",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 13: Additional Request",
+      "id": 13,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-13-additional-request",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 13: BF Eight",
+      "id": 13,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-13-bf-eight",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 13: Royal Princess",
+      "id": 13,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-13-royal-princess",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 13: God of the Seas",
+      "id": 13,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-13-god-of-the-seas",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 13: Fortress Redant",
+      "id": 13,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-13-fortress-redant",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 13: Grand Restructure",
+      "id": 13,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-13-grand-restructure",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 13: A Tiger at the Front Gate, a Wolf at the Back",
+      "id": 13,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-13-a-tiger-at-the-front-gate-a-wolf-at-the-back",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 13: The Kingdom of Faunbeux",
+      "id": 13,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-13-the-kingdom-of-faunbeux",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 13: The Demon\u2019s Medicine",
+      "id": 13,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-13-the-demon%E2%80%99s-medicine",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 13: First Show of Hands",
+      "id": 13,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-13-first-show-of-hands",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 13: Moving Fortress",
+      "id": 13,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-13-moving-fortress",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 13: The True One",
+      "id": 13,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-13-the-true-one",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 14: An Easy Job, Where All You Have To Do Is Stand",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-14-an-easy-job-where-all-you-have-to-do-is-stand",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 4 - Chapter 14: Automaton",
+      "id": 14,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-chapter-14-automaton",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 6 - Chapter 14: The Maddening Metropolist",
+      "id": 14,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-chapter-14-the-maddening-metropolist",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Chapter 14: Solo",
+      "id": 14,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-14-solo",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 14: Eighth Floor Boss",
+      "id": 14,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-14-eighth-floor-boss",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 8 - Chapter 14: Once Upon a Time",
+      "id": 14,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-14-once-upon-a-time",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 14: The Other Side",
+      "id": 14,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-14-the-other-side",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 14: mr. lyle Reads Ahead",
+      "id": 14,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-14-mr-lyle-reads-ahead",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 14: Valkyrie",
+      "id": 14,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-14-valkyrie",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 14: Full Drive",
+      "id": 14,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-14-full-drive",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 14: Who was Being Chased Again?",
+      "id": 14,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-14-who-was-being-chased-again",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 14: Avengers of Faunbeux",
+      "id": 14,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-14-avengers-of-faunbeux",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 14: Sand Giant",
+      "id": 14,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-14-sand-giant",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 14: The Eighth Generation Head",
+      "id": 14,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-14-the-eighth-generation-head",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 14: Common Sense",
+      "id": 14,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-14-common-sense",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 14: Evil God or Goddess",
+      "id": 14,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-14-evil-god-or-goddess",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 15: Full Over",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-15-full-over",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 7 - Chapter 15: Quilin May",
+      "id": 15,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-15-quilin-may",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 15: Same Model",
+      "id": 15,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-15-same-model",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 8 - Chapter 15: Everyone\u2019s mr. lyle",
+      "id": 15,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-15-everyone%E2%80%99s-mr-lyle",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 15: Fiennes Walt",
+      "id": 15,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-15-fiennes-walt",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 15: the Northern Powers",
+      "id": 15,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-15-the-northern-powers",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 15: Retreat",
+      "id": 15,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-15-retreat",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 15: A Never-Ending Road",
+      "id": 15,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-15-a-never-ending-road",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 15: Arrival",
+      "id": 15,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-15-arrival",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 15: True Revenge",
+      "id": 15,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-15-true-revenge",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 15: \u2026 The Capital of Dreams",
+      "id": 15,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-15-%E2%80%A6-the-capital-of-dreams",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 15: First Joint Effort",
+      "id": 15,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-15-first-joint-effort",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 15: Return",
+      "id": 15,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-15-return",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 15: Can I Cry",
+      "id": 15,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-15-can-i-cry",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 16: Limit Burst",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-16-limit-burst",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 7 - Chapter 16: Trade",
+      "id": 16,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-16-trade",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 9 - Chapter 16: Selva\u2019s Assassin",
+      "id": 16,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-16-selva%E2%80%99s-assassin",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Chapter 16: The Queen of Cartaffs",
+      "id": 16,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-chapter-16-the-queen-of-cartaffs",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Chapter 16: The Second Wall",
+      "id": 16,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-16-the-second-wall",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 16: Uselyle",
+      "id": 16,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-16-uselyle",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 16: Poison that Rends Beim",
+      "id": 16,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-16-poison-that-rends-beim",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 16: Siblings",
+      "id": 16,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-16-siblings",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 16: Pincer Attack",
+      "id": 16,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-16-pincer-attack",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 16: Father and Son",
+      "id": 16,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-16-father-and-son",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 16: Brides of the Walt House",
+      "id": 16,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-16-brides-of-the-walt-house",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 16: Two Swords",
+      "id": 16,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-16-two-swords",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Chapter 17: Lyle\u2019s Ambition",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-chapter-17-lyle%E2%80%99s-ambition",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 7 - Chapter 17: Former Harlot",
+      "id": 17,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-17-former-harlot",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 17: Turn Around, and Press On",
+      "id": 17,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-17-turn-around-and-press-on",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 17: Sacred Knight",
+      "id": 17,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-17-sacred-knight",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 11 - Chapter 17: Fortress",
+      "id": 17,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-17-fortress",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 17: Fight More",
+      "id": 17,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-17-fight-more",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 17: Broken Heart",
+      "id": 17,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-17-broken-heart",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 17: Faunbeux\u2019s Decision",
+      "id": 17,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-17-faunbeux%E2%80%99s-decision",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 17: Festival",
+      "id": 17,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-17-festival",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Chapter 17: Father",
+      "id": 17,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-chapter-17-father",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Chapter 17: Cute Celes, Lovable Lyle",
+      "id": 17,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-17-cute-celes-lovable-lyle",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 17: The Walt House is Number One",
+      "id": 17,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-17-the-walt-house-is-number-one",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 7 - Chapter 18: Beim\u2019s Guild",
+      "id": 18,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-chapter-18-beim%E2%80%99s-guild",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Chapter 18: A Withering Labyrinth",
+      "id": 18,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-chapter-18-a-withering-labyrinth",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Chapter 18: Holy Knight Lyle",
+      "id": 18,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-chapter-18-holy-knight-lyle",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 11 - Chapter 18: Brother Maksim",
+      "id": 18,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-18-brother-maksim",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 18: The Witches",
+      "id": 18,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-18-the-witches",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Chapter 18: Who was Abandoned Again?",
+      "id": 18,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-chapter-18-who-was-abandoned-again",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Chapter 18: The Third One",
+      "id": 18,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-18-the-third-one",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 18: Lyle Walt Stands",
+      "id": 18,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-18-lyle-walt-stands",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 17 - Chapter 18: The Winning Horse",
+      "id": 18,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-18-the-winning-horse",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 18: An End and a Beginning",
+      "id": 18,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-18-an-end-and-a-beginning",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Epilogue",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-epilogue",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 11 - Chapter 19: A Mountain of Corpses",
+      "id": 19,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-19-a-mountain-of-corpses",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 19: Battlefield Tactician",
+      "id": 19,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-19-battlefield-tactician",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 14 - Chapter 19: The Legitimate Successor",
+      "id": 19,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-chapter-19-the-legitimate-successor",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Chapter 19: Wonder Child of the Walt House",
+      "id": 19,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-chapter-19-wonder-child-of-the-walt-house",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 17 - Chapter 19: Ties",
+      "id": 19,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-chapter-19-ties",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Chapter 19: Ties",
+      "id": 19,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-19-ties",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 1 - Questions Corner 1",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/sevens-volume-1-questions-corner-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Volume 11 - Chapter 20: Postwar Process",
+      "id": 20,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-chapter-20-postwar-process",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Chapter 20: LYLE and mr. lyle",
+      "id": 20,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-chapter-20-lyle-and-mr-lyle",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 18 - Chapter 20: A Blue Gem to my Heart",
+      "id": 20,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-chapter-20-a-blue-gem-to-my-heart",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 2 - Prologue",
+      "id": 21,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-prologue",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 2 - Epilogue",
+      "id": 34,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-epilogue",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 2 - Question Corner 2",
+      "id": 35,
+      "volume": 2,
+      "url": "http://boxnovel.org/sevens-volume-2-question-corner-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Volume 3 - Prologue",
+      "id": 36,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-prologue",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 3 - Epilogue",
+      "id": 50,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-epilogue",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 3 - Question Corner 3",
+      "id": 51,
+      "volume": 3,
+      "url": "http://boxnovel.org/sevens-volume-3-question-corner-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Volume 4 - Prologue",
+      "id": 52,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-prologue",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 4 - Epilogue",
+      "id": 67,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-epilogue",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 4 - Question Corner 4",
+      "id": 68,
+      "volume": 4,
+      "url": "http://boxnovel.org/sevens-volume-4-question-corner-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Volume 5 - Prologue",
+      "id": 69,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-prologue",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 5 - Epilogue",
+      "id": 83,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-epilogue",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 5 - Question Corner 5",
+      "id": 84,
+      "volume": 5,
+      "url": "http://boxnovel.org/sevens-volume-5-question-corner-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Volume 6 - Prologue",
+      "id": 85,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-prologue",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 6 - Epilogue",
+      "id": 100,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-epilogue",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 6 - Question Corner 6",
+      "id": 101,
+      "volume": 6,
+      "url": "http://boxnovel.org/sevens-volume-6-question-corner-6",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Volume 7 - Prologue",
+      "id": 102,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-prologue",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 7 - Epilogue",
+      "id": 121,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-epilogue",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 7 - Question Corner 7",
+      "id": 122,
+      "volume": 7,
+      "url": "http://boxnovel.org/sevens-volume-7-question-corner-7",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Volume 8 - Prologue",
+      "id": 123,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-prologue",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 8 - Epilogue",
+      "id": 143,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-epilogue",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 8 - Question Corner 8",
+      "id": 144,
+      "volume": 8,
+      "url": "http://boxnovel.org/sevens-volume-8-question-corner-8",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Volume 9 - Prologue",
+      "id": 145,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-prologue",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 9 - Epilogue",
+      "id": 164,
+      "volume": 9,
+      "url": "http://boxnovel.org/sevens-volume-9-epilogue",
+      "volume_title": "Volume 9"
+    },
+    {
+      "title": "Volume 10 - Prologue",
+      "id": 165,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-prologue",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 10 - Epilogue",
+      "id": 182,
+      "volume": 10,
+      "url": "http://boxnovel.org/sevens-volume-10-epilogue",
+      "volume_title": "Volume 10"
+    },
+    {
+      "title": "Volume 11 - Prologue",
+      "id": 183,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-prologue",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 11 - Epilogue",
+      "id": 204,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-epilogue",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 11 - Postscript Theater",
+      "id": 205,
+      "volume": 11,
+      "url": "http://boxnovel.org/sevens-volume-11-postscript-theater",
+      "volume_title": "Volume 11"
+    },
+    {
+      "title": "Volume 12 - Prologue",
+      "id": 206,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-prologue",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 12 - Epilogue",
+      "id": 227,
+      "volume": 12,
+      "url": "http://boxnovel.org/sevens-volume-12-epilogue",
+      "volume_title": "Volume 12"
+    },
+    {
+      "title": "Volume 13 - Prologue",
+      "id": 228,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-prologue",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 13 - Epilogue",
+      "id": 247,
+      "volume": 13,
+      "url": "http://boxnovel.org/sevens-volume-13-epilogue",
+      "volume_title": "Volume 13"
+    },
+    {
+      "title": "Volume 14 - Prologue",
+      "id": 248,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-prologue",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 14 - Epilogue",
+      "id": 268,
+      "volume": 14,
+      "url": "http://boxnovel.org/sevens-volume-14-epilogue",
+      "volume_title": "Volume 14"
+    },
+    {
+      "title": "Volume 15 - Prologue",
+      "id": 269,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-prologue",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 15 - Epilogue",
+      "id": 289,
+      "volume": 15,
+      "url": "http://boxnovel.org/sevens-volume-15-epilogue",
+      "volume_title": "Volume 15"
+    },
+    {
+      "title": "Volume 16 - Prologue",
+      "id": 290,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-prologue",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 16 - Epilogue",
+      "id": 308,
+      "volume": 16,
+      "url": "http://boxnovel.org/sevens-volume-16-epilogue",
+      "volume_title": "Volume 16"
+    },
+    {
+      "title": "Volume 17 - Prologue",
+      "id": 309,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-prologue",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 17 - Epilogue",
+      "id": 329,
+      "volume": 17,
+      "url": "http://boxnovel.org/sevens-volume-17-epilogue",
+      "volume_title": "Volume 17"
+    },
+    {
+      "title": "Volume 18 - Prologue",
+      "id": 330,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-prologue",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 18 - epilogue part1",
+      "id": 351,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-epilogue-part1",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 18 - epilogue part2",
+      "id": 352,
+      "volume": 18,
+      "url": "http://boxnovel.org/sevens-volume-18-epilogue-part2",
+      "volume_title": "Volume 18"
+    },
+    {
+      "title": "Volume 19 - aria arc",
+      "id": 353,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-aria-arc",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - vera arc",
+      "id": 354,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-vera-arc",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - shannon arc",
+      "id": 355,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-shannon-arc",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - novem arc",
+      "id": 356,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-novem-arc",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - miranda arc",
+      "id": 357,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-miranda-arc",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - the start",
+      "id": 358,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-the-start",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - last day",
+      "id": 359,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-last-day",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - erhart 1",
+      "id": 360,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-erhart-1",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - intermission 1",
+      "id": 361,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-intermission-1",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - intermission 2",
+      "id": 362,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-intermission-2",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - intermission 3",
+      "id": 363,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-intermission-3",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - intermission 4",
+      "id": 364,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-intermission-4",
+      "volume_title": "Volume 19"
+    },
+    {
+      "title": "Volume 19 - erhart 2",
+      "id": 365,
+      "volume": 19,
+      "url": "http://boxnovel.org/sevens-volume-19-erhart-2",
+      "volume_title": "Volume 19"
+    }
+  ],
+  "rtl": false
+}

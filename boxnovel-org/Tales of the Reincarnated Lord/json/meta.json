@@ -1,0 +1,4196 @@
+{
+  "url": "http://boxnovel.org/novel/tales-of-the-reincarnated-lord",
+  "title": "Tales of the Reincarnated Lord",
+  "author": "\u70df\u672c\u662f\u9053 (Smoke Is A Path)",
+  "cover": "https://2.bp.blogspot.com/-HMcsz-WTgMk/XbBsa4x4oHI/AAAAAAAAHmE/mnzf2sJf5LgleyggBbZqykmql26niH7uwCLcBGAsYHQ/s320/tales-of-the-reincarnated-lord-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 101,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 100,
+      "final_chapter": 300,
+      "start_chapter": 201
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 100,
+      "final_chapter": 400,
+      "start_chapter": 301
+    },
+    {
+      "id": 5,
+      "title": "Volume 5",
+      "volume": "5",
+      "chapter_count": 100,
+      "final_chapter": 500,
+      "start_chapter": 401
+    },
+    {
+      "id": 6,
+      "title": "Volume 6",
+      "volume": "6",
+      "chapter_count": 90,
+      "final_chapter": 590,
+      "start_chapter": 501
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Prologue",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-prologue",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 1 Red Grace Inn (1)",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-1-red-grace-inn-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2 Red Grace Inn (2)",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-2-red-grace-inn-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3 Dawn Academy (1)",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-3-dawn-academy-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4 Dawn Academy (2)",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-4-dawn-academy-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5 Young Noble",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-5-young-noble",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6 The Origins of Battle Force",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-6-the-origins-of-battle-force",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7 The First Days since Reincarnation",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-7-the-first-days-since-reincarnation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8 Battle Force and His Days as a Mercenary",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-8-battle-force-and-his-days-as-a-mercenary",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9 Dynamic Vision",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-9-dynamic-vision",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10 Aquametal Technique",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-10-aquametal-technique",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11 Incador Medal",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-11-incador-medal",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12 The Pawn and the Announcement",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-12-the-pawn-and-the-announcement",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13 Academy Head Levins",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-13-academy-head-levins",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14 Lakefront Residence",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-14-lakefront-residence",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15 A Fleeting Moonlit Dream (1)",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-15-a-fleeting-moonlit-dream-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16 A Fleeting Moonlit Dream (2)",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-16-a-fleeting-moonlit-dream-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17 A Fleeting Moonlit Dream (3)",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-17-a-fleeting-moonlit-dream-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18 A Fleeting Moonlit Dream (4)",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-18-a-fleeting-moonlit-dream-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19 A Fleeting Moonlit Dream (5)",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-19-a-fleeting-moonlit-dream-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20 A Fleeting Moonlit Dream (6)",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-20-a-fleeting-moonlit-dream-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21 A Fleeting Moonlit Dream (7)",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-21-a-fleeting-moonlit-dream-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22 Locke and Els (1)",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-22-locke-and-els-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23 Locke and Els (2)",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-23-locke-and-els-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24 Locke and Els (3)",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-24-locke-and-els-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25 Locke and Els (4)",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-25-locke-and-els-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26 Els\u2019s Request",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-26-els%E2%80%99s-request",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27 Final Preparations",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-27-final-preparations",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28 Selling Books And Requesting Help",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-28-selling-books-and-requesting-help",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29 Settling Bills at The Inn",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-29-settling-bills-at-the-inn",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30 Battle Force Awakening Course",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-30-battle-force-awakening-course",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31 Pulse Reading (1)",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-31-pulse-reading-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32 Pulse Reading (2)",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-32-pulse-reading-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33 Journal Entries and The Duels",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-33-journal-entries-and-the-duels",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34 Dueling Period",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-34-dueling-period",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35 President Peterson\u2019s Thanks",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-35-president-peterson%E2%80%99s-thanks",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36 Attendant and Carriage",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-36-attendant-and-carriage",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37 Ambush on the Streets",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-37-ambush-on-the-streets",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38 Counter Kill",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-38-counter-kill",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39 Aftermath",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-39-aftermath",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40 The Duels Continue",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-40-the-duels-continue",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41 Counting Earnings and Beggars",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-41-counting-earnings-and-beggars",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42 Arrival of the People from the Family",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-42-arrival-of-the-people-from-the-family",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43 Troubles Within the Family",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-43-troubles-within-the-family",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44 The Fanatical Female Students",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-44-the-fanatical-female-students",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45 The Decision",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-45-the-decision",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46 Convoy Plans and the Oath of Allegiance",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-46-convoy-plans-and-the-oath-of-allegiance",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47 Knights and Gifts",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-47-knights-and-gifts",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48 Northbound Journey Strategy",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-48-northbound-journey-strategy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49 The Academy Armory",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-49-the-academy-armory",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50 In Which Els Reports for Duty",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-50-in-which-els-reports-for-duty",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51 The Sloph Slavers",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-51-the-sloph-slavers",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52 Slaughter",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-52-slaughter",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53 Occupying the Bastide",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-53-occupying-the-bastide",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54 Reorganization and Maidservants",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-54-reorganization-and-maidservants",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55 Ambush and the Yields",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-55-ambush-and-the-yields",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56 Baron Miranda",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-56-baron-miranda",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57 Various Preparations for the Journey",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-57-various-preparations-for-the-journey",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58 The Journey North Begins",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-58-the-journey-north-begins",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59 Kill Them All",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-59-kill-them-all",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60 Camp Intrusion and Takeover",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-60-camp-intrusion-and-takeover",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61 Arrival of the Convoy",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-61-arrival-of-the-convoy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62 Offense and Defense",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-62-offense-and-defense",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63 Breaching the Camp",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-63-breaching-the-camp",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64 Winter Night Massacre",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-64-winter-night-massacre",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65 Conclusion and Reorganization",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-65-conclusion-and-reorganization",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66 Mister Tim",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-66-mister-tim",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67 Josk\u2019s Wish",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-67-josk%E2%80%99s-wish",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68 Strategizing",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-68-strategizing",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69 The Battle Begins",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-69-the-battle-begins",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70 Troop Deployment",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-70-troop-deployment",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71 Success",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-71-success",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72 Freiyar",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-72-freiyar",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73 Trust",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-73-trust",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74 Surprise Attack Successful",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-74-surprise-attack-successful",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75 The Final Assault",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-75-the-final-assault",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76 Rounding",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-76-rounding",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77 Conference of the Nobles",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-77-conference-of-the-nobles",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78 On the Road",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-78-on-the-road",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79 A Withered Tree Crumbles Easily",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-79-a-withered-tree-crumbles-easily",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80 Forming yet Another Convoy",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-80-forming-yet-another-convoy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81 Telesti",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-81-telesti",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82 Viscount Kermas",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-82-viscount-kermas",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83 River-Crossing and Arrival",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-83-river-crossing-and-arrival",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84 Takeover",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-84-takeover",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85 The Plan of the Kenmays Family",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-85-the-plan-of-the-kenmays-family",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86 Construction Staff Appointment",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-86-construction-staff-appointment",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87 Homecoming",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-87-homecoming",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88 Power Struggle Rumors",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-88-power-struggle-rumors",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89 Inheritance Ceremony",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-89-inheritance-ceremony",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90 Three Chief Supervisors and Irina",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-90-three-chief-supervisors-and-irina",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91 Sword Crisis",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-91-sword-crisis",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92 Knight Belnick",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-92-knight-belnick",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93 Enticement",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-93-enticement",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94 Midway Skirmish",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-94-midway-skirmish",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95 Family\u2019s Forbidden Area",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-95-family%E2%80%99s-forbidden-area",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96 Whitedeer Mound, Bread and the Slave Camp",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-96-whitedeer-mound-bread-and-the-slave-camp",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97 Mercenaries and Metal Armor",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-97-mercenaries-and-metal-armor",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98 Lorist\u2019s Plan",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-98-lorist%E2%80%99s-plan",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99 Maplewoods Bastide",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-99-maplewoods-bastide",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100 Barbarians, Gold Mine and Plotting",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-100-barbarians-gold-mine-and-plotting",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101 Mistakes",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-101-mistakes",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102 Trap",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-102-trap",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103 Melee Outbreak",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-103-melee-outbreak",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104 Bloodshed and Remorse",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-104-bloodshed-and-remorse",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105 Repercussions",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-105-repercussions",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106 Reward",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-106-reward",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107 Supply Transportation",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-107-supply-transportation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108 The Pitiful Grandmaster Ciroba",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-108-the-pitiful-grandmaster-ciroba",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109 A Meeting with Telesti",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-109-a-meeting-with-telesti",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110 Intermission",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-110-intermission",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111 Breakthrough",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-111-breakthrough",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112 Blissful Night Life",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-112-blissful-night-life",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113 The Chosen Location and the Duel",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-113-the-chosen-location-and-the-duel",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114 News of the Mountain Barbarians",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-114-news-of-the-mountain-barbarians",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115 An Unwelcome Guest",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-115-an-unwelcome-guest",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116 Baron Camorra",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-116-baron-camorra",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117 Tabik's Demand",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-117-tabiks-demand",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118 The Issue of Compensation",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-118-the-issue-of-compensation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119 The Decision to Deploy",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-119-the-decision-to-deploy",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120 The Days of the Expedition",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-120-the-days-of-the-expedition",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121 Duke Loggins's Plot",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-121-duke-logginss-plot",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122 Return in Futility",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-122-return-in-futility",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123 Urgent Reinforcement Request",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-123-urgent-reinforcement-request",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124 Warzone Merchants",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-124-warzone-merchants",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125 Battles of Nobles",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-125-battles-of-nobles",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126 Knight Carnival",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-126-knight-carnival",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127 The Plot of the Kenmays Family Head",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-127-the-plot-of-the-kenmays-family-head",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128 Request for Peace",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-128-request-for-peace",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129 Knight Waxima",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-129-knight-waxima",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130 Troop Deployment",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-130-troop-deployment",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131 The Massacre and the Suspension Bridge",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-131-the-massacre-and-the-suspension-bridge",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132 Josk's Fire Arrows",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-132-josks-fire-arrows",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133 Rolling Boulders",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-133-rolling-boulders",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134 Surprise Takeover",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-134-surprise-takeover",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135 Completion",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-135-completion",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136 Out of Options",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-136-out-of-options",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137 Aftermath Matters",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-137-aftermath-matters",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138 News of the Kenmays Family",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-138-news-of-the-kenmays-family",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139 Celebratory Banquet",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-139-celebratory-banquet",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140 Shock",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-140-shock",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141 The Whereabouts of the Convoy",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-141-the-whereabouts-of-the-convoy",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142 Charade the Demon",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-142-charade-the-demon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143 The Experiences of the Messengers",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-143-the-experiences-of-the-messengers",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144 Hennard's Ransom",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-144-hennards-ransom",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145 Release",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-145-release",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146 Departure",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-146-departure",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147 Dilemma",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-147-dilemma",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148 The Mounted Archers Unit",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-148-the-mounted-archers-unit",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149 Blockade",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-149-blockade",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150 Small Mountain Village",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-150-small-mountain-village",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151 Bypass",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-151-bypass",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152 Noble Rank Elevation",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-152-noble-rank-elevation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153 Trivial Problems",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-153-trivial-problems",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154 Lorist's Strategy",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-154-lorists-strategy",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155 The Citadel's Weakness",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-155-the-citadels-weakness",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156 Kill During the Darkness of the Night",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-156-kill-during-the-darkness-of-the-night",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157 Burn When the Winds Are Strong",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-157-burn-when-the-winds-are-strong",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158 Worriless Journey North",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-158-worriless-journey-north",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159 Assault During a Snowy Night",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-159-assault-during-a-snowy-night",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160 Strategies and Plans",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-160-strategies-and-plans",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161 The Long Wintery Night",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-161-the-long-wintery-night",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162 Gentle Spring Rain",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-162-gentle-spring-rain",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163 River Crossing",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-163-river-crossing",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164 Conditions and Request",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-164-conditions-and-request",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165 Plunder, Move, and Destroy",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-165-plunder-move-and-destroy",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166 Battle Preparations at Firmrock Castle",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-166-battle-preparations-at-firmrock-castle",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167 Auguslo's Counterattack",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-167-auguslos-counterattack",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168 Female Unit",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-168-female-unit",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169 Felicitas Settlement",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-169-felicitas-settlement",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170 Ridden with Matters",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-170-ridden-with-matters",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171 Female Secretary",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-171-female-secretary",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172 Messenger and Alliance",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-172-messenger-and-alliance",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173 Top Kek",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-173-top-kek",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174 Magical Beast Wave",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-174-magical-beast-wave",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175 Central Town",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-175-central-town",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176 Goats in the Town",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-176-goats-in-the-town",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177 Wrapping Up",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-177-wrapping-up",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178 Ballistas and Metal Materials",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-178-ballistas-and-metal-materials",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179 Daily Life Within the Dominion",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-179-daily-life-within-the-dominion",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180 Count Kenmays's Visit",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-180-count-kenmayss-visit",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181 Facing the Magical Beast Wave Again",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-181-facing-the-magical-beast-wave-again",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182 Military Reorganization",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-182-military-reorganization",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183 Sid Steel Armor",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-183-sid-steel-armor",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184 Princess Sylvia",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-184-princess-sylvia",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185 Count Kenmays's Letter",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-185-count-kenmayss-letter",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186 A New Sea Port",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-186-a-new-sea-port",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187 Development Plans",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-187-development-plans",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188 The Ultimatum",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-188-the-ultimatum",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189 The Onset of War",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-189-the-onset-of-war",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190 Before the Battle",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-190-before-the-battle",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191 Ballista Storm",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-191-ballista-storm",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192 The Unfortunate Blademaster",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-192-the-unfortunate-blademaster",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193 Confrontation with Princess Sylvia",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-193-confrontation-with-princess-sylvia",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194 Victor of the Duel",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-194-victor-of-the-duel",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195 Four Family Alliance",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-195-four-family-alliance",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196 Prisoners and Letter",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-196-prisoners-and-letter",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197 Escort",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-197-escort",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198 Settling Down",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-198-settling-down",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199 Master-Disciple Conversation",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-199-master-disciple-conversation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200 Reidy's Request",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-200-reidys-request",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201 A Failed Experiment",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-201-a-failed-experiment",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202 Assaulted [Cliffhanger 1 of 5]",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-202-assaulted-cliffhanger-1-of-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203 Grueling Battle [Cliffhanger 2 of 5]",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-203-grueling-battle-cliffhanger-2-of-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204 Bloody Battle [Cliffhanger 3 of 5]",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-204-bloody-battle-cliffhanger-3-of-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205 Executed [Cliffhanger 4 of 5]",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-205-executed-cliffhanger-4-of-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206 Enslaved [Cliffhanger 5 of 5]",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-206-enslaved-cliffhanger-5-of-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207 Mortification",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-207-mortification",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208 Wooden Shack",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-208-wooden-shack",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209 House-building",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-209-house-building",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210 Barbarians",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-210-barbarians",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211 Departure",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-211-departure",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212 Setting Out",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-212-setting-out",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213 Analysis",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-213-analysis",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214 Royal Capital",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-214-royal-capital",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215 Arrangements",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-215-arrangements",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216 The Decision of the Duke",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-216-the-decision-of-the-duke",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217 Visit",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-217-visit",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218 Whale Island",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-218-whale-island",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219 Grandmaster Sid",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-219-grandmaster-sid",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220 Flying Fish of Dawn",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-220-flying-fish-of-dawn",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221 Tax Collection",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-221-tax-collection",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222 Arrival of the Dominion Lord",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-222-arrival-of-the-dominion-lord",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223 Tax Collector",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-223-tax-collector",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224 Hector",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-224-hector",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225 Whitebird Restaurant",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-225-whitebird-restaurant",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226 Farama Village",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-226-farama-village",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227 Imperial Capital",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-227-imperial-capital",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228 Paradise Gathering",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-228-paradise-gathering",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 229 Davey and the Princess",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-229-davey-and-the-princess",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 230 Face-smacking",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-230-face-smacking",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 231 Flipping Out",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-231-flipping-out",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 232 Leaving",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-232-leaving",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 233 Breaching Five Camps in the Night",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-233-breaching-five-camps-in-the-night",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 234 Investigation",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-234-investigation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 235 Discussion",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-235-discussion",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 236 Heading to Morante City",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-236-heading-to-morante-city",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 237 At Sea",
+      "id": 237,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-237-at-sea",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 238 Matters Back at Home",
+      "id": 238,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-238-matters-back-at-home",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 239 Port Troubles",
+      "id": 239,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-239-port-troubles",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 240 The Secret of Gunpowder",
+      "id": 240,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-240-the-secret-of-gunpowder",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 241 Glassmith",
+      "id": 241,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-241-glassmith",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 242 The Curious Case of Luxcrimson Winery",
+      "id": 242,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-242-the-curious-case-of-luxcrimson-winery",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 243 Unforeseen Changes",
+      "id": 243,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-243-unforeseen-changes",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 244 Shocking Developments",
+      "id": 244,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-244-shocking-developments",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 245 Two Letters",
+      "id": 245,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-245-two-letters",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 246 Blockade at Sea",
+      "id": 246,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-246-blockade-at-sea",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 247 Bathing in Blood [Cliffhanger 2 of 3]",
+      "id": 247,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-247-bathing-in-blood-cliffhanger-2-of-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 248 Escape [Cliffhanger 3 of 3]",
+      "id": 248,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-248-escape-cliffhanger-3-of-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249 Senbaud",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-249-senbaud",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 250 Threat and Expropriation",
+      "id": 250,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-250-threat-and-expropriation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 251 Dispute within the Chikdor Merchant Guild (1)",
+      "id": 251,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-251-dispute-within-the-chikdor-merchant-guild-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 252 Dispute within the Chikdor Merchant Guild (2)",
+      "id": 252,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-252-dispute-within-the-chikdor-merchant-guild-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 253 Mayflower Merchant Guild Assault Incident",
+      "id": 253,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-253-mayflower-merchant-guild-assault-incident",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 254 Setup and Counters",
+      "id": 254,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-254-setup-and-counters",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 255 The Glass War",
+      "id": 255,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-255-the-glass-war",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 256 The Haphazard War",
+      "id": 256,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-256-the-haphazard-war",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 257 Clash of the High-Tiers",
+      "id": 257,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-257-clash-of-the-high-tiers",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 258 President Peterson's Conditions",
+      "id": 258,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-258-president-petersons-conditions",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 259 The Second Highness's Assault",
+      "id": 259,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-259-the-second-highnesss-assault",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 260 The 5th Day of the 4th Month",
+      "id": 260,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-260-the-5th-day-of-the-4th-month",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 261 Furybear",
+      "id": 261,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-261-furybear",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 262 The First and Third Young Masters",
+      "id": 262,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-262-the-first-and-third-young-masters",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 263 Research and Improvements",
+      "id": 263,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-263-research-and-improvements",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 264 Firearms, War News, and the Nightmare",
+      "id": 264,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-264-firearms-war-news-and-the-nightmare",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 265 Assault from the Hanayabarta Kingdom",
+      "id": 265,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-265-assault-from-the-hanayabarta-kingdom",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 266 The Aftermath and the March into Battle",
+      "id": 266,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-266-the-aftermath-and-the-march-into-battle",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 267 The Wait",
+      "id": 267,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-267-the-wait",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 268 The Terrible State of Silowas",
+      "id": 268,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-268-the-terrible-state-of-silowas",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 269 The First Household Blademaster",
+      "id": 269,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-269-the-first-household-blademaster",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 270 Meeting of the Four Families",
+      "id": 270,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-270-meeting-of-the-four-families",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 271 Battle Report",
+      "id": 271,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-271-battle-report",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 272 The Death of Duke Urubaha",
+      "id": 272,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-272-the-death-of-duke-urubaha",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 273 Before the Expedition",
+      "id": 273,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-273-before-the-expedition",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 274 Money of All Things Comes the Fastest",
+      "id": 274,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-274-money-of-all-things-comes-the-fastest",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 275 Battle on Shore",
+      "id": 275,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-275-battle-on-shore",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 276 Karman",
+      "id": 276,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-276-karman",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 277 Hector and the Slave Camp",
+      "id": 277,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-277-hector-and-the-slave-camp",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 278 News from Tarkel",
+      "id": 278,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-278-news-from-tarkel",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 279 Changing Strategic Arrangements",
+      "id": 279,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-279-changing-strategic-arrangements",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 280 Encounter",
+      "id": 280,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-280-encounter",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 281 Setup",
+      "id": 281,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-281-setup",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 282 Arrival",
+      "id": 282,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-282-arrival",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 283 Royal Capital",
+      "id": 283,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-283-royal-capital",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 284 Drunken",
+      "id": 284,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-284-drunken",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 285 Dueling Grounds",
+      "id": 285,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-285-dueling-grounds",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 286 Three Floors Underground",
+      "id": 286,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-286-three-floors-underground",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 287 Taking Action",
+      "id": 287,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-287-taking-action",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 288 Secret Path",
+      "id": 288,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-288-secret-path",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 289 Trap",
+      "id": 289,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-289-trap",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 290 The Ploy",
+      "id": 290,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-290-the-ploy",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 291 The Persuasion",
+      "id": 291,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-291-the-persuasion",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 292 Termination",
+      "id": 292,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-292-termination",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 293 The Death of a Nation",
+      "id": 293,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-293-the-death-of-a-nation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 294 Arrangements",
+      "id": 294,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-294-arrangements",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 295 Dread Monument",
+      "id": 295,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-295-dread-monument",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 296 Garrison Division",
+      "id": 296,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-296-garrison-division",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 297 Surrender",
+      "id": 297,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-297-surrender",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 298 Shocking News",
+      "id": 298,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-298-shocking-news",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 299 Reconcilliation",
+      "id": 299,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-299-reconcilliation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 300 Refusal",
+      "id": 300,
+      "volume": 3,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-300-refusal",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 301 Jillin Harbor",
+      "id": 301,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-301-jillin-harbor",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 302 The Child's Play Siege",
+      "id": 302,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-302-the-childs-play-siege",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 303 Anna and Arri",
+      "id": 303,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-303-anna-and-arri",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 304 The God of War's End",
+      "id": 304,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-304-the-god-of-wars-end",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 305 The Odd Situation",
+      "id": 305,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-305-the-odd-situation",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 306 Return to Morante",
+      "id": 306,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-306-return-to-morante",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 307 The Plight of Dawn Academy",
+      "id": 307,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-307-the-plight-of-dawn-academy",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 308 Nostalgia",
+      "id": 308,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-308-nostalgia",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 309 Dauslyke Hotel",
+      "id": 309,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-309-dauslyke-hotel",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 310 President Bejisanro",
+      "id": 310,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-310-president-bejisanro",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 311 Preparations",
+      "id": 311,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-311-preparations",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 312 Arson",
+      "id": 312,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-312-arson",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 313 Closing Act",
+      "id": 313,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-313-closing-act",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 314 Ridden with Matters",
+      "id": 314,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-314-ridden-with-matters",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 315 Reasons for Coming",
+      "id": 315,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-315-reasons-for-coming",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 316 Huge Purchase",
+      "id": 316,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-316-huge-purchase",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 317 Charade Returns from Seclusion",
+      "id": 317,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-317-charade-returns-from-seclusion",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 318 Viscount Eidis",
+      "id": 318,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-318-viscount-eidis",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 319 The Duke's Welcome",
+      "id": 319,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-319-the-dukes-welcome",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 320 Welcoming Banquet",
+      "id": 320,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-320-welcoming-banquet",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 321 Count Chujway's Narrative",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-321-count-chujways-narrative",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 322 Duel",
+      "id": 322,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-322-duel",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 323 Intelligence Center",
+      "id": 323,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-323-intelligence-center",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 324 The Tournament Begins",
+      "id": 324,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-324-the-tournament-begins",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 325 Three Requests",
+      "id": 325,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-325-three-requests",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 326 Apologies",
+      "id": 326,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-326-apologies",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 327 The Princess's Heart",
+      "id": 327,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-327-the-princesss-heart",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 328 Missed Initiative",
+      "id": 328,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-328-missed-initiative",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 329 Dominion Replacement",
+      "id": 329,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-329-dominion-replacement",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 330 Plan of Attack",
+      "id": 330,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-330-plan-of-attack",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 331 Incident and New Equipment",
+      "id": 331,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-331-incident-and-new-equipment",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 332 The Trouble with Compact Crossbows",
+      "id": 332,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-332-the-trouble-with-compact-crossbows",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 333 Arrival of the Second Highness",
+      "id": 333,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-333-arrival-of-the-second-highness",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 334 Refusal",
+      "id": 334,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-334-refusal",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 335 Reinforcement",
+      "id": 335,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-335-reinforcement",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 336 Negotiations",
+      "id": 336,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-336-negotiations",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 337 Conditions",
+      "id": 337,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-337-conditions",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 338 Pledging Allegiance",
+      "id": 338,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-338-pledging-allegiance",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 339 Lobbying",
+      "id": 339,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-339-lobbying",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 340 Regret",
+      "id": 340,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-340-regret",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 341 Landing",
+      "id": 341,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-341-landing",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 342 Occupation",
+      "id": 342,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-342-occupation",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 343 Suggestion",
+      "id": 343,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-343-suggestion",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 344 Reason",
+      "id": 344,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-344-reason",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 345 An Audience",
+      "id": 345,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-345-an-audience",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 346 Settling Debt",
+      "id": 346,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-346-settling-debt",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 347 Letter",
+      "id": 347,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-347-letter",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 348 Gold Coins (1)",
+      "id": 348,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-348-gold-coins-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 349 Gold Coins (2)",
+      "id": 349,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-349-gold-coins-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 350 Bank, Entitlement and Real Estate",
+      "id": 350,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-350-bank-entitlement-and-real-estate",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 351 Update on Catapults and Cannons",
+      "id": 351,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-351-update-on-catapults-and-cannons",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 352 Reidy's Encounters",
+      "id": 352,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-352-reidys-encounters",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 353 Ambush, Pursuit and Assault",
+      "id": 353,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-353-ambush-pursuit-and-assault",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 354 Demongrass Swamp",
+      "id": 354,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-354-demongrass-swamp",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 355 Gold Eagle",
+      "id": 355,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-355-gold-eagle",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 356 Second Highness, The Path Seeker",
+      "id": 356,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-356-second-highness-the-path-seeker",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 357 The Second Highness's Strategy",
+      "id": 357,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-357-the-second-highnesss-strategy",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 358 Made it in Time",
+      "id": 358,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-358-made-it-in-time",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 359 Captive",
+      "id": 359,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-359-captive",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 360 Igloo",
+      "id": 360,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-360-igloo",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 361 Drinking Session",
+      "id": 361,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-361-drinking-session",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 362 Surprising Pledge of Loyalty",
+      "id": 362,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-362-surprising-pledge-of-loyalty",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 363 Banquet and Entitlement",
+      "id": 363,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-363-banquet-and-entitlement",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 364 Strategy and Deployment Meeting",
+      "id": 364,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-364-strategy-and-deployment-meeting",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 365 Rainy Season",
+      "id": 365,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-365-rainy-season",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 366 Extermination",
+      "id": 366,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-366-extermination",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 367 City Entrance",
+      "id": 367,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-367-city-entrance",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 368 Escape",
+      "id": 368,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-368-escape",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 369 Pursuit",
+      "id": 369,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-369-pursuit",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 370 Humiliation of the Duke",
+      "id": 370,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-370-humiliation-of-the-duke",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 371 Arrival",
+      "id": 371,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-371-arrival",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 372 Tower Defense Tactic",
+      "id": 372,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-372-tower-defense-tactic",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 373 Onset of a Great Battle",
+      "id": 373,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-373-onset-of-a-great-battle",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 374 Open-Field Battle Preparation",
+      "id": 374,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-374-open-field-battle-preparation",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 375 Victory",
+      "id": 375,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-375-victory",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 376 Retreat",
+      "id": 376,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-376-retreat",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 377 Boblige Mountain Range",
+      "id": 377,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-377-boblige-mountain-range",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 378 Two Pieces of Bad News",
+      "id": 378,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-378-two-pieces-of-bad-news",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 379 Eidelwoke",
+      "id": 379,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-379-eidelwoke",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 380 100 Thousand Barbarian Cavalry",
+      "id": 380,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-380-100-thousand-barbarian-cavalry",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 381 The Bloody Battle of Pedro (1)",
+      "id": 381,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-381-the-bloody-battle-of-pedro-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 382 The Bloody Battle of Pedro (2)",
+      "id": 382,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-382-the-bloody-battle-of-pedro-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 383 The Eccentric Queen",
+      "id": 383,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-383-the-eccentric-queen",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 384 Scheme",
+      "id": 384,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-384-scheme",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 385 Galini Beloput",
+      "id": 385,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-385-galini-beloput",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 386 Three Requests",
+      "id": 386,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-386-three-requests",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 387 Property and Taxes",
+      "id": 387,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-387-property-and-taxes",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 388 Mayor Doboff",
+      "id": 388,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-388-mayor-doboff",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 389 Barbarians and Gold Mine",
+      "id": 389,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-389-barbarians-and-gold-mine",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 390 Jaeger's Consolidation",
+      "id": 390,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-390-jaegers-consolidation",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 391 Persuasion",
+      "id": 391,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-391-persuasion",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 392 Admitting Loss",
+      "id": 392,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-392-admitting-loss",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 393 The Barbarians Cometh",
+      "id": 393,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-393-the-barbarians-cometh",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 394 Defeating the Barbarians",
+      "id": 394,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-394-defeating-the-barbarians",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 395 Gold Mine Obtained",
+      "id": 395,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-395-gold-mine-obtained",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 396 Insomnia",
+      "id": 396,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-396-insomnia",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 397 Untitled",
+      "id": 397,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-397-untitled",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 398 Decision",
+      "id": 398,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-398-decision",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 399 Effect",
+      "id": 399,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-399-effect",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 400 Right of Inheritance",
+      "id": 400,
+      "volume": 4,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-400-right-of-inheritance",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 401 Way to Settle the Debt",
+      "id": 401,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-401-way-to-settle-the-debt",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter402 Marital Bliss",
+      "id": 403,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter402-marital-bliss",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 403 Negotiations",
+      "id": 403,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-403-negotiations",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 404 Salt Merchant Committee",
+      "id": 404,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-404-salt-merchant-committee",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 405 The Storm Brews Again",
+      "id": 405,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-405-the-storm-brews-again",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 406 Inspection",
+      "id": 406,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-406-inspection",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 407 The Oddity of the Second Highness",
+      "id": 407,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-407-the-oddity-of-the-second-highness",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 408 Carriage Track",
+      "id": 408,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-408-carriage-track",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 409 War in the South",
+      "id": 409,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-409-war-in-the-south",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 410 Before the Grand Wedding",
+      "id": 410,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-410-before-the-grand-wedding",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 411 The Wedding",
+      "id": 411,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-411-the-wedding",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 412 Survey",
+      "id": 412,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-412-survey",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 413 Second Highness's Scheme",
+      "id": 413,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-413-second-highnesss-scheme",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 414 Changes",
+      "id": 414,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-414-changes",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 415 Crossing the Border",
+      "id": 415,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-415-crossing-the-border",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 416 Meeting",
+      "id": 416,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-416-meeting",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 417 The Allies",
+      "id": 417,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-417-the-allies",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 418 Plotting",
+      "id": 418,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-418-plotting",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 419 Declaration",
+      "id": 419,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-419-declaration",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 420 The Battle Begins",
+      "id": 420,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-420-the-battle-begins",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 421 War",
+      "id": 421,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-421-war",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 422 Trenches and Mud Walls",
+      "id": 422,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-422-trenches-and-mud-walls",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 423 Stalemate",
+      "id": 423,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-423-stalemate",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 424 Flooding",
+      "id": 424,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-424-flooding",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 425 The Two Dukes' Decisions",
+      "id": 425,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-425-the-two-dukes-decisions",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 426 Rescue",
+      "id": 426,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-426-rescue",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 427 Migration",
+      "id": 427,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-427-migration",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 428 Hot Spring Valley",
+      "id": 428,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-428-hot-spring-valley",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 429 Word of the Swordsaint",
+      "id": 429,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-429-word-of-the-swordsaint",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 430 Method",
+      "id": 430,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-430-method",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 431 Three Methods (1)",
+      "id": 431,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-431-three-methods-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 432 Three Methods (2)",
+      "id": 432,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-432-three-methods-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 433 All Quiet on the Southern Front",
+      "id": 433,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-433-all-quiet-on-the-southern-front",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 434 The Line of Succession",
+      "id": 434,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-434-the-line-of-succession",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 435 Round Up and Hunt",
+      "id": 435,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-435-round-up-and-hunt",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 436 Envoy and Conditions",
+      "id": 436,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-436-envoy-and-conditions",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 437 Moonlight Stones",
+      "id": 437,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-437-moonlight-stones",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 438 Argument",
+      "id": 438,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-438-argument",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 439 House Nordingham",
+      "id": 439,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-439-house-nordingham",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 440 Submission",
+      "id": 440,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-440-submission",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 441 Distribution of Rewards",
+      "id": 441,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-441-distribution-of-rewards",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 442 Big Business",
+      "id": 442,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-442-big-business",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 443 Return to The Northlands",
+      "id": 443,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-443-return-to-the-northlands",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 444 Dealing with Matters",
+      "id": 444,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-444-dealing-with-matters",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 445 Trouble and Busywork (1)",
+      "id": 445,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-445-trouble-and-busywork-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 446 Trouble and Busywork (2)",
+      "id": 446,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-446-trouble-and-busywork-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 447 Knight Lundmorde",
+      "id": 447,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-447-knight-lundmorde",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 448 Conspiracy",
+      "id": 448,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-448-conspiracy",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 449 Helplessness",
+      "id": 449,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-449-helplessness",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 450 A Peaceful Year",
+      "id": 450,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-450-a-peaceful-year",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 451 Joint Development",
+      "id": 451,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-451-joint-development",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 452 Contract Singing",
+      "id": 452,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-452-contract-singing",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 453 Hostage",
+      "id": 453,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-453-hostage",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 454 Rescue",
+      "id": 454,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-454-rescue",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 455 Swordsaint's Domain",
+      "id": 455,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-455-swordsaints-domain",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 456 Platinum Beach",
+      "id": 456,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-456-platinum-beach",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 457 Refusal",
+      "id": 457,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-457-refusal",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 458 Lorist's Considerations",
+      "id": 458,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-458-lorists-considerations",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 459 Secret Plot",
+      "id": 459,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-459-secret-plot",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 460 Deal Sealed",
+      "id": 460,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-460-deal-sealed",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 461 Prepare for War!",
+      "id": 461,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-461-prepare-for-war",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 462 Start the War!",
+      "id": 462,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-462-start-the-war",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 463 Baron Abott",
+      "id": 463,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-463-baron-abott",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 464 Surprise Attack Ongoing",
+      "id": 464,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-464-surprise-attack-ongoing",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 465 Siege",
+      "id": 465,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-465-siege",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 466 From Attack to Defense",
+      "id": 466,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-466-from-attack-to-defense",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 467 Danger",
+      "id": 467,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-467-danger",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 468 Resolution",
+      "id": 468,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-468-resolution",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 469 Triumph",
+      "id": 469,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-469-triumph",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 470 Fall of the City",
+      "id": 470,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-470-fall-of-the-city",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 471 The Coming of the Rainy Season",
+      "id": 471,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-471-the-coming-of-the-rainy-season",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 472 Regroup",
+      "id": 472,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-472-regroup",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 473 Banquet",
+      "id": 473,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-473-banquet",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 474 Reply",
+      "id": 474,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-474-reply",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 475 Envoy Krilos",
+      "id": 475,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-475-envoy-krilos",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chaper 476 Invitation",
+      "id": 477,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chaper-476-invitation",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 477 Lashing Out",
+      "id": 477,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-477-lashing-out",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 478 Severely Injured",
+      "id": 478,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-478-severely-injured",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 479 Awakening",
+      "id": 479,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-479-awakening",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 480 On the Run",
+      "id": 480,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-480-on-the-run",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 481 Hunter's Cabin",
+      "id": 481,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-481-hunters-cabin",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 482 Recuperation",
+      "id": 482,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-482-recuperation",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 483 Internal Strife (1)",
+      "id": 483,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-483-internal-strife-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 484 Internal Strife (2)",
+      "id": 484,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-484-internal-strife-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 485 The Feral Wolves and the Magical Bear",
+      "id": 485,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-485-the-feral-wolves-and-the-magical-bear",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 486 Karitoke",
+      "id": 486,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-486-karitoke",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 487 War on the Plains",
+      "id": 487,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-487-war-on-the-plains",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 488 Bad News",
+      "id": 488,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-488-bad-news",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 489 The Loyalty of a Scoundrel, The Loyalty of a Traitor",
+      "id": 489,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-489-the-loyalty-of-a-scoundrel-the-loyalty-of-a-traitor",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 490 Various Matters",
+      "id": 490,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-490-various-matters",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 491 Human Resources",
+      "id": 491,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-491-human-resources",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 492 Heavy Military Reorganization",
+      "id": 492,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-492-heavy-military-reorganization",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 493 Tying Up Loose Ends",
+      "id": 493,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-493-tying-up-loose-ends",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 494 Reinforcement",
+      "id": 494,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-494-reinforcement",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 495 To Deploy or to Not Deploy",
+      "id": 495,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-495-to-deploy-or-to-not-deploy",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 496 Invincible Fleet",
+      "id": 496,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-496-invincible-fleet",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 497 Northsea",
+      "id": 497,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-497-northsea",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 498 The First Encounter",
+      "id": 498,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-498-the-first-encounter",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 499 The Second Naval Battle",
+      "id": 499,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-499-the-second-naval-battle",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 500 Conclusion of the Battle",
+      "id": 500,
+      "volume": 5,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-500-conclusion-of-the-battle",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 501 Lorist's Preparations",
+      "id": 501,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-501-lorists-preparations",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 502 Intel and Final Battle",
+      "id": 502,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-502-intel-and-final-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 503 Captain Woodleis's Worries",
+      "id": 503,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-503-captain-woodleiss-worries",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 504 Confident of Victory",
+      "id": 504,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-504-confident-of-victory",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 505 Decisive Naval Battle",
+      "id": 505,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-505-decisive-naval-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 506 Suicide Charge",
+      "id": 506,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-506-suicide-charge",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 507 Messed Up Victory",
+      "id": 507,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-507-messed-up-victory",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 508 Meeting After the Battle",
+      "id": 508,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-508-meeting-after-the-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 509 Decision and Promise",
+      "id": 509,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-509-decision-and-promise",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 510 Plan",
+      "id": 510,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-510-plan",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 511 Befuddle",
+      "id": 511,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-511-befuddle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 512 Occupation",
+      "id": 512,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-512-occupation",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 513 Fall of the City",
+      "id": 513,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-513-fall-of-the-city",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 514 Trouble",
+      "id": 514,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-514-trouble",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 515 Crisis Control",
+      "id": 515,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-515-crisis-control",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 516 The Angle of Merchants",
+      "id": 516,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-516-the-angle-of-merchants",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 517 Miscalculation",
+      "id": 517,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-517-miscalculation",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 518 Pitfall Trap",
+      "id": 518,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-518-pitfall-trap",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 519 Jindoz's Gift",
+      "id": 519,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-519-jindozs-gift",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 520 Auguslo's Trust",
+      "id": 520,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-520-auguslos-trust",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 521 Charade's Plan",
+      "id": 521,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-521-charades-plan",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 522 Economic Measures",
+      "id": 522,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-522-economic-measures",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 523 Response to the Peace Negotiations",
+      "id": 523,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-523-response-to-the-peace-negotiations",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 524 Leaving the Camps with Nothing",
+      "id": 524,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-524-leaving-the-camps-with-nothing",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 525 Dinag's Encounters",
+      "id": 525,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-525-dinags-encounters",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 526 Protest",
+      "id": 526,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-526-protest",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 527 Shocking News",
+      "id": 527,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-527-shocking-news",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 528 Rather Miss Than Meet",
+      "id": 528,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-528-rather-miss-than-meet",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 529 Merciless",
+      "id": 529,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-529-merciless",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 530 Loan Problems",
+      "id": 530,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-530-loan-problems",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 531 Two Letters",
+      "id": 531,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-531-two-letters",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 532 Agreement and Rumors",
+      "id": 532,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-532-agreement-and-rumors",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 533 Two Conditions",
+      "id": 533,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-533-two-conditions",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 534 Callisto Hills",
+      "id": 534,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-534-callisto-hills",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 535 War Discussion",
+      "id": 535,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-535-war-discussion",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 536 Approaching Battle",
+      "id": 536,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-536-approaching-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 537 Duel",
+      "id": 537,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-537-duel",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 538 Day of the Grand Battle",
+      "id": 538,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-538-day-of-the-grand-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 539 Duel of the Swordsaints",
+      "id": 539,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-539-duel-of-the-swordsaints",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 540 Grand Victory",
+      "id": 540,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-540-grand-victory",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 541 After the Battle",
+      "id": 541,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-541-after-the-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 542 Year 1781",
+      "id": 542,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-542-year-1781",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 543 Arrangements",
+      "id": 543,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-543-arrangements",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 544 Report",
+      "id": 544,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-544-report",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 545 Independence Pact",
+      "id": 545,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-545-independence-pact",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 546 Debate",
+      "id": 546,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-546-debate",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 547 War Council",
+      "id": 547,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-547-war-council",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 548 Mountain Path",
+      "id": 548,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-548-mountain-path",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 549 Sandbag",
+      "id": 549,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-549-sandbag",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 550 Duke Nikolas",
+      "id": 550,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-550-duke-nikolas",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 551 The Change of the Tides",
+      "id": 551,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-551-the-change-of-the-tides",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 552 Knight Wecksas",
+      "id": 552,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-552-knight-wecksas",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 553 Count Mireitas",
+      "id": 553,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-553-count-mireitas",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 554 Duke Peterson's Demands",
+      "id": 554,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-554-duke-petersons-demands",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 555 Surrender",
+      "id": 555,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-555-surrender",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 556 Reconciliation",
+      "id": 556,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-556-reconciliation",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 557 Retreat and Leasing Land",
+      "id": 557,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-557-retreat-and-leasing-land",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 558 Dominion for Rent at 3000 Gold",
+      "id": 558,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-558-dominion-for-rent-at-3000-gold",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 559 Study",
+      "id": 559,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-559-study",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 560 Still so Busy at Home",
+      "id": 560,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-560-still-so-busy-at-home",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 561 Enfeoffment Talks",
+      "id": 561,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-561-enfeoffment-talks",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 562 Secret Intel from the Trade Union",
+      "id": 562,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-562-secret-intel-from-the-trade-union",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 563 Enfeoffment and Arrangements",
+      "id": 563,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-563-enfeoffment-and-arrangements",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 564 Alisa's Marriage",
+      "id": 564,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-564-alisas-marriage",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 565 Blissful Union",
+      "id": 565,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-565-blissful-union",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 566 Belief and Supervision",
+      "id": 566,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-566-belief-and-supervision",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 567 Dean Claude's Request",
+      "id": 567,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-567-dean-claudes-request",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 568 Who Would Assassinate You?",
+      "id": 568,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-568-who-would-assassinate-you",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 569 Arrival at the Imperial Capital",
+      "id": 569,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-569-arrival-at-the-imperial-capital",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 570 Terrence-donkey Whip",
+      "id": 570,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-570-terrence-donkey-whip",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 571 Invitation and Murder",
+      "id": 571,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-571-invitation-and-murder",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 572 Kill Them All",
+      "id": 572,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-572-kill-them-all",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 573 Flipping Out and Falling Out",
+      "id": 573,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-573-flipping-out-and-falling-out",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 574 Turning Back Suspicion-filled",
+      "id": 574,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-574-turning-back-suspicion-filled",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 575 Marquis Krilos's Frustration",
+      "id": 575,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-575-marquis-kriloss-frustration",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 576 Suggestion to Demilitarize",
+      "id": 576,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-576-suggestion-to-demilitarize",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 577 Entanglement",
+      "id": 577,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-577-entanglement",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 578 Free Citizens",
+      "id": 578,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-578-free-citizens",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 579 Auguslo's Provocation",
+      "id": 579,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-579-auguslos-provocation",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 580 Plundering Incident",
+      "id": 580,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-580-plundering-incident",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 581 Auguslo's Objection",
+      "id": 581,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-581-auguslos-objection",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 582 Huge Blunder",
+      "id": 582,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-582-huge-blunder",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 583 The Obstructive Andelou Merchant Guild",
+      "id": 583,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-583-the-obstructive-andelou-merchant-guild",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 584 Malek's Defenses",
+      "id": 584,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-584-maleks-defenses",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 585 Taking a Few Steps Back",
+      "id": 585,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-585-taking-a-few-steps-back",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 586 Auguslo's Handwritten Letter",
+      "id": 586,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-586-auguslos-handwritten-letter",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 587 The Bird Called Bolga",
+      "id": 587,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-587-the-bird-called-bolga",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 588 Trade War",
+      "id": 588,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-588-trade-war",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 589 Lack of Manpower",
+      "id": 589,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-589-lack-of-manpower",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 590 Celebration and Budgets (END)",
+      "id": 590,
+      "volume": 6,
+      "url": "http://boxnovel.org/tales-of-the-reincarnated-lord-chapter-590-celebration-and-budgets-end",
+      "volume_title": "Volume 6"
+    }
+  ],
+  "rtl": false
+}

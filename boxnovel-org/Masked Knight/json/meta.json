@@ -1,0 +1,2409 @@
+{
+  "url": "http://boxnovel.org/novel/masked-knight",
+  "title": "Masked Knight",
+  "author": "Tiao Wu",
+  "cover": "https://1.bp.blogspot.com/-mRGfuAmwZoo/XbBqIZej0OI/AAAAAAAAHJ0/QCe2EKpSkEAVyoWYn2Fty3RBXwXQGeC-gCLcBGAsYHQ/s320/masked-knight-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 100,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 100,
+      "final_chapter": 300,
+      "start_chapter": 201
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 38,
+      "final_chapter": 338,
+      "start_chapter": 301
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1: Warriors and Virgins",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-1-warriors-and-virgins",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2: A Failed Robber",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-2-a-failed-robber",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3: Rich family of the Imperial Capital",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-3-rich-family-of-the-imperial-capital",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4: Amorous Surprise Attack",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-4-amorous-surprise-attack",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5: The Crafty Playboy",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-5-the-crafty-playboy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6: Nicole\u2019s Decision",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-6-nicole%E2%80%99s-decision",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7: Abnormal Family",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-7-abnormal-family",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8: Sword Master",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-8-sword-master",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9: God\u2019s Language",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-9-god%E2%80%99s-language",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10: Nicole's Secret",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-10-nicoles-secret",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11: Why Did It Turn Out Like this?",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-11-why-did-it-turn-out-like-this",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12: Rabbit Ears, Donkey Ears",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-12-rabbit-ears-donkey-ears",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13: Young Master\u2019s Gorgeous Servant",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-13-young-master%E2%80%99s-gorgeous-servant",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14: The Masked Person (1)",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-14-the-masked-person-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15: The Masked Person (2)",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-15-the-masked-person-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16: Reaching a Higher Level",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-16-reaching-a-higher-level",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17: Charming Visitor at Night",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-17-charming-visitor-at-night",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18: The Skeleton Can Speak!",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-18-the-skeleton-can-speak",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19: Subversion",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-19-subversion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20: The Voyeur",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-20-the-voyeur",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21: Family Degenerate",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-21-family-degenerate",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22: The Colossus Randt",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-22-the-colossus-randt",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23: I Did Not Lose!",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-23-i-did-not-lose",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24: Skeleton Andy",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-24-skeleton-andy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25: Amazing Rumours",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-25-amazing-rumours",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26: Feigned Illness",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-26-feigned-illness",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27: Donkey Ears Exposed",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-27-donkey-ears-exposed",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28: The Lying Skeleton",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-28-the-lying-skeleton",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29: Rich Folk's Evening Banquet",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-29-rich-folks-evening-banquet",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30: Stuck in Gilded Party",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-30-stuck-in-gilded-party",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31: Peerlessly Charming",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-31-peerlessly-charming",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32: Jealous Nicole",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-32-jealous-nicole",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33: Tear Stained Face of a Beauty",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-33-tear-stained-face-of-a-beauty",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34: Sinful Love",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-34-sinful-love",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35: Soul Swap",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-35-soul-swap",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36: Criticism",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-36-criticism",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37: Abstain from Women",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-37-abstain-from-women",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38: Female Might",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-38-female-might",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39: Youth\u2019s Aspiration",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-39-youth%E2%80%99s-aspiration",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40: Innate Rebellious Spirit",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-40-innate-rebellious-spirit",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41: The Fake Playboy",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-41-the-fake-playboy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42: Voyeur Skeleton",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-42-voyeur-skeleton",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43: A Terrifying Matter",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-43-a-terrifying-matter",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44: A Gang of Scoundrels",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-44-a-gang-of-scoundrels",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45: Romantic Arena",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-45-romantic-arena",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46: Song of an Unrivalled Beauty",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-46-song-of-an-unrivalled-beauty",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47: Fierce Fight in the Courtesan Quarters",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-47-fierce-fight-in-the-courtesan-quarters",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48: Change in Situation",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-48-change-in-situation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49: Imperial Family Guards",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-49-imperial-family-guards",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50: Glory and Disgrace",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-50-glory-and-disgrace",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51: Entrusted Important Task",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-51-entrusted-important-task",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52: Night Exploration of the White Tower",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-52-night-exploration-of-the-white-tower",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53: Relic from 200 Years Ago",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-53-relic-from-200-years-ago",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54: Sunflower Treasure",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-54-sunflower-treasure",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55: Horseback Archery Examination",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-55-horseback-archery-examination",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56: Impressive Eight Directions",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-56-impressive-eight-directions",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57: Inheriting Peerage in the Audience Hall",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-57-inheriting-peerage-in-the-audience-hall",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58: A Tragedy",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-58-a-tragedy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59: Lightning God\u2019s Whip",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-59-lightning-god%E2%80%99s-whip",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60: The Last Hope of the Empire",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-60-the-last-hope-of-the-empire",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61: A Curious Coincidence",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-61-a-curious-coincidence",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62: Farewell Myka",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-62-farewell-myka",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63: Old Man Mark",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-63-old-man-mark",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64: Life-Saving Treasure",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-64-life-saving-treasure",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65: Glorious Expedition",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-65-glorious-expedition",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66: Life and Death Look Alike",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-66-life-and-death-look-alike",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67: The Village",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-67-the-village",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68: Night Attack",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-68-night-attack",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69: Justice",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-69-justice",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70: Before The War",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-70-before-the-war",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71: Fierce Battle at Watt",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-71-fierce-battle-at-watt",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72: Bloodstained Tulip",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-72-bloodstained-tulip",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73: Mighty Army",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-73-mighty-army",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74: The Scary Truth",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-74-the-scary-truth",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75: Unfriendly Banquet",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-75-unfriendly-banquet",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76: Long Distance Raid",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-76-long-distance-raid",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77: Blood Oath",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-77-blood-oath",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78: Knights of Roland",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-78-knights-of-roland",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79: Holy Light",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-79-holy-light",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80: Black Veiled Saint",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-80-black-veiled-saint",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81: Changing Roles",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-81-changing-roles",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82: The Beautiful Prisoner",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-82-the-beautiful-prisoner",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83: A Thousand Year Old Tale",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-83-a-thousand-year-old-tale",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84: To Never Leave Each Other",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-84-to-never-leave-each-other",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85: Wolves Attack",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-85-wolves-attack",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86: Special Envoy of the Imperial Capital",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-86-special-envoy-of-the-imperial-capital",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87: Oath To Kill!",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-87-oath-to-kill",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88: Mysterious Visitor at Night",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-88-mysterious-visitor-at-night",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89: Skeleton of the Night",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-89-skeleton-of-the-night",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90: Reshape Origin",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-90-reshape-origin",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91: The Pain of Separation",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-91-the-pain-of-separation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92: Kill Immediately",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-92-kill-immediately",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93: The Westwood Capital City",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-93-the-westwood-capital-city",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94: Provocation",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-94-provocation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95: Rebellion",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-95-rebellion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96: Stench of Blood in the Setting Sun",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-96-stench-of-blood-in-the-setting-sun",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97: Scoundrels of the Political Circle",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-97-scoundrels-of-the-political-circle",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98: Crusade",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-98-crusade",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99: Drawing an Alliance",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-99-drawing-an-alliance",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100: Defend",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/masked-knight-chapter-100-defend",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101: Assassin Attack",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-101-assassin-attack",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102: Journey to the Southeast",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-102-journey-to-the-southeast",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103: Surprise Attack",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-103-surprise-attack",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104: Ten Year Agreement",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-104-ten-year-agreement",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105: The Welcome Ceremony",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-105-the-welcome-ceremony",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106: The Chaos in the Southeast",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-106-the-chaos-in-the-southeast",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107: Mutiny",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-107-mutiny",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108: Negotiation",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-108-negotiation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109: Peaceful South Plan",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-109-peaceful-south-plan",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110: Chief of the Flame Tribe",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-110-chief-of-the-flame-tribe",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111: Heavenly Abode of the Mountains",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-111-heavenly-abode-of-the-mountains",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112: Prophecy",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-112-prophecy",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113: Sneak Attack in the Night",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-113-sneak-attack-in-the-night",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114: \u2018True God\u2019 Kara",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-114-%E2%80%98true-god%E2%80%99-kara",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115: Summit of Evil",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-115-summit-of-evil",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116: Wuya\u2019s Secret",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-116-wuya%E2%80%99s-secret",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117: Monster",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-117-monster",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118: Gate of the Abyss",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-118-gate-of-the-abyss",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119: Deep in the Canyon",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-119-deep-in-the-canyon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120: Bloodthirsty Spider",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-120-bloodthirsty-spider",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121: Samsara River",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-121-samsara-river",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122: Wuya\u2019s True Colors",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-122-wuya%E2%80%99s-true-colors",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123: The Strong Supports the Weak",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-123-the-strong-supports-the-weak",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124: Two Drops of Fresh Blood",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-124-two-drops-of-fresh-blood",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125: Strange Human Faced Lion",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-125-strange-human-faced-lion",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126: History\u2019s Strongest Fatty",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-126-history%E2%80%99s-strongest-fatty",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127: Powerful Domain",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-127-powerful-domain",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128: Dragon Converter",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-128-dragon-converter",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129: Dragon Converter (2)",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-129-dragon-converter-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130: Super Left Hand",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-130-super-left-hand",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131: Mystic Dragon Purge",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-131-mystic-dragon-purge",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132: The Truth of Gods and Demons",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-132-the-truth-of-gods-and-demons",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133: Fatty Leaves the Mountain",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-133-fatty-leaves-the-mountain",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134: Imperial Capital\u2018s \u2018Good News\u2019",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-134-imperial-capital%E2%80%98s-%E2%80%98good-news%E2%80%99",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135: Tagging Along",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-135-tagging-along",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136: Fierce Battle at Night!",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-136-fierce-battle-at-night",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137: Absolutely Won\u2019t Yield",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-137-absolutely-won%E2%80%99t-yield",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138: Mad Genius (1)",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-138-mad-genius-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139: Mad Genius (2)",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-139-mad-genius-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140: Proceeding North to the Imperial Capital",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-140-proceeding-north-to-the-imperial-capital",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141: One Becomes Two",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-141-one-becomes-two",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142: Reborn for Your Sake",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-142-reborn-for-your-sake",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143: Battle for Imperial Power",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-143-battle-for-imperial-power",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144: Shadows of Vampires",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-144-shadows-of-vampires",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145: Heroic Beautiful Woman",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-145-heroic-beautiful-woman",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146: Go To Hell!",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-146-go-to-hell",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147: Blood of Gods",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-147-blood-of-gods",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148: Petrification",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-148-petrification",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149: Myka\u2019s Feelings",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-149-myka%E2%80%99s-feelings",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150: Draw your sword! I am in a hurry!",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-150-draw-your-sword-i-am-in-a-hurry",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151: Dracula Spear",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-151-dracula-spear",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152: Master Autumn",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-152-master-autumn",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153: Sacred Swordsman",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-153-sacred-swordsman",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154: The True Meaning of Swordsmanship",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-154-the-true-meaning-of-swordsmanship",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155: Crafty Plots",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-155-crafty-plots",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156: Rody\u2019s Smile",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-156-rody%E2%80%99s-smile",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157: Magnificent Reply",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-157-magnificent-reply",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158: Great Wind Rises",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-158-great-wind-rises",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159: Assemble in the Imperial Capital",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-159-assemble-in-the-imperial-capital",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160: Skeleton's Body Change",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-160-skeletons-body-change",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161: Breaking Through!",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-161-breaking-through",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162: To Behead",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-162-to-behead",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163: God\u2019s Vanquish Spell",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-163-god%E2%80%99s-vanquish-spell",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164: Playing It Big",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-164-playing-it-big",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165: The Skeleton Becomes Emperor",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-165-the-skeleton-becomes-emperor",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166: Public Opinion in the Imperial Capital",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-166-public-opinion-in-the-imperial-capital",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167: The Duke\u2019s Responsibilities",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-167-the-duke%E2%80%99s-responsibilities",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168: Creating a Star",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-168-creating-a-star",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169: Rise of a Great General",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-169-rise-of-a-great-general",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170: Sorrows of the Empire",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-170-sorrows-of-the-empire",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171: The First Day",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-171-the-first-day",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172: Testing the Waters",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-172-testing-the-waters",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173: Achilles' Heel (1)",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-173-achilles-heel-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174: Achilles' Heel (2)",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-174-achilles-heel-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175: Achilles' Heel (3)",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-175-achilles-heel-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176: Combined Sorcery",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-176-combined-sorcery",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177: Combined Technique",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-177-combined-technique",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178: The Paladin's Challenge",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-178-the-paladins-challenge",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179: Dragon Break",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-179-dragon-break",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180: Dragon Transformation",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-180-dragon-transformation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181: Comprehension",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-181-comprehension",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182: Rody Can Scheme Too",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-182-rody-can-scheme-too",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183: Die After The War",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-183-die-after-the-war",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184: New Army",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-184-new-army",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185: Rody Appears",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-185-rody-appears",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186: Field Operations (1)",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-186-field-operations-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187: Field Operations (2)",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-187-field-operations-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188: Disguise",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-188-disguise",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189: Black Veil",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-189-black-veil",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190: The Tulip Bloomed",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-190-the-tulip-bloomed",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191: Valiant Warrior",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-191-valiant-warrior",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192: Prelude to Climax",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-192-prelude-to-climax",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193: Ambiguous",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-193-ambiguous",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194: Too Smart for Your Own Good",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-194-too-smart-for-your-own-good",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195: Bitter Then Sweet1",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-195-bitter-then-sweet1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196: Conflict",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-196-conflict",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197: Pink Panties",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-197-pink-panties",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198: Heart of Stone",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-198-heart-of-stone",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199: Adoration",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-199-adoration",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200: Confession",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/masked-knight-chapter-200-confession",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201: Tit for Tat",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-201-tit-for-tat",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202: Nicole\u2019s Tender Love",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-202-nicole%E2%80%99s-tender-love",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203: Strange Visitor From the Imperial Capital",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-203-strange-visitor-from-the-imperial-capital",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204: Legendary Scimitar",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-204-legendary-scimitar",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205: Lake Monster",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-205-lake-monster",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206: Break Out",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-206-break-out",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207: Holy Beast, Mythical Beast",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-207-holy-beast-mythical-beast",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208: Darke Joins the Group",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-208-darke-joins-the-group",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209: Trap",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-209-trap",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210: Taming",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-210-taming",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211: Scoundrel Darke",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-211-scoundrel-darke",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212: Intimate",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-212-intimate",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213: The World at the Bottom of the Lake",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-213-the-world-at-the-bottom-of-the-lake",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214: Blood of the Sinners",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-214-blood-of-the-sinners",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215: Staff of Moses",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-215-staff-of-moses",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216: Hatred",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-216-hatred",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217: Special Assignment",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-217-special-assignment",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218: Looking at the Roland Continent!",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-218-looking-at-the-roland-continent",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219: At the Sea",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-219-at-the-sea",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220: Inhuman",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-220-inhuman",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221: Evil Rody",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-221-evil-rody",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222: Rapid Kill",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-222-rapid-kill",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223: Muddy and Turbid",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-223-muddy-and-turbid",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224: Dragon Warriors",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-224-dragon-warriors",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225: Coincidence",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-225-coincidence",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226: The First Pontiff",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-226-the-first-pontiff",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227: Complete State",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-227-complete-state",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228: Rupture!",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-228-rupture",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 229: Reptiles",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-229-reptiles",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 230: Next",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-230-next",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 231: Rules",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-231-rules",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 232: Shackles",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-232-shackles",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 233: \u201cLove at First Sight\u201d",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-233-love-at-first-sight",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 234: Beauty Trap",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-234-beauty-trap",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 235: Stunning Beauty",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-235-stunning-beauty",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 236: Legendary Master",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-236-legendary-master",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 237: Provocation",
+      "id": 237,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-237-provocation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 238: Freak",
+      "id": 238,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-238-freak",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 239: Female Paladin\u2019s Visit",
+      "id": 239,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-239-female-paladin%E2%80%99s-visit",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 240: God\u2019s Chosen One",
+      "id": 240,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-240-god%E2%80%99s-chosen-one",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 241: The King\u2019s Ambition",
+      "id": 241,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-241-the-king%E2%80%99s-ambition",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 242: The Curse of \u2018God\u2019s Record\u2019",
+      "id": 242,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-242-the-curse-of-%E2%80%98god%E2%80%99s-record%E2%80%99",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 243: The Sauron Royal Family\u2019s Secret",
+      "id": 243,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-243-the-sauron-royal-family%E2%80%99s-secret",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 244: The Person Standing Outside the Circle",
+      "id": 244,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-244-the-person-standing-outside-the-circle",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 245: Underground Cave",
+      "id": 245,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-245-underground-cave",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 246: Mural",
+      "id": 246,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-246-mural",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 247: True History",
+      "id": 247,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-247-true-history",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 248: Mouse\u2019s New Clothes",
+      "id": 248,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-248-mouse%E2%80%99s-new-clothes",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249: Swine",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-249-swine",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 250: Enemies are Destined to Meet",
+      "id": 250,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-250-enemies-are-destined-to-meet",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 251: Fielding's Transformation",
+      "id": 251,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-251-fieldings-transformation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 252: Estrangement",
+      "id": 252,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-252-estrangement",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 253: Break!",
+      "id": 253,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-253-break",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 254: Nebulous",
+      "id": 254,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-254-nebulous",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 255: A Night Perfect for Assassin",
+      "id": 255,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-255-a-night-perfect-for-assassin",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 256: Aliens will not be Loyal",
+      "id": 256,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-256-aliens-will-not-be-loyal",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 257: Prometheus",
+      "id": 257,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-257-prometheus",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 258: Seth\u2019s Fear",
+      "id": 258,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-258-seth%E2%80%99s-fear",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 259: Garden Encounter",
+      "id": 259,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-259-garden-encounter",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 260: Departure",
+      "id": 260,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-260-departure",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 261: Unexpected Follower",
+      "id": 261,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-261-unexpected-follower",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 262: Nuisance, Nuisance",
+      "id": 262,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-262-nuisance-nuisance",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 263: The Enlightened Bait",
+      "id": 263,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-263-the-enlightened-bait",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 264: Another Use for Fighting Energy",
+      "id": 264,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-264-another-use-for-fighting-energy",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 265: Arrival at the Border",
+      "id": 265,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-265-arrival-at-the-border",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 266: Second Robbery",
+      "id": 266,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-266-second-robbery",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 267: Kikukawa Yukinari",
+      "id": 267,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-267-kikukawa-yukinari",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 268: Restricted Area",
+      "id": 268,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-268-restricted-area",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 269: Thousand Rider General",
+      "id": 269,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-269-thousand-rider-general",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 270: Sudden Change (1)",
+      "id": 270,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-270-sudden-change-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 271: Sudden Change (2)",
+      "id": 271,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-271-sudden-change-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 272: Guileless Manipulator (1)",
+      "id": 272,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-272-guileless-manipulator-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 273: Guileless Manipulator (2)",
+      "id": 273,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-273-guileless-manipulator-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 274: Treasure Hunters I",
+      "id": 274,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-274-treasure-hunters-i",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 275: Treasure Hunters (2)",
+      "id": 275,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-275-treasure-hunters-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 276: Can\u2019t See Sky, Can\u2019t See Earth, Can\u2019t See People (1)",
+      "id": 276,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-276-can%E2%80%99t-see-sky-can%E2%80%99t-see-earth-can%E2%80%99t-see-people-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 277: Can\u2019t See Sky, Can\u2019t See Earth, Can\u2019t See People (2)",
+      "id": 277,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-277-can%E2%80%99t-see-sky-can%E2%80%99t-see-earth-can%E2%80%99t-see-people-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 278: Divine Primordial Spirit",
+      "id": 278,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-278-divine-primordial-spirit",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 279: Not Human",
+      "id": 279,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-279-not-human",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 280: Hakone Battle (1)",
+      "id": 280,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-280-hakone-battle-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 281: Hakone Battle (2)",
+      "id": 281,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-281-hakone-battle-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 282: Hakone Battle (3)",
+      "id": 282,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-282-hakone-battle-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 283: Hakone Fury",
+      "id": 283,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-283-hakone-fury",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 284: Rody\u2019s Life Saving Trick (1)",
+      "id": 284,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-284-rody%E2%80%99s-life-saving-trick-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 285: Rody\u2019s Life Saving Trick (2)",
+      "id": 285,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-285-rody%E2%80%99s-life-saving-trick-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 286: Sly Fatty (1)",
+      "id": 286,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-286-sly-fatty-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 287: Sly Fatty (2)",
+      "id": 287,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-287-sly-fatty-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 288: God Vs God! (1)",
+      "id": 288,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-288-god-vs-god-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 289: God Vs God! (2)",
+      "id": 289,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-289-god-vs-god-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 290: God's Record Reappears",
+      "id": 290,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-290-gods-record-reappears",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 291: Undress",
+      "id": 291,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-291-undress",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 292: Insidious",
+      "id": 292,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-292-insidious",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 293: Dark Mercenaries",
+      "id": 293,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-293-dark-mercenaries",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 294: Fighting a One-Sided Battle",
+      "id": 294,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-294-fighting-a-one-sided-battle",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 295: Terrorizing with Military Force",
+      "id": 295,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-295-terrorizing-with-military-force",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 296: Black Veil Again!",
+      "id": 296,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-296-black-veil-again",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 297: Swept Away",
+      "id": 297,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-297-swept-away",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 298: An Ambitious Person\u2019s Desolation",
+      "id": 298,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-298-an-ambitious-person%E2%80%99s-desolation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 299: Battle of Wits",
+      "id": 299,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-299-battle-of-wits",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 300: A Defeated General (1)",
+      "id": 300,
+      "volume": 3,
+      "url": "http://boxnovel.org/masked-knight-chapter-300-a-defeated-general-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 301: A Defeated General (2)",
+      "id": 301,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-301-a-defeated-general-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 302: Identity!",
+      "id": 302,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-302-identity",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 303: Sneak Attack",
+      "id": 303,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-303-sneak-attack",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 304: Red Clothed Saint",
+      "id": 304,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-304-red-clothed-saint",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 305: I Am Going To Kill Him!",
+      "id": 305,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-305-i-am-going-to-kill-him",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 306: You Never Realized",
+      "id": 306,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-306-you-never-realized",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 307: Successor",
+      "id": 307,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-307-successor",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 308: Dragon God VS Mystic Dragon",
+      "id": 308,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-308-dragon-god-vs-mystic-dragon",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 309: Real History",
+      "id": 309,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-309-real-history",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 310: Truth of God\u2019s Record",
+      "id": 310,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-310-truth-of-god%E2%80%99s-record",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 311: Nedis\u2019s Love",
+      "id": 311,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-311-nedis%E2%80%99s-love",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 312: Bestowing a Marriage",
+      "id": 312,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-312-bestowing-a-marriage",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 313: Coincidental Loss of Military Power",
+      "id": 313,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-313-coincidental-loss-of-military-power",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 314: Shackles",
+      "id": 314,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-314-shackles",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 315: New Home",
+      "id": 315,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-315-new-home",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 316: Wedding",
+      "id": 316,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-316-wedding",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 317: Rody's Happy Life",
+      "id": 317,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-317-rodys-happy-life",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 318: Riots",
+      "id": 318,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-318-riots",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 319: Show of Authority (1)",
+      "id": 319,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-319-show-of-authority-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 320: Show of Authority (2)",
+      "id": 320,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-320-show-of-authority-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 321: Peculiar Loot",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-321-peculiar-loot",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 322: Replacement",
+      "id": 322,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-322-replacement",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 323: Looming Crisis",
+      "id": 323,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-323-looming-crisis",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 324: A Two-Hundred-Year-Old Conspiracy",
+      "id": 324,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-324-a-two-hundred-year-old-conspiracy",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 325: Twists and Turns",
+      "id": 325,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-325-twists-and-turns",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 326: Rody\u2019s Revenge (I)",
+      "id": 326,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-326-rody%E2%80%99s-revenge-i",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 327: Rody\u2019s Revenge (II)",
+      "id": 327,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-327-rody%E2%80%99s-revenge-ii",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 328: Eighth Transformation",
+      "id": 328,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-328-eighth-transformation",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 329: The Devil\u2019s Coming",
+      "id": 329,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-329-the-devil%E2%80%99s-coming",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 330: Nedis's Journey",
+      "id": 330,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-330-nediss-journey",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 331: Little Vampire\u2019s Wisdom",
+      "id": 331,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-331-little-vampire%E2%80%99s-wisdom",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 332: The Forbidden Door",
+      "id": 332,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-332-the-forbidden-door",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 333: Time to Unveil the Truth",
+      "id": 333,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-333-time-to-unveil-the-truth",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 334: Entering Heaven",
+      "id": 334,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-334-entering-heaven",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 335: Dragon Egg",
+      "id": 335,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-335-dragon-egg",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 336: God?",
+      "id": 336,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-336-god",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 337: The Final Chapter (1)",
+      "id": 337,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-337-the-final-chapter-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 338: The Final Chapter (2)",
+      "id": 338,
+      "volume": 4,
+      "url": "http://boxnovel.org/masked-knight-chapter-338-the-final-chapter-2",
+      "volume_title": "Volume 4"
+    }
+  ],
+  "rtl": false
+}

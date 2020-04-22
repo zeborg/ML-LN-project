@@ -1,0 +1,1506 @@
+{
+  "url": "http://boxnovel.org/novel/seoul-station%E2%80%99s-necromancer",
+  "title": "Seoul Station\u2019s Necromancer",
+  "author": "\uc9c4\uc124\uc6b0",
+  "cover": "http://novelfull.xyz/imgs/seoul-station\u2019s-necromancer-d.jpg",
+  "volumes": [
+    {
+      "id": 0,
+      "title": "Volume 0",
+      "volume": "0",
+      "chapter_count": 1,
+      "final_chapter": 0,
+      "start_chapter": 0
+    },
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 100,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 8,
+      "final_chapter": 208,
+      "start_chapter": 201
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 0 - Prologue",
+      "id": 0,
+      "volume": 0,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-0-prologue",
+      "volume_title": "Volume 0"
+    },
+    {
+      "title": "Chapter 1 Finally Seoul!.",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-1-finally-seoul",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2 Finally Seoul! (2).",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-2-finally-seoul-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3 Level Up!.",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-3-level-up",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4 Level Up! (2).",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-4-level-up-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5 - Closed Dungeon",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-5-closed-dungeon",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6 Closed Dungeon (2).",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-6-closed-dungeon-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7 - To Home",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-7-to-home",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8 To Home (2).",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-8-to-home-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9 - Ill Have To Make Some Money",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-9-ill-have-to-make-some-money",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10 - To the Dungeon",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-10-to-the-dungeon",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11 - Roused Registration",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-11-roused-registration",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12 Roused Registration (2).",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-12-roused-registration-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13 - Shinrim Stations 7th Exit",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-13-shinrim-stations-7th-exit",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14 - Dungeons Necromancer",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-14-dungeons-necromancer",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15 - What Goes Around Comes Around",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-15-what-goes-around-comes-around",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16 You Reap What You Sow (2).",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-16-you-reap-what-you-sow-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17 - Their Situation",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-17-their-situation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18 Their Circumstances (2).",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-18-their-circumstances-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19 - Justifiable Misunderstanding",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-19-justifiable-misunderstanding",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20 Justified Misunderstanding (2).",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-20-justified-misunderstanding-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21 - 3Star Dungeon",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-21-3star-dungeon",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22 - Dual Class",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-22-dual-class",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23 - Hammer Guild",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-23-hammer-guild",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24 - Looking For a House",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-24-looking-for-a-house",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25 - Little Devil Bibi",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-25-little-devil-bibi",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26 - 4 star Dungeon",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-26-4-star-dungeon",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27 4 star Dungeon (2).",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-27-4-star-dungeon-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28 - Same Place",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-28-same-place",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29 Same Place (2).",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-29-same-place-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30 Same Place (3).",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-30-same-place-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31 - Do-jiwon",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-31-do-jiwon",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32 Do-jiwon (2).",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-32-do-jiwon-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33 - Reset",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-33-reset",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34 Dungeon Reset (2).",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-34-dungeon-reset-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35 Dungeon Reset (3).",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-35-dungeon-reset-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36 - Establishing a Guild",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-36-establishing-a-guild",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37 Establishing a Guild(2).",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-37-establishing-a-guild2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38 - 5 Star Dungeon",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-38-5-star-dungeon",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39 5 Star Dungeon (2).",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-39-5-star-dungeon-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40 5 Star Dungeon(3).",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-40-5-star-dungeon3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41 - Hot Issue",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-41-hot-issue",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42 Hot Issue (2).",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-42-hot-issue-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43 - Regeneration Salve",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-43-regeneration-salve",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44 Regeneration Salve (2).",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-44-regeneration-salve-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45 Regeneration Salve (3).",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-45-regeneration-salve-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46 Regeneration Salve (4).",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-46-regeneration-salve-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47 - Dungeon Break",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-47-dungeon-break",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48 Dungeon Break (2).",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-48-dungeon-break-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49 Dungeon Break (3).",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-49-dungeon-break-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50 - Tareuts Plateau",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-50-tareuts-plateau",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51 Tareuts Plateau (2).",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-51-tareuts-plateau-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52 Tareuts Plateau (3).",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-52-tareuts-plateau-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53 - Topic",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-53-topic",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54 Topic (2).",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-54-topic-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55 Topic (3).",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-55-topic-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56 - Director Hong-sunggoo",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-56-director-hong-sunggoo",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57 Director Hong-sunggoo (2).",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-57-director-hong-sunggoo-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58 - The Meaning of Family",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-58-the-meaning-of-family",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59 The Meaning of Family (2).",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-59-the-meaning-of-family-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60 The Meaning of Family (3).",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-60-the-meaning-of-family-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61 - Shout from Pyongyang",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-61-shout-from-pyongyang",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62 Shout from Pyongyang (2).",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-62-shout-from-pyongyang-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63 Shout from Pyongyang (3).",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-63-shout-from-pyongyang-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64 Shout from Pyongyang (4).",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-64-shout-from-pyongyang-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65 - Unexpected Loot",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-65-unexpected-loot",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66 Unexpected Loot (2).",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-66-unexpected-loot-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67 - Heros Mentality",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-67-heros-mentality",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68 Heros Mentality (2).",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-68-heros-mentality-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69 - To the US",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-69-to-the-us",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70 To the US (2).",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-70-to-the-us-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71 To the US (3).",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-71-to-the-us-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72 - Terror",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-72-terror",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73 Terror (2).",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-73-terror-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74 - Meeting",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-74-meeting",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75 Meeting (2).",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-75-meeting-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76 - Mop Up",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-76-mop-up",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77 Mop Up (2).",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-77-mop-up-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78 - Iron Golem",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-78-iron-golem",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79 - Rashmode",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-79-rashmode",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80 Rashmode (2).",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-80-rashmode-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81 - Return",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-81-return",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82 Return (2).",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-82-return-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83 - Guild Expansion",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-83-guild-expansion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84 Guild Expansion (2).",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-84-guild-expansion-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85 Guild Expansion (3).",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-85-guild-expansion-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86 Guild Expansion (4).",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-86-guild-expansion-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87 Guild Expansion (5).",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-87-guild-expansion-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88 - Heading Towards the End",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-88-heading-towards-the-end",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89 -Heading Towards the End (2).",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-89-heading-towards-the-end-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90 Heading Towards the End (3).",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-90-heading-towards-the-end-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91 Heading Towards the End (4).",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-91-heading-towards-the-end-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92 - Wrath of the Desert",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-92-wrath-of-the-desert",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93 Wrath of the Desert (2) .",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-93-wrath-of-the-desert-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94 Wrath of the Desert (3) .",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-94-wrath-of-the-desert-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95 Wrath of the Desert (4).",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-95-wrath-of-the-desert-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96 - Dismay",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-96-dismay",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97 Dismay (2).",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-97-dismay-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98 Hong-sunggoo's Rush.",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-98-hong-sunggoos-rush",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99 Hong-sunggoos Rush (2) .",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-99-hong-sunggoos-rush-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100 - Bullet Taxi",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-100-bullet-taxi",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101 Juliel's Wilderness .",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-101-juliels-wilderness",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102 Juliels Wilderness (2).",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-102-juliels-wilderness-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103 - Dimensional Domain",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-103-dimensional-domain",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104 Dimensional Domain (2) .",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-104-dimensional-domain-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105 Dimensional Domain (3).",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-105-dimensional-domain-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106 - Duty",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-106-duty",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107 Duty (2).",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-107-duty-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108 Duty (3) .",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-108-duty-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109 - Vampire Hunt",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-109-vampire-hunt",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110 - Second Alandal",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-110-second-alandal",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111 Second Alandal (2).",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-111-second-alandal-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112 - Hearing",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-112-hearing",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113 Hearing (2).",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-113-hearing-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114 Hearing (3).",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-114-hearing-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115 Hearing (4) .",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-115-hearing-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116 - Alandals State of Affair",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-116-alandals-state-of-affair",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117 Alandal's State of Affair (2) .",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-117-alandals-state-of-affair-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118 - Mock Battle",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-118-mock-battle",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119 - Battle",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-119-battle",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120 Battle (2) .",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-120-battle-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121 - Visitors from Planet Jaku",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-121-visitors-from-planet-jaku",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122 Visitors from Planet Jaku (2) .",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-122-visitors-from-planet-jaku-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123 - Lich Jaenis",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-123-lich-jaenis",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124 Lich Jaenis (2) .",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-124-lich-jaenis-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125 Lich Jaenis (3).",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-125-lich-jaenis-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126 - Dungeon Closer",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-126-dungeon-closer",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127 - Dungeon Closer (2)",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-127-dungeon-closer-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128 - Dungeon Closer (3)",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-128-dungeon-closer-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129 - Liah",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-129-liah",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130 - Liah (2)",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-130-liah-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131 - Bloody Reunion",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-131-bloody-reunion",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132 - Bloody Reunion (2)",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-132-bloody-reunion-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133 - Bloody Reunion (3)",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-133-bloody-reunion-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134 - Mivich",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-134-mivich",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135 - Mivich (2)",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-135-mivich-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136 - Blood Golem",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-136-blood-golem",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137 - Blood Golem (2)",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-137-blood-golem-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138 - Lord of Pestilence",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-138-lord-of-pestilence",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139 - Lord of Pestilence (2)",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-139-lord-of-pestilence-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140 - Lord of Pestilence (3)",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-140-lord-of-pestilence-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141 - Meteor",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-141-meteor",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142 - Meteor (2)",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-142-meteor-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143 - Colonies",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-143-colonies",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "SSN: Chapter 144 - Colonies (2)",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-ssn-chapter-144-colonies-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145 - Doctor Toppler",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-145-doctor-toppler",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146 - Doctor Toppler (2)",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-146-doctor-toppler-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147 - Expedition",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-147-expedition",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148 - Expedition (2)",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-148-expedition-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149 - Planet Jaku",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-149-planet-jaku",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150 - Planet Jaku (2)",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-150-planet-jaku-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151 - Planet Jaku (3)",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-151-planet-jaku-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152 - Thrashs Protection",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-152-thrashs-protection",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153 - Thrashs Protection (2)",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-153-thrashs-protection-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154 Alandal in Seoul",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-154-alandal-in-seoul",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155 - Alandal in Seoul (2)",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-155-alandal-in-seoul-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156 Recruitment of Roused",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-156-recruitment-of-roused",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157 Recruitment of Roused (2)",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-157-recruitment-of-roused-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158 - God of Earth",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-158-god-of-earth",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159 - God of Earth (2)",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-159-god-of-earth-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160 -We are the New Recruits",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-160-we-are-the-new-recruits",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161 -We are the New Recruits (2)",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-161-we-are-the-new-recruits-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162 - Bibi's Castle",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-162-bibis-castle",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163 - Bibi's Castle (2)",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-163-bibis-castle-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164 - Bibi's Castle (3)",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-164-bibis-castle-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165 - Bibi's Castle (4)",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-165-bibis-castle-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166 - Entry into Alphen (1)",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-166-entry-into-alphen-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167 - Entry into Alphen (2)",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-167-entry-into-alphen-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168 - Reconstruction (1)",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-168-reconstruction-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169 - Reconstruction (2)",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-169-reconstruction-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170 - Oracle (1)",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-170-oracle-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171 - Oracle (2)",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-171-oracle-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172 - Air Strike(1)",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-172-air-strike1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173 - Air Strike (2)",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-173-air-strike-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174 - Air Strike (3)",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-174-air-strike-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175 - Aria's Temple (1)",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-175-arias-temple-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176 - Aria's Temple (2)",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-176-arias-temple-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177 - Defense (1)",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-177-defense-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178 - Defense (2)",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-178-defense-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179 - Defense (3)",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-179-defense-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180 - Defense (4)",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-180-defense-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181 - Bone Dragon (1)",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-181-bone-dragon-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182 Bone Dragon (2)",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-182-bone-dragon-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183 - Descendant of a Dragon (1)",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-183-descendant-of-a-dragon-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184 - Descendant of a Dragon (2)",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-184-descendant-of-a-dragon-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185 - Last Holy Item (1)",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-185-last-holy-item-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186 - Last Holy Item (2)",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-186-last-holy-item-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187 - Breakeven Point (1)",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-187-breakeven-point-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188 - Breakeven Point (2)",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-188-breakeven-point-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189 - Lord of Ice (1)",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-189-lord-of-ice-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190 - Lord of Ice (2)",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-190-lord-of-ice-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191 - Lord of Ice (3)",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-191-lord-of-ice-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192 - Blood Dragon (1)",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-192-blood-dragon-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193 - Blood Dragon (2)",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-193-blood-dragon-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194 - Moon World (1)",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-194-moon-world-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195 - Moon World (2)",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-195-moon-world-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196 - Trahnet (1)",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-196-trahnet-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197 - Trahnet (2)",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-197-trahnet-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198 - Trahnet (3)",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-198-trahnet-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199 - Trahnet (4)",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-199-trahnet-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200 - Trahnet (5)",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-200-trahnet-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201 - God of Destruction (1)",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-201-god-of-destruction-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202 - God of Destruction (2)",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-202-god-of-destruction-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203 - The Boundary between Reality and Virtual Reality (1)",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-203-the-boundary-between-reality-and-virtual-reality-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204 - The Boundary between Reality and Virtual Reality (2)",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-204-the-boundary-between-reality-and-virtual-reality-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205 - Recover (1)",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-205-recover-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206 - Recover (2)",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-206-recover-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207 - Recover (3)",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-207-recover-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208 - Epilogue",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/seoul-station%E2%80%99s-necromancer-chapter-208-epilogue",
+      "volume_title": "Volume 3"
+    }
+  ],
+  "rtl": false
+}

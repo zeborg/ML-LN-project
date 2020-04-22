@@ -1,0 +1,5073 @@
+{
+  "url": "http://boxnovel.org/novel/legend-of-ling-tian",
+  "title": "Legend of Ling Tian",
+  "author": "Fengling Tianxia",
+  "cover": "https://3.bp.blogspot.com/-eON_nBIksL0/XbBp2TIiO0I/AAAAAAAAHFk/v3xdvae0ETYBNW-x1jhL40ClpKwoOt7qACLcBGAsYHQ/s320/legend-of-ling-tian-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 100,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 100,
+      "final_chapter": 300,
+      "start_chapter": 201
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 100,
+      "final_chapter": 400,
+      "start_chapter": 301
+    },
+    {
+      "id": 5,
+      "title": "Volume 5",
+      "volume": "5",
+      "chapter_count": 100,
+      "final_chapter": 500,
+      "start_chapter": 401
+    },
+    {
+      "id": 6,
+      "title": "Volume 6",
+      "volume": "6",
+      "chapter_count": 100,
+      "final_chapter": 600,
+      "start_chapter": 501
+    },
+    {
+      "id": 7,
+      "title": "Volume 7",
+      "volume": "7",
+      "chapter_count": 100,
+      "final_chapter": 700,
+      "start_chapter": 601
+    },
+    {
+      "id": 8,
+      "title": "Volume 8",
+      "volume": "8",
+      "chapter_count": 14,
+      "final_chapter": 713,
+      "start_chapter": 701
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-8",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-9",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-10",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-11",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-12",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-13",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-14",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-15",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-16",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-17",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-18",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-19",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-20",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-21",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-22",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-23",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-24",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-25",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-26",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-27",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-28",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-29",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-30",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-31",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-32",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-33",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-34",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-35",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-36",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-37",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-38",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-39",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-40",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-41",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-42",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-43",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-44",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-45",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-46",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-47",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-48",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-49",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-50",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-51",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-52",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-53",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-54",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-55",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-56",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-57",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-58",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-59",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-60",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-61",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-62",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-63",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-64",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-65",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-66",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-67",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-68",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-69",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-70",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-71",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-72",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-73",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-74",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-75",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-76",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-77",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-78",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-79",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-80",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-81",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-82",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-83",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-84",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-85",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-86",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-87",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-88",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-89",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-90",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-91",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-92",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-93",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-94",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-95",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-96",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-97",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-98",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-99",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-100",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-101",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-102",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-103",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-104",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-105",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-106",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-107",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-108",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-109",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-110",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-111",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-112",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-113",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-114",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-115",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-116",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-117",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-118",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-119",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-120",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-121",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-122",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-123",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-124",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-125",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-126",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-127",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-128",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-129",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-130",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-131",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-132",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-133",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-134",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-135",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-136",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-137",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-138",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-139",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-140",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-141",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-142",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-143",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-144",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-145",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-146",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-147",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-148",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-149",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-150",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-151",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-152",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-153",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-154",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-155",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-156",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-157",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-158",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-159",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-160",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-161",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-162",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-163",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-164",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-165",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-166",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-167",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-168",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-169",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-170",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-171",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-172",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-173",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-174",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-175",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-176",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-177",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-178",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-179",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-180",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-181",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-182",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-183",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-184",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-185",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-186",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-187",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-188",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-189",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-190",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-191",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-192",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-193",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-194",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-195",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-196",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-197",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-198",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-199",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-200",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-201",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-202",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-203",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-204",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-205",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-206",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-207",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-208",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-209",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-210",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-211",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-212",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-213",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-214",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-215",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-216",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-217",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-218",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-219",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-220",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-221",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-222",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-223",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-224",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-225",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-226",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-227",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-228",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 229",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-229",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 230",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-230",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 231",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-231",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 232",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-232",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 233",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-233",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 234",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-234",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 235",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-235",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 236",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-236",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 237",
+      "id": 237,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-237",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 238",
+      "id": 238,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-238",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 239",
+      "id": 239,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-239",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 240",
+      "id": 240,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-240",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 241",
+      "id": 241,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-241",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 242",
+      "id": 242,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-242",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 243",
+      "id": 243,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-243",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 244",
+      "id": 244,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-244",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 245",
+      "id": 245,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-245",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 246",
+      "id": 246,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-246",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 247",
+      "id": 247,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-247",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 248",
+      "id": 248,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-248",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-249",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 250",
+      "id": 250,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-250",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 251",
+      "id": 251,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-251",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 252",
+      "id": 252,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-252",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 253",
+      "id": 253,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-253",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 254",
+      "id": 254,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-254",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 255",
+      "id": 255,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-255",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 256",
+      "id": 256,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-256",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 257",
+      "id": 257,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-257",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 258",
+      "id": 258,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-258",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 259",
+      "id": 259,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-259",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 260",
+      "id": 260,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-260",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 261",
+      "id": 261,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-261",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 262",
+      "id": 262,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-262",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 263",
+      "id": 263,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-263",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 264",
+      "id": 264,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-264",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 265",
+      "id": 265,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-265",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 266",
+      "id": 266,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-266",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 267",
+      "id": 267,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-267",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 268",
+      "id": 268,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-268",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 269",
+      "id": 269,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-269",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 270",
+      "id": 270,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-270",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 271",
+      "id": 271,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-271",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 272",
+      "id": 272,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-272",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 273",
+      "id": 273,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-273",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 274",
+      "id": 274,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-274",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 275",
+      "id": 275,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-275",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 276",
+      "id": 276,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-276",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 277",
+      "id": 277,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-277",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 278",
+      "id": 278,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-278",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 279",
+      "id": 279,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-279",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 280",
+      "id": 280,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-280",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 281",
+      "id": 281,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-281",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 282",
+      "id": 282,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-282",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 283",
+      "id": 283,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-283",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 284",
+      "id": 284,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-284",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 285",
+      "id": 285,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-285",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 286",
+      "id": 286,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-286",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 287",
+      "id": 287,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-287",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 288",
+      "id": 288,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-288",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 289",
+      "id": 289,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-289",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 290",
+      "id": 290,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-290",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 291",
+      "id": 291,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-291",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 292",
+      "id": 292,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-292",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 293",
+      "id": 293,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-293",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 294",
+      "id": 294,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-294",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 295",
+      "id": 295,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-295",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 296",
+      "id": 296,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-296",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 297",
+      "id": 297,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-297",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 298",
+      "id": 298,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-298",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 299",
+      "id": 299,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-299",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 300",
+      "id": 300,
+      "volume": 3,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-300",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 301",
+      "id": 301,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-301",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 302",
+      "id": 302,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-302",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 303",
+      "id": 303,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-303",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 304",
+      "id": 304,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-304",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 305",
+      "id": 305,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-305",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 306",
+      "id": 306,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-306",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 307",
+      "id": 307,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-307",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 308",
+      "id": 308,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-308",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 309",
+      "id": 309,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-309",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 310",
+      "id": 310,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-310",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 311",
+      "id": 311,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-311",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 312",
+      "id": 312,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-312",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 313",
+      "id": 313,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-313",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 314",
+      "id": 314,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-314",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 315",
+      "id": 315,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-315",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 316",
+      "id": 316,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-316",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 317",
+      "id": 317,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-317",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 318",
+      "id": 318,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-318",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 319",
+      "id": 319,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-319",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 320",
+      "id": 320,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-320",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 321",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-321",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 322",
+      "id": 322,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-322",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 323",
+      "id": 323,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-323",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 324",
+      "id": 324,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-324",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 325",
+      "id": 325,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-325",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 326",
+      "id": 326,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-326",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 327",
+      "id": 327,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-327",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 328",
+      "id": 328,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-328",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 329",
+      "id": 329,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-329",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 330",
+      "id": 330,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-330",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 331",
+      "id": 331,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-331",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 332",
+      "id": 332,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-332",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 333",
+      "id": 333,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-333",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 334",
+      "id": 334,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-334",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 335",
+      "id": 335,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-335",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 336",
+      "id": 336,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-336",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 337",
+      "id": 337,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-337",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 338",
+      "id": 338,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-338",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 339",
+      "id": 339,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-339",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 340",
+      "id": 340,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-340",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 341",
+      "id": 341,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-341",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 342",
+      "id": 342,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-342",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 343",
+      "id": 343,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-343",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 344",
+      "id": 344,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-344",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 345",
+      "id": 345,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-345",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 346",
+      "id": 346,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-346",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 347",
+      "id": 347,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-347",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 348",
+      "id": 348,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-348",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 349",
+      "id": 349,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-349",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 350",
+      "id": 350,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-350",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 351",
+      "id": 351,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-351",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 352",
+      "id": 352,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-352",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 353",
+      "id": 353,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-353",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 354",
+      "id": 354,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-354",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 355",
+      "id": 355,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-355",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 356",
+      "id": 356,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-356",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 357",
+      "id": 357,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-357",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 358",
+      "id": 358,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-358",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 359",
+      "id": 359,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-359",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 360",
+      "id": 360,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-360",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 361",
+      "id": 361,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-361",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 362",
+      "id": 362,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-362",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 363",
+      "id": 363,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-363",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 364",
+      "id": 364,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-364",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 365",
+      "id": 365,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-365",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 366",
+      "id": 366,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-366",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 367",
+      "id": 367,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-367",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 368",
+      "id": 368,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-368",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 369",
+      "id": 369,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-369",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 370",
+      "id": 370,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-370",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 371",
+      "id": 371,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-371",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 372",
+      "id": 372,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-372",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 373",
+      "id": 373,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-373",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 374",
+      "id": 374,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-374",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 375",
+      "id": 375,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-375",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 376",
+      "id": 376,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-376",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 377",
+      "id": 377,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-377",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 378",
+      "id": 378,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-378",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 379",
+      "id": 379,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-379",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 380",
+      "id": 380,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-380",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 381",
+      "id": 381,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-381",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 382",
+      "id": 382,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-382",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 383",
+      "id": 383,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-383",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 384",
+      "id": 384,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-384",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 385",
+      "id": 385,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-385",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 386",
+      "id": 386,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-386",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 387",
+      "id": 387,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-387",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 388",
+      "id": 388,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-388",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 389",
+      "id": 389,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-389",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 390",
+      "id": 390,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-390",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 391",
+      "id": 391,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-391",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 392",
+      "id": 392,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-392",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 393",
+      "id": 393,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-393",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 394",
+      "id": 394,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-394",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 395",
+      "id": 395,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-395",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 396",
+      "id": 396,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-396",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 397",
+      "id": 397,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-397",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 398",
+      "id": 398,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-398",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 399",
+      "id": 399,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-399",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 400",
+      "id": 400,
+      "volume": 4,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-400",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 401",
+      "id": 401,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-401",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 402",
+      "id": 402,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-402",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 403",
+      "id": 403,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-403",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 404",
+      "id": 404,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-404",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 405",
+      "id": 405,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-405",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 406",
+      "id": 406,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-406",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 407",
+      "id": 407,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-407",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 408",
+      "id": 408,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-408",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 409",
+      "id": 409,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-409",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 410",
+      "id": 410,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-410",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 411",
+      "id": 411,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-411",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 412",
+      "id": 412,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-412",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 413",
+      "id": 413,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-413",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 414",
+      "id": 414,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-414",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 415",
+      "id": 415,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-415",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 416",
+      "id": 416,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-416",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 417",
+      "id": 417,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-417",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 418",
+      "id": 418,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-418",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 419",
+      "id": 419,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-419",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 420",
+      "id": 420,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-420",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 421",
+      "id": 421,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-421",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 422",
+      "id": 422,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-422",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 423",
+      "id": 423,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-423",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 424",
+      "id": 424,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-424",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 425",
+      "id": 425,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-425",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 426 - Vacation",
+      "id": 426,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-426-vacation",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 427 - Mass Chaos",
+      "id": 427,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-427-mass-chaos",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 428 - Scheme of the Brothers",
+      "id": 428,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-428-scheme-of-the-brothers",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 429 - The First Pavilion Head",
+      "id": 429,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-429-the-first-pavilion-head",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 430 - A Perfect Scheme",
+      "id": 430,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-430-a-perfect-scheme",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 431 - Ling Jian Sends Word",
+      "id": 431,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-431-ling-jian-sends-word",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 432 - Tough Choice",
+      "id": 432,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-432-tough-choice",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 433 - A Small Bet",
+      "id": 433,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-433-a-small-bet",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 434 - A Sudden Ambush",
+      "id": 434,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-434-a-sudden-ambush",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 435 - Complete Annihilation",
+      "id": 435,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-435-complete-annihilation",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 436 - Treating Injuries",
+      "id": 436,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-436-treating-injuries",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 437 - Thirteenth Stage",
+      "id": 437,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-437-thirteenth-stage",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 438 - Entering Bright Jade City",
+      "id": 438,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-438-entering-bright-jade-city",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 439 - Getting Ready for Action",
+      "id": 439,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-439-getting-ready-for-action",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 440 - Deep Dark Night",
+      "id": 440,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-440-deep-dark-night",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 441 - Cautious and Solemn",
+      "id": 441,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-441-cautious-and-solemn",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 442 - Dangerous Grounds",
+      "id": 442,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-442-dangerous-grounds",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 443 - Eavesdropping",
+      "id": 443,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-443-eavesdropping",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 444 - No Road to the Heavens",
+      "id": 444,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-444-no-road-to-the-heavens",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 445 - Negotiation",
+      "id": 445,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-445-negotiation",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 446 - Counter Attacking in Danger",
+      "id": 446,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-446-counter-attacking-in-danger",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 447 - Killing With a Single Sword",
+      "id": 447,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-447-killing-with-a-single-sword",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 448",
+      "id": 448,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-448",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 449 - Rescue Mission",
+      "id": 449,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-449-rescue-mission",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 450 - Sowing Discord Again",
+      "id": 450,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-450-sowing-discord-again",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 451 - Supple As Water",
+      "id": 451,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-451-supple-as-water",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 452 - Deduction",
+      "id": 452,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-452-deduction",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 453 - Final Hope",
+      "id": 453,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-453-final-hope",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 454 - Cut Sleeves, Shared Peaches",
+      "id": 454,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-454-cut-sleeves-shared-peaches",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 455 - Attracting Trouble",
+      "id": 455,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-455-attracting-trouble",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 456 - Hideout",
+      "id": 456,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-456-hideout",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 457 - Inside Floating Fragrance Pavilion",
+      "id": 457,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-457-inside-floating-fragrance-pavilion",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 458 - The Crystal Pavilion's News",
+      "id": 458,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-458-the-crystal-pavilions-news",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 459 - Injustice on the Streets",
+      "id": 459,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-459-injustice-on-the-streets",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 460 - An Old Friend",
+      "id": 460,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-460-an-old-friend",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 461 - A Maiden's Thoughts",
+      "id": 461,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-461-a-maidens-thoughts",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 462 - Headache",
+      "id": 462,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-462-headache",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 463 - Mysterious State",
+      "id": 463,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-463-mysterious-state",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 464 - Succeed by Luck",
+      "id": 464,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-464-succeed-by-luck",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 465 - Eavesdropping",
+      "id": 465,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-465-eavesdropping",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 466 - Impossible to Stop Halfway",
+      "id": 466,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-466-impossible-to-stop-halfway",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 467 - Ling Chen's Plan",
+      "id": 467,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-467-ling-chens-plan",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 468 - Devising a Plan",
+      "id": 468,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-468-devising-a-plan",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 469 - Difficulties of the Heart",
+      "id": 469,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-469-difficulties-of-the-heart",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 470 - To Lie for a Lifetime",
+      "id": 470,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-470-to-lie-for-a-lifetime",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 471 - Mystifying",
+      "id": 471,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-471-mystifying",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 472 - Taking Action Together",
+      "id": 472,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-472-taking-action-together",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 473 - Watching by the Side",
+      "id": 473,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-473-watching-by-the-side",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 474 - The Oriole Behind",
+      "id": 474,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-474-the-oriole-behind",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 475 - Before Dawn",
+      "id": 475,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-475-before-dawn",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 476 - Escaping Misfortune",
+      "id": 476,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-476-escaping-misfortune",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 477 - Giving Chase",
+      "id": 477,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-477-giving-chase",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 478 - Gentleman's Conversation",
+      "id": 478,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-478-gentlemans-conversation",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 479 - The Top Brass Discusses",
+      "id": 479,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-479-the-top-brass-discusses",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 480 - Gamble",
+      "id": 480,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-480-gamble",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 481 - Crazy Stakes",
+      "id": 481,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-481-crazy-stakes",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 482 - Physically and Emotionally Exhausted",
+      "id": 482,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-482-physically-and-emotionally-exhausted",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 483 - Family Head Takes a Concubine",
+      "id": 483,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-483-family-head-takes-a-concubine",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 484 - Was it a Mistake",
+      "id": 484,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-484-was-it-a-mistake",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 485 - Leaving the City",
+      "id": 485,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-485-leaving-the-city",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 486 - The NanGong Family's Revenge",
+      "id": 486,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-486-the-nangong-familys-revenge",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 487 - Erroneous Calculation",
+      "id": 487,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-487-erroneous-calculation",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 488 - Love Without Prospects",
+      "id": 488,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-488-love-without-prospects",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 489 - Keeping Watch Secretly",
+      "id": 489,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-489-keeping-watch-secretly",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 490 - Guests from Heavenly Wind",
+      "id": 490,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-490-guests-from-heavenly-wind",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 491 - Aristocratic Family",
+      "id": 491,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-491-aristocratic-family",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 492 - Unexpected",
+      "id": 492,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-492-unexpected",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 493 - Crazed Hatred",
+      "id": 493,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-493-crazed-hatred",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 494 - Li Xue's Majesty",
+      "id": 494,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-494-li-xues-majesty",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 495 - Shattering the Conspiracy",
+      "id": 495,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-495-shattering-the-conspiracy",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 496 - Forced to a Corner",
+      "id": 496,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-496-forced-to-a-corner",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 497 - Cruel Metamorphosis",
+      "id": 497,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-497-cruel-metamorphosis",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 498 - Ten Days of Hell",
+      "id": 498,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-498-ten-days-of-hell",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 499 - Incoming Storm",
+      "id": 499,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-499-incoming-storm",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 500 - Brewing Crisis",
+      "id": 500,
+      "volume": 5,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-500-brewing-crisis",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 501 - Extreme Danger",
+      "id": 501,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-501-extreme-danger",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 502 - Mysterious Phenomenon",
+      "id": 502,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-502-mysterious-phenomenon",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 503 - Serious Injuries",
+      "id": 503,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-503-serious-injuries",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 504 - Turning Peril into Safety",
+      "id": 504,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-504-turning-peril-into-safety",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 505 - Benefitting from Disaster",
+      "id": 505,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-505-benefitting-from-disaster",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 506 - Justice\u2019s Question",
+      "id": 506,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-506-justice%E2%80%99s-question",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 507 - Way of the Snail",
+      "id": 507,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-507-way-of-the-snail",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 508 - Giving Heaven Splitter",
+      "id": 508,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-508-giving-heaven-splitter",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 509 - No Harm in Looking",
+      "id": 509,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-509-no-harm-in-looking",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 510 - Miraculous Jade Pendant",
+      "id": 510,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-510-miraculous-jade-pendant",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 511 - Thousand Year Mystery",
+      "id": 511,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-511-thousand-year-mystery",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 512 - Sword Offering",
+      "id": 512,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-512-sword-offering",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 513 - A Big Fish",
+      "id": 513,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-513-a-big-fish",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 514 - White Robed Assassin",
+      "id": 514,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-514-white-robed-assassin",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 515 - Wonderful Acting",
+      "id": 515,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-515-wonderful-acting",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 516 - JingLei Requests Aid",
+      "id": 516,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-516-jinglei-requests-aid",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 517 - Coming to an Agreement",
+      "id": 517,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-517-coming-to-an-agreement",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 518 - Perfect Assassination",
+      "id": 518,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-518-perfect-assassination",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 519 - Killing Strike",
+      "id": 519,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-519-killing-strike",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 520 - Great Noble SanSan",
+      "id": 520,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-520-great-noble-sansan",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 521 - Snatching a Peasant Lady",
+      "id": 521,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-521-snatching-a-peasant-lady",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 522 - Internecine Strife",
+      "id": 522,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-522-internecine-strife",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 523 - Tragic Ending",
+      "id": 523,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-523-tragic-ending",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 524 - Return Journey",
+      "id": 524,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-524-return-journey",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 525 - Shui Family Members",
+      "id": 525,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-525-shui-family-members",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 526 - Unceasing Power Struggles",
+      "id": 526,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-526-unceasing-power-struggles",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 527 - Parting on Bad Terms",
+      "id": 527,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-527-parting-on-bad-terms",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 528 - Utility",
+      "id": 528,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-528-utility",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 529 - Unexpected",
+      "id": 529,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-529-unexpected",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 530 - Inability to Seek Death",
+      "id": 530,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-530-inability-to-seek-death",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 531 - Crisis of the Shui Family",
+      "id": 531,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-531-crisis-of-the-shui-family",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 532 - Underestimating the Enemy",
+      "id": 532,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-532-underestimating-the-enemy",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 533 - Ambush in the Forest",
+      "id": 533,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-533-ambush-in-the-forest",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 534 - Meeting Again",
+      "id": 534,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-534-meeting-again",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 535 - Chaotic Battle",
+      "id": 535,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-535-chaotic-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 536 - Disheartened",
+      "id": 536,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-536-disheartened",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 537 - Extreme Slaughter",
+      "id": 537,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-537-extreme-slaughter",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 538 - The Battle Ends",
+      "id": 538,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-538-the-battle-ends",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 539 - Epitome of Shamelessness",
+      "id": 539,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-539-epitome-of-shamelessness",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 540 - Returning Back Fully Loaded",
+      "id": 540,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-540-returning-back-fully-loaded",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 541 - Reunion",
+      "id": 541,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-541-reunion",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 542 - World Embroiled in War",
+      "id": 542,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-542-world-embroiled-in-war",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 543 - Deployment",
+      "id": 543,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-543-deployment",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 544 - Battle of the Goldthread",
+      "id": 544,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-544-battle-of-the-goldthread",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 545 - How to Comfort",
+      "id": 545,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-545-how-to-comfort",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 546 - Enticement",
+      "id": 546,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-546-enticement",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 547 - Are You Willing?",
+      "id": 547,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-547-are-you-willing",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 548 - Three Conditions",
+      "id": 548,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-548-three-conditions",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 549 - I Trust Ling Tian",
+      "id": 549,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-549-i-trust-ling-tian",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 550 - Sending him off to the West",
+      "id": 550,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-550-sending-him-off-to-the-west",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 551 - Jiao Yue\u2019s Heart",
+      "id": 551,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-551-jiao-yue%E2%80%99s-heart",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 552 - Returning Home",
+      "id": 552,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-552-returning-home",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 553 - YanXue in Fright",
+      "id": 553,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-553-yanxue-in-fright",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 554 - Decisive Battle Begins",
+      "id": 554,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-554-decisive-battle-begins",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 555 - Sufficient Preparation",
+      "id": 555,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-555-sufficient-preparation",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 556 - Li Xue\u2019s Scheme",
+      "id": 556,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-556-li-xue%E2%80%99s-scheme",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 557 - Fighting Experience",
+      "id": 557,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-557-fighting-experience",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 558 - Eight Mistakes",
+      "id": 558,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-558-eight-mistakes",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 559 - True Intentions",
+      "id": 559,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-559-true-intentions",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 560 - Divine Black Negative Meridians",
+      "id": 560,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-560-divine-black-negative-meridians",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 561 - Changes in the East",
+      "id": 561,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-561-changes-in-the-east",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 562 - Surface Level, Concealed Level",
+      "id": 562,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-562-surface-level-concealed-level",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 563 - LiGe's Plan",
+      "id": 563,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-563-liges-plan",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 564 - Rumours Spreading",
+      "id": 564,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-564-rumours-spreading",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 565 - The Asura Moves",
+      "id": 565,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-565-the-asura-moves",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 566 - Dense Forest at Night",
+      "id": 566,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-566-dense-forest-at-night",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 567 - Shadow in the Forest",
+      "id": 567,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-567-shadow-in-the-forest",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 568 - Laying a Trap",
+      "id": 568,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-568-laying-a-trap",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 569 - Forest Ambush",
+      "id": 569,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-569-forest-ambush",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 570 - Kill Without Mercy",
+      "id": 570,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-570-kill-without-mercy",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 571 - Inner Thoughts of an Assassin",
+      "id": 571,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-571-inner-thoughts-of-an-assassin",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 572 - Both Sides Rendezvous",
+      "id": 572,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-572-both-sides-rendezvous",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 573 - Crazy Decision",
+      "id": 573,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-573-crazy-decision",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 574 - Sobbing Ghost Mountain",
+      "id": 574,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-574-sobbing-ghost-mountain",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 575 - Each Secretly Rejoicing",
+      "id": 575,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-575-each-secretly-rejoicing",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 576 - Reaching the River",
+      "id": 576,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-576-reaching-the-river",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 577 - River Flow Reversed",
+      "id": 577,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-577-river-flow-reversed",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 578 - Unexpected Rewards",
+      "id": 578,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-578-unexpected-rewards",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 579 - Treasures All Over",
+      "id": 579,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-579-treasures-all-over",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 580 - Sudden Winds of Change",
+      "id": 580,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-580-sudden-winds-of-change",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 581 - Outcome Determined",
+      "id": 581,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-581-outcome-determined",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 582 - Settle Accounts After Autumn",
+      "id": 582,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-582-settle-accounts-after-autumn",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 583 - Freak Accident",
+      "id": 583,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-583-freak-accident",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 584 - Arrogant Assassin",
+      "id": 584,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-584-arrogant-assassin",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 585 - Assassinating Monarch Zhao",
+      "id": 585,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-585-assassinating-monarch-zhao",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 586 - Frightening Assassin",
+      "id": 586,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-586-frightening-assassin",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 587 - Expelling Tiger Swallowing Wolf",
+      "id": 587,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-587-expelling-tiger-swallowing-wolf",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 588 - Above Heavens",
+      "id": 588,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-588-above-heavens",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 589 - Battle of Words",
+      "id": 589,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-589-battle-of-words",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 590 - Intercepting at a Wasteland",
+      "id": 590,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-590-intercepting-at-a-wasteland",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 591 - Violent Night Battle",
+      "id": 591,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-591-violent-night-battle",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 592 - Changes in the Courtyard",
+      "id": 592,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-592-changes-in-the-courtyard",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 593 - Lei Family Invades",
+      "id": 593,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-593-lei-family-invades",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 594 - Battle of the Courtyard",
+      "id": 594,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-594-battle-of-the-courtyard",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 595 - Ling Chi's Strike",
+      "id": 595,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-595-ling-chis-strike",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 596 - Powerful Reinforcement",
+      "id": 596,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-596-powerful-reinforcement",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 597 - Justice Negotiates",
+      "id": 597,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-597-justice-negotiates",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 598 - Ling Tian's Arrival",
+      "id": 598,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-598-ling-tians-arrival",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 599 - Tender Sentiments",
+      "id": 599,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-599-tender-sentiments",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 600 - Life and Death Barrier",
+      "id": 600,
+      "volume": 6,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-600-life-and-death-barrier",
+      "volume_title": "Volume 6"
+    },
+    {
+      "title": "Chapter 601 - Unlimited Will of Heaven",
+      "id": 601,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-601-unlimited-will-of-heaven",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 602 - High Pressure Breakthrough",
+      "id": 602,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-602-high-pressure-breakthrough",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 603 - Averting Crisis",
+      "id": 603,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-603-averting-crisis",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 604 - Heaven Reversing Restoration Pill",
+      "id": 604,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-604-heaven-reversing-restoration-pill",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 605 - Before Purging the Poison",
+      "id": 605,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-605-before-purging-the-poison",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 606 - If I Make the Decision",
+      "id": 606,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-606-if-i-make-the-decision",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 607 - Deep Love of One's Intended",
+      "id": 607,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-607-deep-love-of-ones-intended",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 608 - Romance in the Chamber",
+      "id": 608,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-608-romance-in-the-chamber",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 609 - Peerless Frost Toxins",
+      "id": 609,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-609-peerless-frost-toxins",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 610 - Changeable Situation",
+      "id": 610,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-610-changeable-situation",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 611 - Three Days and Nights",
+      "id": 611,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-611-three-days-and-nights",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 612 - Success",
+      "id": 612,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-612-success",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 613 - Rapid Improvement",
+      "id": 613,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-613-rapid-improvement",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 614 - Training",
+      "id": 614,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-614-training",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 615 - True Attitude",
+      "id": 615,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-615-true-attitude",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 616 - Ling Jian's Challenge",
+      "id": 616,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-616-ling-jians-challenge",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 617 - Parting with Justice",
+      "id": 617,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-617-parting-with-justice",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 618 - Beginning of Winter",
+      "id": 618,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-618-beginning-of-winter",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 619 - Envoy of the Yu Family",
+      "id": 619,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-619-envoy-of-the-yu-family",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 620 - Ling Jian Receives Guests",
+      "id": 620,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-620-ling-jian-receives-guests",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 621 - Snowball",
+      "id": 621,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-621-snowball",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 622 - Put on an Act",
+      "id": 622,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-622-put-on-an-act",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 623 - I Want the Lei Family",
+      "id": 623,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-623-i-want-the-lei-family",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 624 - Joyous and Harmonious",
+      "id": 624,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-624-joyous-and-harmonious",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 625 - Good Guy Bad Guy",
+      "id": 625,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-625-good-guy-bad-guy",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 626 - Heart Knot Untied",
+      "id": 626,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-626-heart-knot-untied",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 627 - Heart Attacking Blade",
+      "id": 627,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-627-heart-attacking-blade",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 628 - BingYan Returns Home",
+      "id": 628,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-628-bingyan-returns-home",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 629 - War of Words",
+      "id": 629,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-629-war-of-words",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 630 - Intense Argument",
+      "id": 630,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-630-intense-argument",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 631 - The Start of a Journey",
+      "id": 631,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-631-the-start-of-a-journey",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 632 - Romantic Sea Journey",
+      "id": 632,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-632-romantic-sea-journey",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 633 - Rocky Pier",
+      "id": 633,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-633-rocky-pier",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 634 - The Pitiful HuangFu",
+      "id": 634,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-634-the-pitiful-huangfu",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 635 - Arrival at Heavenly Wind",
+      "id": 635,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-635-arrival-at-heavenly-wind",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 636 - Song Family: Song Kuang",
+      "id": 636,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-636-song-family-song-kuang",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 637 - Beating the Dogs",
+      "id": 637,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-637-beating-the-dogs",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 638 - Vicious Stratagem",
+      "id": 638,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-638-vicious-stratagem",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 639 - All Hope Turns to Dust",
+      "id": 639,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-639-all-hope-turns-to-dust",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 640 - Huge Change in Heavenly Wind",
+      "id": 640,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-640-huge-change-in-heavenly-wind",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 641 - Rational Conjecture",
+      "id": 641,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-641-rational-conjecture",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 642 - Unknown Calamity",
+      "id": 642,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-642-unknown-calamity",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 643 - Vacant in the East",
+      "id": 643,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-643-vacant-in-the-east",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 644 - Heaven and Earth Essence",
+      "id": 644,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-644-heaven-and-earth-essence",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 645 - Fortune",
+      "id": 645,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-645-fortune",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 646 - Banquet",
+      "id": 646,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-646-banquet",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 647 - Uninvited Guest",
+      "id": 647,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-647-uninvited-guest",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 648 - Third Master Battles",
+      "id": 648,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-648-third-master-battles",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 649 - Peak of Emptiness",
+      "id": 649,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-649-peak-of-emptiness",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 650 - Utterly Insane",
+      "id": 650,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-650-utterly-insane",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 651 - Man of His Word",
+      "id": 651,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-651-man-of-his-word",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 652 - Retribution",
+      "id": 652,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-652-retribution",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 653 - Generational Battle",
+      "id": 653,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-653-generational-battle",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 654 - Can You Bear To?",
+      "id": 654,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-654-can-you-bear-to",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 655 - Battle Between the Ladies",
+      "id": 655,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-655-battle-between-the-ladies",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 656 - Peak of Yu and Shui",
+      "id": 656,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-656-peak-of-yu-and-shui",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 657 - Despicable Means",
+      "id": 657,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-657-despicable-means",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 658 - Peerless Evil Art",
+      "id": 658,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-658-peerless-evil-art",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 659 - Arrival at the Shui Family",
+      "id": 659,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-659-arrival-at-the-shui-family",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 660 - Massacre",
+      "id": 660,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-660-massacre",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 661 - I Want Heavenly Wind",
+      "id": 661,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-661-i-want-heavenly-wind",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 662 - Returning to Heavenly Star",
+      "id": 662,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-662-returning-to-heavenly-star",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 663 - Escape at Last",
+      "id": 663,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-663-escape-at-last",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 664 - Preparing to Set Up an Empire",
+      "id": 664,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-664-preparing-to-set-up-an-empire",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 665 - Divine Prefecture Empire",
+      "id": 665,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-665-divine-prefecture-empire",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 666 - Making a Fuss",
+      "id": 666,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-666-making-a-fuss",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 667 - Gathering of Bandits",
+      "id": 667,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-667-gathering-of-bandits",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 668 - Ling Jian\u2019s Springtime",
+      "id": 668,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-668-ling-jian%E2%80%99s-springtime",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 669 - Seeking Trouble",
+      "id": 669,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-669-seeking-trouble",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 670 - Successful Plan",
+      "id": 670,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-670-successful-plan",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 671 - Three Souls Seven Bodies",
+      "id": 671,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-671-three-souls-seven-bodies",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 672 - Utterly Heartless",
+      "id": 672,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-672-utterly-heartless",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 673 - Rebuke in the Face",
+      "id": 673,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-673-rebuke-in-the-face",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 674 - Operation Ox Blade",
+      "id": 674,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-674-operation-ox-blade",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 675 - Bewildering Grass",
+      "id": 675,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-675-bewildering-grass",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 676 - Founding Ceremony",
+      "id": 676,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-676-founding-ceremony",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 677 - Passing Down the Throne",
+      "id": 677,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-677-passing-down-the-throne",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 678 - Escaping Pathetically",
+      "id": 678,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-678-escaping-pathetically",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 679 - Position of Empress",
+      "id": 679,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-679-position-of-empress",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 680 - Beauty as a Mental Demon",
+      "id": 680,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-680-beauty-as-a-mental-demon",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 681 - Fan of the Assassin",
+      "id": 681,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-681-fan-of-the-assassin",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 682 - Building a Bridge",
+      "id": 682,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-682-building-a-bridge",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 683 - Choice",
+      "id": 683,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-683-choice",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 684 - Yu Family",
+      "id": 684,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-684-yu-family",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 685 - Sudden Change",
+      "id": 685,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-685-sudden-change",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 686 - Origin of Calamity",
+      "id": 686,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-686-origin-of-calamity",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 687 - Arriving at the Southeast",
+      "id": 687,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-687-arriving-at-the-southeast",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 688 - Master of the First Pavilion",
+      "id": 688,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-688-master-of-the-first-pavilion",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 689 - Killing Intent",
+      "id": 689,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-689-killing-intent",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 690 - Peerless Assassin",
+      "id": 690,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-690-peerless-assassin",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 691 - Dissolved Sect",
+      "id": 691,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-691-dissolved-sect",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 692 - A Strange Treatment Method",
+      "id": 692,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-692-a-strange-treatment-method",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 693 - Success",
+      "id": 693,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-693-success",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 694 - Pacifying the Southeast",
+      "id": 694,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-694-pacifying-the-southeast",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 695 - Ling Tian Matchmakes",
+      "id": 695,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-695-ling-tian-matchmakes",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 696 - Clothed in Yellow Robes",
+      "id": 696,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-696-clothed-in-yellow-robes",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 697 - Majestic Wedding",
+      "id": 697,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-697-majestic-wedding",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 698 - Difficult Choice",
+      "id": 698,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-698-difficult-choice",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 699 - Wedding Night",
+      "id": 699,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-699-wedding-night",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 700 - Wishes Finally Fulfilled",
+      "id": 700,
+      "volume": 7,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-700-wishes-finally-fulfilled",
+      "volume_title": "Volume 7"
+    },
+    {
+      "title": "Chapter 701 - Silence",
+      "id": 701,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-701-silence",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 702 - Asura in the Blizzard",
+      "id": 702,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-702-asura-in-the-blizzard",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 703 - Curtains to War Open",
+      "id": 703,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-703-curtains-to-war-open",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 704 - Flames of War",
+      "id": 704,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-704-flames-of-war",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 705 - Reinforcements From Afar",
+      "id": 705,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-705-reinforcements-from-afar",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 706 - Moment of Life and Death",
+      "id": 706,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-706-moment-of-life-and-death",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 707 - Death Reaper's Divine Might",
+      "id": 707,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-707-death-reapers-divine-might",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 708 - Successful Rescue",
+      "id": 708,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-708-successful-rescue",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 709 - XiMen's Defeat",
+      "id": 709,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-709-ximens-defeat",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 710 - A Wave of Chaos",
+      "id": 710,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-710-a-wave-of-chaos",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 711 - The Finale (1)",
+      "id": 711,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-711-the-finale-1",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 712 - The Finale (2)",
+      "id": 712,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-712-the-finale-2",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 713 - The Finale (3)",
+      "id": 713,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-713-the-finale-3",
+      "volume_title": "Volume 8"
+    },
+    {
+      "title": "Chapter 713 (END) - The Finale (3)",
+      "id": 713,
+      "volume": 8,
+      "url": "http://boxnovel.org/legend-of-ling-tian-chapter-713-end-the-finale-3",
+      "volume_title": "Volume 8"
+    }
+  ],
+  "rtl": false
+}

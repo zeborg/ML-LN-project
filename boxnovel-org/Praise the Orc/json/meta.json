@@ -1,0 +1,1687 @@
+{
+  "url": "http://boxnovel.org/novel/praise-the-orc",
+  "title": "Praise the Orc!",
+  "author": "Lee Jungmin",
+  "cover": "https://2.bp.blogspot.com/-0R34PD9VgeU/XbBrNfikK7I/AAAAAAAAHWU/ROIr_gxZy0Ig9oFGprTcMiQ78y2ZxGdHwCLcBGAsYHQ/s320/praise-the-orc-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 100,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 36,
+      "final_chapter": 236,
+      "start_chapter": 201
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1 - Prologue",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-1-prologue",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2 - Makers Mistake (1)",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-2-makers-mistake-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3 - Makers Mistake (2)",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-3-makers-mistake-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4 - Instructor Lenox (1)",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-4-instructor-lenox-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5 - Instructor Lenox (2)",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-5-instructor-lenox-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6 - Mutant Hunt (1)",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-6-mutant-hunt-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7 - Mutant Hunt (2)",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-7-mutant-hunt-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8 - Mutant Hunt (3)",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-8-mutant-hunt-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9 - What People Live By (1)",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-9-what-people-live-by-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10 - What People Live By (2)",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-10-what-people-live-by-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11 - Intern Stella",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-11-intern-stella",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12 - User Hunters (1)",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-12-user-hunters-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13 - User Hunters (2)",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-13-user-hunters-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14 - About Life (1)",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-14-about-life-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15 - About Life (2)",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-15-about-life-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16 - About Life (3)",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-16-about-life-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17 - Warriors Qualifications (1)",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-17-warriors-qualifications-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18 - Warriors Qualifications (2)",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-18-warriors-qualifications-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19 - Warriors Qualifications (3)",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-19-warriors-qualifications-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20 - Humans and Shaman (1)",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-20-humans-and-shaman-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21 - Humans and Shaman (2)",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-21-humans-and-shaman-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22 - Orcrox Warriors (1)",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-22-orcrox-warriors-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23 - Orcrox Warriors (2)",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-23-orcrox-warriors-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24 - Orcrox Warriors (3)",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-24-orcrox-warriors-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25 - Bultar.",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-25-bultar",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26 - Goodbye Orcrox (1)",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-26-goodbye-orcrox-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27 - Goodbye Orcrox (2)",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-27-goodbye-orcrox-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28 - A Proposal that cant be Rejected (1)",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-28-a-proposal-that-cant-be-rejected-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29 - Proposal that cant be Rejected (2)",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-29-proposal-that-cant-be-rejected-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30 - Plains Rescue (1)",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-30-plains-rescue-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31 - Plains Rescue (2)",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-31-plains-rescue-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32 - Plains Rescue (3)",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-32-plains-rescue-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33 - Plains Rescue (4)",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-33-plains-rescue-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34 - Contrast (1)",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-34-contrast-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35 - Contrast (2)",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-35-contrast-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36 - Contrast (3)",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-36-contrast-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37 - Truth (1)",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-37-truth-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38 - Truth (2)",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-38-truth-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39 - Honorary Citizen",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-39-honorary-citizen",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40 - Chesswood (1)",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-40-chesswood-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41 - Chesswood (2)",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-41-chesswood-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42 - WATER (1)",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-42-water-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43 - WATER (2)",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-43-water-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44 - SMOKE (1)",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-44-smoke-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45 - SMOKE (2)",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-45-smoke-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46 - A FIRE IN THE SKY (1)",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-46-a-fire-in-the-sky-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47 - A FIRE IN THE SKY (2)",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-47-a-fire-in-the-sky-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48 - A FIRE IN THE SKY (3)",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-48-a-fire-in-the-sky-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49 - Fallen God",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-49-fallen-god",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50 - And Then...",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-50-and-then",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51 - Freedom",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-51-freedom",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52 - Yiyus Revenge (1)",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-52-yiyus-revenge-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53 - Yiyus Revenge (2)",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-53-yiyus-revenge-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54 - Yiyus Revenge (3)",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-54-yiyus-revenge-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55 - Yiyus Revenge (4)",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-55-yiyus-revenge-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56 - To the North (1)",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-56-to-the-north-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57 - To the North (2)",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-57-to-the-north-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58 - Quantes (1)",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-58-quantes-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59 - Quantes (2)",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-59-quantes-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60 - The Demons Mouth (1)",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-60-the-demons-mouth-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61 - The Demons Mouth (2)",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-61-the-demons-mouth-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62 - The Demons Mouth (3)",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-62-the-demons-mouth-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63 - Becoming a Ranker (1)",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-63-becoming-a-ranker-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64 - Becoming a Ranker (2)",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-64-becoming-a-ranker-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65- Becoming a Ranker (3)",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-65-becoming-a-ranker-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66 - Season of Hunting (1)",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-66-season-of-hunting-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67 - Season of Hunting (2)",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-67-season-of-hunting-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68 - Season of Hunting (3)",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-68-season-of-hunting-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69 - Season of Hunting (4)",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-69-season-of-hunting-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70 - Opening the North (1)",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-70-opening-the-north-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71 - Opening the North (2)",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-71-opening-the-north-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72 - Northern Orcs (1)",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-72-northern-orcs-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73 - Northern Orcs (2)",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-73-northern-orcs-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74 Great Clan (1)",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-74-great-clan-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75 - Great Clan (2)",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-75-great-clan-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76 - Orcheim (1)",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-76-orcheim-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77 - Orcheim (2)",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-77-orcheim-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78 - Orcheim (3)",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-78-orcheim-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79 - Willful Negligence (1)",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-79-willful-negligence-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80 - Willful Negligence (2)",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-80-willful-negligence-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81 - Stranger (1)",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-81-stranger-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82 - Stranger (2)",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-82-stranger-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83 - Alive (1)",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-83-alive-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84 - Alive (2)",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-84-alive-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85 - Alive (3)",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-85-alive-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86 - Alive (4)",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-86-alive-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87 - Tuna",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-87-tuna",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88 - The Black Forest (1)",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-88-the-black-forest-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89 - The Black Forest (2)",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-89-the-black-forest-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90 - The Black Forest (3)",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-90-the-black-forest-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91 - The Black Forest (4)",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-91-the-black-forest-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92 - Nameragon (1)",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-92-nameragon-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93 - Nameragon (2)",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-93-nameragon-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94 - Nameragon (3)",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-94-nameragon-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95 - Nameragon (4)",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-95-nameragon-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96 - Monsters (1)",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-96-monsters-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97 - Monsters (2)",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-97-monsters-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98 - Temple of the Fallen God (1)",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-98-temple-of-the-fallen-god-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99 - Temple of the Fallen God (2)",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-99-temple-of-the-fallen-god-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100 - At a Loss",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-100-at-a-loss",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101 - How to Become a Magician (1)",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-101-how-to-become-a-magician-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102 - How to Become a Magician (2)",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-102-how-to-become-a-magician-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103 - Spinoa (1)",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-103-spinoa-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104 - Spinoa (2)",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-104-spinoa-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105 - Great Northern War (1)",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-105-great-northern-war-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106 - Great Northern War (2)",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-106-great-northern-war-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107 - Great Northern War (3)",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-107-great-northern-war-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108 - Great Northern War (4)",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-108-great-northern-war-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109 - Great Northern War (5)",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-109-great-northern-war-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110 - Great Northern War (6)",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-110-great-northern-war-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111 - Great Northern War (7)",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-111-great-northern-war-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112 - Great Northern War (8)",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-112-great-northern-war-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113 - Harsh March (1)",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-113-harsh-march-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114 - Harsh March (2)",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-114-harsh-march-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115 - Make a Sound in the East, then Strike in the West (1)",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-115-make-a-sound-in-the-east-then-strike-in-the-west-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116 - Make a Sound in the East, then Strike in the West (2)",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-116-make-a-sound-in-the-east-then-strike-in-the-west-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117 - First Strike (1)",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-117-first-strike-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118 - First Strike (2)",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-118-first-strike-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119 - First Strike (3)",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-119-first-strike-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120 - Before the Storm",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-120-before-the-storm",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121 - Secondary Round (1)",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-121-secondary-round-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122 - Secondary Round (2)",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-122-secondary-round-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123 - Decisive Battle (1)",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-123-decisive-battle-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124 - Decisive Battle (2)",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-124-decisive-battle-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125 - Northern Conqueror",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-125-northern-conqueror",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126 - White Knight (1)",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-126-white-knight-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127 - White Knight (2)",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-127-white-knight-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128 - Northern Law (1)",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-128-northern-law-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129 - Northern Law (2)",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-129-northern-law-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130 - COME BACK (1)",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-130-come-back-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131 - COME BACK (2)",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-131-come-back-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132 - Mountain of Sabres, Forest of Swords (1)",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-132-mountain-of-sabres-forest-of-swords-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133 - Mountain of Sabres, Forest of Swords (2)",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-133-mountain-of-sabres-forest-of-swords-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134 - Mountain of Sabres, Forest of Swords (3)",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-134-mountain-of-sabres-forest-of-swords-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135 - Mountain of Sabres, Forest of Swords (4)",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-135-mountain-of-sabres-forest-of-swords-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136 - Mountain of Sabres, Forest of Swords (5)",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-136-mountain-of-sabres-forest-of-swords-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137 - Mountain of Sabres, Forest of Swords (6)",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-137-mountain-of-sabres-forest-of-swords-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138 - Era of Regret",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-138-era-of-regret",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139 - Papillon (1)",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-139-papillon-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140 - Papillon (2)",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-140-papillon-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141 - When I was down (1)",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-141-when-i-was-down-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142 - When I was down (2)",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-142-when-i-was-down-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143 - Half-time",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-143-half-time",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144 - Dirty South (1)",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-144-dirty-south-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145 - Dirty South (2)",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-145-dirty-south-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146 - Dirty South (3)",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-146-dirty-south-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147 - Great Duel (1)",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-147-great-duel-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148 - Great Duel (2)",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-148-great-duel-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149 - Great Duel (3)",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-149-great-duel-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150 - Evil Empire",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-150-evil-empire",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151 - Rain is Coming",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-151-rain-is-coming",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152 - Cataclysm (1)",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-152-cataclysm-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153 - Cataclysm (2)",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-153-cataclysm-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154 - Cataclysm (3)",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-154-cataclysm-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155 - Mountain Smasher (1)",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-155-mountain-smasher-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156 - Mountain Smasher (2)",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-156-mountain-smasher-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157 - Evil Solidarity (1)",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-157-evil-solidarity-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158 - Evil Solidarity (2)",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-158-evil-solidarity-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159 - Evil Solidarity (3)",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-159-evil-solidarity-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160 - Empires Public Enemy (1)",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-160-empires-public-enemy-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161 - Empires Public Enemy (2)",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-161-empires-public-enemy-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162 - Empire Strikes Back (1)",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-162-empire-strikes-back-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163 - Empire Strikes Back (2)",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-163-empire-strikes-back-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164 - Empire Strikes Back (3)",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-164-empire-strikes-back-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165 - Five Senses Landscape (1)",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-165-five-senses-landscape-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166 - Five Senses Landscape (2)",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-166-five-senses-landscape-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167 - Five Senses Landscape (3)",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-167-five-senses-landscape-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168 - Crockta (1)",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-168-crockta-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169 - Crockta (2)",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-169-crockta-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170 - Encirclement Battle (1)",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-170-encirclement-battle-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171 - Encirclement Battle (2)",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-171-encirclement-battle-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172 - Encirclement Battle (3)",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-172-encirclement-battle-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173 - Encirclement Battle (4)",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-173-encirclement-battle-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174 - Encirclement Battle (5)",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-174-encirclement-battle-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175 - Olympus",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-175-olympus",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176 - What Happened on the Beach (1)",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-176-what-happened-on-the-beach-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177 - What Happened on the Beach (2)",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-177-what-happened-on-the-beach-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178 - What Happened on the Beach (3)",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-178-what-happened-on-the-beach-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179 - Hedors Legacy (1)",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-179-hedors-legacy-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180 - Hedors Legacy (2)",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-180-hedors-legacy-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181 - Slayer Maker (1)",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-181-slayer-maker-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182 - Slayer Maker (2)",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-182-slayer-maker-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183 - The Last Fire (1)",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-183-the-last-fire-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184 - The Last Fire (2)",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-184-the-last-fire-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185 - Homecoming",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-185-homecoming",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186 - God Slayer (1)",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-186-god-slayer-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187 - God Slayer (2)",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-187-god-slayer-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188 - Kill the Thunderbird (1)",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-188-kill-the-thunderbird-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189 - Kill the Thunderbird (2)",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-189-kill-the-thunderbird-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190 - Kill the Thunderbird (3)",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-190-kill-the-thunderbird-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191 - Kill the Thunderbird (4)",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-191-kill-the-thunderbird-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192 - The Swamp (1)",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-192-the-swamp-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193 - The Swamp (2)",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-193-the-swamp-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194 - The Swamp (3)",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-194-the-swamp-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195 - The Road to Orcrox (1)",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-195-the-road-to-orcrox-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196 - The Road to Orcrox (2)",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-196-the-road-to-orcrox-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197 - Like a Slave, Like a King (1)",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-197-like-a-slave-like-a-king-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198 - Like a Slave, Like a King (2)",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-198-like-a-slave-like-a-king-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199 - Like a Slave, Like a King (3)",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-199-like-a-slave-like-a-king-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200 - Dragon and Tiger Cave",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-200-dragon-and-tiger-cave",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201 - Opening of the War (1)",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-201-opening-of-the-war-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202 - Opening of the War (2)",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-202-opening-of-the-war-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203 - War of the Gods (1)",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-203-war-of-the-gods-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204 - War of the Gods (2)",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-204-war-of-the-gods-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205 - War of the Gods (3)",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-205-war-of-the-gods-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206 - War of the Gods (4)",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-206-war-of-the-gods-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207 - War of the Gods (5)",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-207-war-of-the-gods-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208 - War of the Gods (6)",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-208-war-of-the-gods-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209 - War of the Gods (7)",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-209-war-of-the-gods-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210 - War of the Gods (8)",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-210-war-of-the-gods-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211 - Last Stand (1)",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-211-last-stand-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212 - Last Stand (2)",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-212-last-stand-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213 - WARNING (1)",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-213-warning-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214 - WARNING (2)",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-214-warning-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215 - Tumult (1)",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-215-tumult-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216 - Tumult (2)",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-216-tumult-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217 - Tumult (3)",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-217-tumult-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218 - A Road has No Gate (1)",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-218-a-road-has-no-gate-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219 - A Road has No Gate (2)",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-219-a-road-has-no-gate-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220 - A Road has No Gate (3)",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-220-a-road-has-no-gate-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221 - A Road has No Gate (4)",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-221-a-road-has-no-gate-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222 - A Road has No Gate (5)",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-222-a-road-has-no-gate-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223 - A Road has No Gate (6)",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-223-a-road-has-no-gate-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224 - A Road has No Gate (7)",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-224-a-road-has-no-gate-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225 - COSMOS (1)",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-225-cosmos-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226 - COSMOS (2)",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-226-cosmos-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227 - EPILOGUE (1)",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-227-epilogue-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228 - EPILOGUE (2)",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-chapter-228-epilogue-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (1)",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (2)",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (3)",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (4)",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (5)",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (6)",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (7)",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "PTO Extra Story (8) (End)",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/praise-the-orc-pto-extra-story-8-end",
+      "volume_title": "Volume 3"
+    }
+  ],
+  "rtl": false
+}

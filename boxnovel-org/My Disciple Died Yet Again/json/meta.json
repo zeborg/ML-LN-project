@@ -1,0 +1,2816 @@
+{
+  "url": "http://boxnovel.org/novel/my-disciple-died-yet-again",
+  "title": "My Disciple Died Yet Again",
+  "author": "\u5c24\u524d",
+  "cover": "https://1.bp.blogspot.com/-kIlzme75aL4/XbBqcqGbVpI/AAAAAAAAHNs/URYGtpRN78QE8t7yiKynAIJop-GYu7mYgCLcBGAsYHQ/s320/my-disciple-died-yet-again-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 100,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 100,
+      "final_chapter": 300,
+      "start_chapter": 201
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 94,
+      "final_chapter": 395,
+      "start_chapter": 301
+    },
+    {
+      "id": 5,
+      "title": "Volume 5",
+      "volume": "5",
+      "chapter_count": 1,
+      "final_chapter": 442,
+      "start_chapter": 442
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1: A Peasant Woman, a River, and a Little Field",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-1-a-peasant-woman-a-river-and-a-little-field",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2: The Deities\u2019 Disciple Selection",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-2-the-deities%E2%80%99-disciple-selection",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3: Curiosity Kills the Cat",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-3-curiosity-kills-the-cat",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4: Entering the Mountain Sect",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-4-entering-the-mountain-sect",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5: Bro, Who Are You?",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-5-bro-who-are-you",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6: Admitting into the Jade Forest",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-6-admitting-into-the-jade-forest",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7: Don\u2019t Look for Trouble, and Trouble will not Come",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-7-don%E2%80%99t-look-for-trouble-and-trouble-will-not-come",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8: Jade Forest Mountain Peak",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-8-jade-forest-mountain-peak",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9: Gold Nest, Silver Nest, Dog\u2019s Nest",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-9-gold-nest-silver-nest-dog%E2%80%99s-nest",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10: Meeting the Little Turnip Again",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-10-meeting-the-little-turnip-again",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11: Master\u2019s New Skill",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-11-master%E2%80%99s-new-skill",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12: Network Delaying Auntie",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-12-network-delaying-auntie",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13: Master has Good Skills",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-13-master-has-good-skills",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14: The Sect Master\u2019s Headache",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-14-the-sect-master%E2%80%99s-headache",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15: Reunion with Little Wang",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-15-reunion-with-little-wang",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16: Emergency",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-16-emergency",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17: The Damn Fatty that Fell from the Sky",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-17-the-damn-fatty-that-fell-from-the-sky",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18: The Three Collapsed Views",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-18-the-three-collapsed-views",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19: Chinese Good Girl Friend",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-19-chinese-good-girl-friend",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20: Master\u2019s Telling You to Come Back Home for Dinner",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-20-master%E2%80%99s-telling-you-to-come-back-home-for-dinner",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21: The Unfortunate Person that Bumped into a Bird",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-21-the-unfortunate-person-that-bumped-into-a-bird",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22: The Storm at Jade Forest Mountain",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-22-the-storm-at-jade-forest-mountain",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23: Great Diarrhea Art",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-23-great-diarrhea-art",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24: A Practitioner Who Cannot Fly",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-24-a-practitioner-who-cannot-fly",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25: Who Doesn\u2019t Know How to Bully?",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-25-who-doesn%E2%80%99t-know-how-to-bully",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26: Little Wimp\u2019s Third Senior-Martial Brother",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-26-little-wimp%E2%80%99s-third-senior-martial-brother",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27: Someone Else\u2019s Counter-Attack Drama",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-27-someone-else%E2%80%99s-counter-attack-drama",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28: Wang Xuzhi VS Xiao Yi",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-28-wang-xuzhi-vs-xiao-yi",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29: He isn\u2019t even Willing to Give me a Hundred Dollars",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-29-he-isn%E2%80%99t-even-willing-to-give-me-a-hundred-dollars",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30: Men Should be Strong and Muscular",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-30-men-should-be-strong-and-muscular",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31: The Common Nauseating Act",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-31-the-common-nauseating-act",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32: Good Things Come in Pairs",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-32-good-things-come-in-pairs",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33: Talented Acting School",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-33-talented-acting-school",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34: A Pig-like Party Member",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-34-a-pig-like-party-member",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35: Human Trafficker",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-35-human-trafficker",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36: A Baby Treats Food as Heaven",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-36-a-baby-treats-food-as-heaven",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37: The Rubbed-Off Principles",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-37-the-rubbed-off-principles",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38: Regarding the Bringing Up of a Disciple",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-38-regarding-the-bringing-up-of-a-disciple",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39: Trust Between Master and Disciple",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-39-trust-between-master-and-disciple",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40: Prehistoric Monster Infant",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-40-prehistoric-monster-infant",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41: Not Playing Around with Disciple Leads to Death",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-41-not-playing-around-with-disciple-leads-to-death",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42: Activating Make-Up Story Mode",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-42-activating-make-up-story-mode",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43: Undoing the Knot in One\u2019s Heart",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-43-undoing-the-knot-in-one%E2%80%99s-heart",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44: The Protagonist\u2019s Cheat is Tricking You",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-44-the-protagonist%E2%80%99s-cheat-is-tricking-you",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45: The So-Called Invincibility Mode",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-45-the-so-called-invincibility-mode",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46: The Promised Protagonist\u2019s Cheat",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-46-the-promised-protagonist%E2%80%99s-cheat",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47: The Round Azoth Core",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-47-the-round-azoth-core",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48: Cultivation Requires Entrance Examinations",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-48-cultivation-requires-entrance-examinations",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49: Setting Off to Tasyoluk",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-49-setting-off-to-tasyoluk",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50: Outsiders Watching the Commotion",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-50-outsiders-watching-the-commotion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51: What Grass is That?",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-51-what-grass-is-that",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52: Treasure Protecting Demonic Beast",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-52-treasure-protecting-demonic-beast",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53: Piggish Party Member Strikes Again",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-53-piggish-party-member-strikes-again",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54: The Chrysanthemum After the Demonic Beast Conclusion",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-54-the-chrysanthemum-after-the-demonic-beast-conclusion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55: Compact, Practical, Suitable and Portable",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-55-compact-practical-suitable-and-portable",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56: When Heading Out, Bringing Along Your Master is a Must",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-56-when-heading-out-bringing-along-your-master-is-a-must",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57: Experiencing The First Marriage Proposal",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-57-experiencing-the-first-marriage-proposal",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58: Sesame Opened a Door",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-58-sesame-opened-a-door",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59: The Shameless Deity",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-59-the-shameless-deity",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60: Master Will Wait For You At Jade Forest Mountain",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-60-master-will-wait-for-you-at-jade-forest-mountain",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61: Zhu Yao Version 3.0",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-61-zhu-yao-version-30",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62: Identity Verification",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-62-identity-verification",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63: Making a Fool out of a Beast Without Discussion",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-63-making-a-fool-out-of-a-beast-without-discussion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64: The Stuck Cultivation",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-64-the-stuck-cultivation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65: Nascent Soul Formation Period",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-65-nascent-soul-formation-period",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66: Admitting into Ancient Hill Sect Once Again",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-66-admitting-into-ancient-hill-sect-once-again",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67: Promotion Ceremony",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-67-promotion-ceremony",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68: Cat Fight When There\u2019s Nothing to Do",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-68-cat-fight-when-there%E2%80%99s-nothing-to-do",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69: Little Rescue Squad",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-69-little-rescue-squad",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70: The Queen Regnant",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-70-the-queen-regnant",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71: Could not be Described",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-71-could-not-be-described",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72: Three Heads, Four Heads, are Better than One",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-72-three-heads-four-heads-are-better-than-one",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73: Hehe, Ancient Secret Technique",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-73-hehe-ancient-secret-technique",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74: I Accidentally Fooled You",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-74-i-accidentally-fooled-you",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75: Optic Fiber-like Cultivation",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-75-optic-fiber-like-cultivation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76: Crowd of Completely Unaware Onlookers",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-76-crowd-of-completely-unaware-onlookers",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77: Don\u2019t Worry, Leave it to Me",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-77-don%E2%80%99t-worry-leave-it-to-me",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78: Hu Hansan has Returned",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-78-hu-hansan-has-returned",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79: The Sect Master\u2019s Thoughts",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-79-the-sect-master%E2%80%99s-thoughts",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80: Big Sis, Don\u2019t Scare Me",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-80-big-sis-don%E2%80%99t-scare-me",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81: I Actually Like Men",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-81-i-actually-like-men",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82: Disciple, Come, Let\u2019s do an Experiment",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-82-disciple-come-let%E2%80%99s-do-an-experiment",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83: Male BUG, Female BUG",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-83-male-bug-female-bug",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84: Xiao Yi\u2019s Godly Logic",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-84-xiao-yi%E2%80%99s-godly-logic",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85: A Small Universal Outbreak",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-85-a-small-universal-outbreak",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86: The First Cannon Fodder",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-86-the-first-cannon-fodder",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87: Hello, Zhu Yao 4.0 Has Logged In",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-87-hello-zhu-yao-40-has-logged-in",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88: Where Did this Little Junior-Martial Sister Come From?",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-88-where-did-this-little-junior-martial-sister-come-from",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89: Umm, a Forceful Tyrant",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-89-umm-a-forceful-tyrant",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90: Master is Leaving",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-90-master-is-leaving",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91: Don\u2019t Die Anymore",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-91-don%E2%80%99t-die-anymore",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92: Pure Yin Physique",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-92-pure-yin-physique",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93: Jade Forest\u2019s Naming Tradition",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-93-jade-forest%E2%80%99s-naming-tradition",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94: The Late Precognitive Dream",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-94-the-late-precognitive-dream",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95: Meeting Cannot be Compared to Yearning",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-95-meeting-cannot-be-compared-to-yearning",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96: Invincible Water Spirit Vein",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-96-invincible-water-spirit-vein",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97: Heading Out to Grab a Male Partner",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-97-heading-out-to-grab-a-male-partner",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98: The Male Partner\u2019s Schemes",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-98-the-male-partner%E2%80%99s-schemes",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99: Coming Straight Back after Picking Up the Male Partner",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-99-coming-straight-back-after-picking-up-the-male-partner",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100: Tragedy of the Destroyed Sect",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-100-tragedy-of-the-destroyed-sect",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101: Which Sect has the Best Cultivation Techniques?",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-101-which-sect-has-the-best-cultivation-techniques",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102: Theory of Cultivation Coordination",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-102-theory-of-cultivation-coordination",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103: A Single Woman in a Doubles",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-103-a-single-woman-in-a-doubles",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104: Little Radish is Transforming",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-104-little-radish-is-transforming",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105: A BUG Can Call for a Transfer",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-105-a-bug-can-call-for-a-transfer",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106: This World Where We Have to Look at Faces",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-106-this-world-where-we-have-to-look-at-faces",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107: The Strange Shadow",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-107-the-strange-shadow",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108: The Twins within the Ice",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-108-the-twins-within-the-ice",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109: Strange Little Radish",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-109-strange-little-radish",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110: A Beast Responds with a Single Call",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-110-a-beast-responds-with-a-single-call",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111: Lord, What a Fateful Coincidence",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-111-lord-what-a-fateful-coincidence",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112: A Money-Making Expert Beast",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-112-a-money-making-expert-beast",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113: World Singularity Record",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-113-world-singularity-record",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114: Changing Maps to Fight Mobs",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-114-changing-maps-to-fight-mobs",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115: The Great Escape",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-115-the-great-escape",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116: Hello, Master",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-116-hello-master",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117: Goodbye, Master",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-117-goodbye-master",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118: Uncontrollable Scenarios",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-118-uncontrollable-scenarios",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119: Why Are You Scolding People?",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-119-why-are-you-scolding-people",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120: Wu Song Cancelling his Engagement",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-120-wu-song-cancelling-his-engagement",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121: There\u2019s No Engagement",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-121-there%E2%80%99s-no-engagement",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122: I\u2019m Going into Isolation Now",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-122-i%E2%80%99m-going-into-isolation-now",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123: Azureflight\u2019s Price",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-123-azureflight%E2%80%99s-price",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124: Jade Forest Refiners are Good",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-124-jade-forest-refiners-are-good",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125: Grasping the Trick Sure Feels Good",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-125-grasping-the-trick-sure-feels-good",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126: Numerous Sects Coming Together to Bully",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-126-numerous-sects-coming-together-to-bully",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127: Mu Meiyan\u2019s Challenge",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-127-mu-meiyan%E2%80%99s-challenge",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128: If I Were to Call You \u2018BUG\u2019, Will You Respond?",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-128-if-i-were-to-call-you-%E2%80%98bug%E2%80%99-will-you-respond",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129: The Sharpest Weapon in the World",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-129-the-sharpest-weapon-in-the-world",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130: What does That have to do with Me?",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-130-what-does-that-have-to-do-with-me",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131: The Divine Residence Above the Sea",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-131-the-divine-residence-above-the-sea",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132: A Retarded Final Battle",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-132-a-retarded-final-battle",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133: The So-Called \u2018Deity\u2019",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-133-the-so-called-%E2%80%98deity%E2%80%99",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134: Your Sister\u2019s a Devil",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-134-your-sister%E2%80%99s-a-devil",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135: Everyone\u2019s Beloved 5.0",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-135-everyone%E2%80%99s-beloved-50",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136: Ill Intentions",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-136-ill-intentions",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137: Truth Exposed",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-137-truth-exposed",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138: Mushroom Special Ops",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-138-mushroom-special-ops",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139: Do I have to be this Unlucky?",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-139-do-i-have-to-be-this-unlucky",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140: I\u2019m a Leg Supporting Expert",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-140-i%E2%80%99m-a-leg-supporting-expert",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141: Master\u2019s IQ has Logged Off",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-141-master%E2%80%99s-iq-has-logged-off",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142: Great Great Grand Master",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-142-great-great-grand-master",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143: Guest of Lightning Divine Hall",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-143-guest-of-lightning-divine-hall",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144: Stagnating Cultivation",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-144-stagnating-cultivation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145: Tower Sports Meet",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-145-tower-sports-meet",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146: Everyone\u2019s Beloved Truth",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-146-everyone%E2%80%99s-beloved-truth",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147: Release that Lady",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-147-release-that-lady",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148: The Worst Inhuman Abuse",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-148-the-worst-inhuman-abuse",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149: Unfortunate Female Deity",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-149-unfortunate-female-deity",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150: Bi-Gender Type Character",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-150-bi-gender-type-character",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151: Heading Towards Advent Cloud Hall",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-151-heading-towards-advent-cloud-hall",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152: Reunion of Old Friends",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-152-reunion-of-old-friends",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153: Who Bit My Buttocks?",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-153-who-bit-my-buttocks",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154: Three Two Hundred Fifties",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-154-three-two-hundred-fifties",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155: Entering Advent Cloud Hall",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-155-entering-advent-cloud-hall",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156: Being Chased Everywhere in Life",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-156-being-chased-everywhere-in-life",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157: Geez, if you\u2019re Ugly, Don\u2019t Seek Revenge",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-157-geez-if-you%E2%80%99re-ugly-don%E2%80%99t-seek-revenge",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158: Recognizes Blood, but not the Owner\u2019s",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-158-recognizes-blood-but-not-the-owner%E2%80%99s",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159: Master is Released",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-159-master-is-released",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160: Sudden Change",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-160-sudden-change",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161: Disciple\u2019s Dead Again",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-161-disciple%E2%80%99s-dead-again",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162: Late-coming Scenario Benefit",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-162-late-coming-scenario-benefit",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163: Version 6.0 That Comes with it\u2019s own Scenario",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-163-version-60-that-comes-with-it%E2%80%99s-own-scenario",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164: Please Let Me Appear on Stage",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-164-please-let-me-appear-on-stage",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165: Can\u2019t We Just Have a Nice Talk?",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-165-can%E2%80%99t-we-just-have-a-nice-talk",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166: The Jokester Sent by the Heavens",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-166-the-jokester-sent-by-the-heavens",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167: Master has Menopause too",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-167-master-has-menopause-too",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168: I\u2019m an Egg",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-168-i%E2%80%99m-an-egg",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169: A Bowl of Egg Drop Soup",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-169-a-bowl-of-egg-drop-soup",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170: Chicken Egg, Duck Egg, Century Egg",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-170-chicken-egg-duck-egg-century-egg",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171: Introduction Cutscene",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-171-introduction-cutscene",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172: Disciple, Let\u2019s _____",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-172-disciple-let%E2%80%99s",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173: Please Restrain Yourself from Displaying Your Stupidity",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-173-please-restrain-yourself-from-displaying-your-stupidity",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174: Spatial Mahjong Competition",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-174-spatial-mahjong-competition",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175: The Trash Retreats",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-175-the-trash-retreats",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176: Towards Cloudhold City",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-176-towards-cloudhold-city",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177: Mushroom Rescue Operation",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-177-mushroom-rescue-operation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178: The Minion Who Ascended into the Higher Realm",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-178-the-minion-who-ascended-into-the-higher-realm",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179: Come Back Immediately After You Die",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-179-come-back-immediately-after-you-die",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180: Forced Disconnection Handyman",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-180-forced-disconnection-handyman",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181: Birds Seem to Like Bringing me Back to their Nests",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-181-birds-seem-to-like-bringing-me-back-to-their-nests",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182: Time Adjustment Device",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-182-time-adjustment-device",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183: Far Ancient Highgod",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-183-far-ancient-highgod",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184: The First Art of Disciple Trolling",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-184-the-first-art-of-disciple-trolling",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185: Second Art of Disciple Trolling",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-185-second-art-of-disciple-trolling",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186: There\u2019s Always That One Idiot Who Wants to Eat You",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-186-there%E2%80%99s-always-that-one-idiot-who-wants-to-eat-you",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187: The Gradually Rising Bug",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-187-the-gradually-rising-bug",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188: Seal Released",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-188-seal-released",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189: Godly Energy Online Recharging Service",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-189-godly-energy-online-recharging-service",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190: Approaching Irregularity",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-190-approaching-irregularity",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191: The Final Godbeast",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-191-the-final-godbeast",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192: This World is Doomed",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-192-this-world-is-doomed",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193: Version Rollback",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-193-version-rollback",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194: Yue Ying, Let Us Have a Chat",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-194-yue-ying-let-us-have-a-chat",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195: The Unexpected Truth",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-195-the-unexpected-truth",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196: Permitted to Bring Family Members Along",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-196-permitted-to-bring-family-members-along",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197: Flunked",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-197-flunked",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198: He Hasn\u2019t Bathed for Five Years",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-198-he-hasn%E2%80%99t-bathed-for-five-years",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199: Master, You\u2019re so Cute",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-199-master-you%E2%80%99re-so-cute",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200: The Punctually Sent Scenario",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-200-the-punctually-sent-scenario",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201: Dug a Hole",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-201-dug-a-hole",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202: Don\u2019t Talk to Me",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-202-don%E2%80%99t-talk-to-me",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203: Catching a Beast",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-203-catching-a-beast",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204: That Familiar Beast",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-204-that-familiar-beast",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205: That Beast with Strange Brain Circuits",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-205-that-beast-with-strange-brain-circuits",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206: Seeing the Old Beast Again",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-206-seeing-the-old-beast-again",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207: Sidequest Item",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-207-sidequest-item",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208: I Recovered My Cultivation",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-208-i-recovered-my-cultivation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209: A Beast Fell",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-209-a-beast-fell",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210: I Want to Bite Him!",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-210-i-want-to-bite-him",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211: World Favourable Impression",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-211-world-favourable-impression",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212: The Entire World is Begging for Hugs",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-212-the-entire-world-is-begging-for-hugs",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213: I Want to Bear Monkeys For You",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-213-i-want-to-bear-monkeys-for-you",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214: War Between Humans and Beasts",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-214-war-between-humans-and-beasts",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215: May I Ask Who\u2019s Soon?",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-215-may-i-ask-who%E2%80%99s-soon",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216: Divine My Ass!",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-216-divine-my-ass",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217: Mary Sue\u2019s Gary Stu",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-217-mary-sue%E2%80%99s-gary-stu",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218: Don\u2019t Force My Hand",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-218-don%E2%80%99t-force-my-hand",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219: Saving the World in Another Way",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-219-saving-the-world-in-another-way",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220: Long Live My Empress",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-220-long-live-my-empress",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221: Sect Mascot",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-221-sect-mascot",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222: Please, Be Prideful and Cold Like Before",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-222-please-be-prideful-and-cold-like-before",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223: Prelude to War",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-223-prelude-to-war",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224: Fried an Egg",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-224-fried-an-egg",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225: Sealing the Devil",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-225-sealing-the-devil",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226 Single Dragon Can\u2019t Be Hurt",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-226-single-dragon-can%E2%80%99t-be-hurt",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227: Piggish Party Member Achievement Unlocked",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-227-piggish-party-member-achievement-unlocked",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228: Reincarnate Into \u2013 The Hell?",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-228-reincarnate-into-%E2%80%93-the-hell",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 229: Regular Citizen of the Underworld",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-229-regular-citizen-of-the-underworld",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 230: \u2018Scare People Ten Times\u2019 Achievement Unlocked",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-230-%E2%80%98scare-people-ten-times%E2%80%99-achievement-unlocked",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 231: The Great King Brought Me to Patrol the Mountains",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-231-the-great-king-brought-me-to-patrol-the-mountains",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 232: All of You Have Been Surrounded",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-232-all-of-you-have-been-surrounded",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 233: Bugs Everywhere on the Ground",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-233-bugs-everywhere-on-the-ground",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 234: It\u2019s Time to Dine",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-234-it%E2%80%99s-time-to-dine",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 235: Irreparable Bug",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-235-irreparable-bug",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 236: Friendship that Transcends the Barrier of Species",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-236-friendship-that-transcends-the-barrier-of-species",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 237: Beast With Pitifully Low Intelligence",
+      "id": 237,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-237-beast-with-pitifully-low-intelligence",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 238: Warrior, You\u2019re Pregnant!",
+      "id": 238,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-238-warrior-you%E2%80%99re-pregnant",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 239: Sleeping Beauty Who Cannot Be Awakened with a Kiss",
+      "id": 239,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-239-sleeping-beauty-who-cannot-be-awakened-with-a-kiss",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 240: Land at the End of the Horizon is This Way",
+      "id": 240,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-240-land-at-the-end-of-the-horizon-is-this-way",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 241: You Shameless Human",
+      "id": 241,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-241-you-shameless-human",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 242: River of Forgetfulness is Too Deep, Throw Some Sand",
+      "id": 242,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-242-river-of-forgetfulness-is-too-deep-throw-some-sand",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 243: Scenario Mode, On",
+      "id": 243,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-243-scenario-mode-on",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 244: Starting the Extended Instance Dungeon",
+      "id": 244,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-244-starting-the-extended-instance-dungeon",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 245: Adjusted Timeline",
+      "id": 245,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-245-adjusted-timeline",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 246: Sword Seeking Convention",
+      "id": 246,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-246-sword-seeking-convention",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 247: Story of Chicks",
+      "id": 247,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-247-story-of-chicks",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 248: First Mystic Artifact",
+      "id": 248,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-248-first-mystic-artifact",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249: There\u2019s a Fraud Shop",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-249-there%E2%80%99s-a-fraud-shop",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 250: The Girl\u2019s Revival",
+      "id": 250,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-250-the-girl%E2%80%99s-revival",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 251: Old Man, Don\u2019t Be Too Depressed",
+      "id": 251,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-251-old-man-don%E2%80%99t-be-too-depressed",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 252: We Can Always Run if We Can\u2019t Win",
+      "id": 252,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-252-we-can-always-run-if-we-can%E2%80%99t-win",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 253: You Fancy Him?",
+      "id": 253,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-253-you-fancy-him",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 254: Don\u2019t Fancy Him!",
+      "id": 254,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-254-don%E2%80%99t-fancy-him",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 255: Onwards to Fall Spirit Peak",
+      "id": 255,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-255-onwards-to-fall-spirit-peak",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 256: Got Tricked",
+      "id": 256,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-256-got-tricked",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 257: Familiar Ancient Ruin",
+      "id": 257,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-257-familiar-ancient-ruin",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 258: How About Becoming My Master?",
+      "id": 258,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-258-how-about-becoming-my-master",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 259: History Can\u2019t be Altered",
+      "id": 259,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-259-history-can%E2%80%99t-be-altered",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 260: Can I Get an Advance on My Rewards?",
+      "id": 260,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-260-can-i-get-an-advance-on-my-rewards",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 261: The Problem Child Who Suddenly Freaked Out",
+      "id": 261,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-261-the-problem-child-who-suddenly-freaked-out",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 262: Fortune to the Empress",
+      "id": 262,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-262-fortune-to-the-empress",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 263: There\u2019s a Strange Person Outside the Door",
+      "id": 263,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-263-there%E2%80%99s-a-strange-person-outside-the-door",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 264: Master, Promise Me, Alright?",
+      "id": 264,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-264-master-promise-me-alright",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 265: Common Enemy of Little Animals",
+      "id": 265,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-265-common-enemy-of-little-animals",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 266: Passive Pet Dispersing Buff",
+      "id": 266,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-266-passive-pet-dispersing-buff",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 267: Turning into a Sieve",
+      "id": 267,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-267-turning-into-a-sieve",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 268: Release My Master",
+      "id": 268,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-268-release-my-master",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 269: Plane Movement Permit",
+      "id": 269,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-269-plane-movement-permit",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 270: Grandma, Listen to Me",
+      "id": 270,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-270-grandma-listen-to-me",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 271: All Children are Unbearable",
+      "id": 271,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-271-all-children-are-unbearable",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 272: Subduing the Little Tyrant",
+      "id": 272,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-272-subduing-the-little-tyrant",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 273: Surging Cultivation",
+      "id": 273,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-273-surging-cultivation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 274: Wife, It\u2019s Me!",
+      "id": 274,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-274-wife-it%E2%80%99s-me",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 275: Do You Want to Hitch a Ride?",
+      "id": 275,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-275-do-you-want-to-hitch-a-ride",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 276: I Will Eat You~!",
+      "id": 276,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-276-i-will-eat-you",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 277: He Must Have Been Really Rich",
+      "id": 277,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-277-he-must-have-been-really-rich",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 278: I Will Never Forgive That Person",
+      "id": 278,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-278-i-will-never-forgive-that-person",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 279: Please Study Well",
+      "id": 279,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-279-please-study-well",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 280: My Childhood is so Miserable",
+      "id": 280,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-280-my-childhood-is-so-miserable",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 281: Starting the Main Protagonist Dungeon Raid",
+      "id": 281,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-281-starting-the-main-protagonist-dungeon-raid",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 282: Catch That Beast!",
+      "id": 282,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-282-catch-that-beast",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 283: Top Excellent Youths",
+      "id": 283,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-283-top-excellent-youths",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 284: Good Enlightenment Helper",
+      "id": 284,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-284-good-enlightenment-helper",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 285: Where\u2019s the Trust Between Humans and Peas?",
+      "id": 285,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-285-where%E2%80%99s-the-trust-between-humans-and-peas",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 286: Green Doraemon",
+      "id": 286,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-286-green-doraemon",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 287: The Pea is About to Give Boons",
+      "id": 287,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-287-the-pea-is-about-to-give-boons",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 288: Cultivation Straight A\u2019s Student",
+      "id": 288,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-288-cultivation-straight-a%E2%80%99s-student",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 289: Peapea, Beastie and Master",
+      "id": 289,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-289-peapea-beastie-and-master",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 290: I Have to Personally Beat This Person Up Myself",
+      "id": 290,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-290-i-have-to-personally-beat-this-person-up-myself",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 291: Kill a Mob Right Before Disconnection",
+      "id": 291,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-291-kill-a-mob-right-before-disconnection",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 292: Just Throw Away the Opportunity for Reincarnation",
+      "id": 292,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-292-just-throw-away-the-opportunity-for-reincarnation",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 293: Glamorous Reformed Body",
+      "id": 293,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-293-glamorous-reformed-body",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 294: Someone Else\u2019s Love Triangle",
+      "id": 294,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-294-someone-else%E2%80%99s-love-triangle",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 295: You\u2019re a Good Person",
+      "id": 295,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-295-you%E2%80%99re-a-good-person",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 296: Radish Sweeping Movement",
+      "id": 296,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-296-radish-sweeping-movement",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 297: The Little Tyrant\u2019s Aptitude",
+      "id": 297,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-297-the-little-tyrant%E2%80%99s-aptitude",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 298: Return to its Former Owner",
+      "id": 298,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-298-return-to-its-former-owner",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 299: Little Tyrant, You Must Become a Good Person",
+      "id": 299,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-299-little-tyrant-you-must-become-a-good-person",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 300: I Feel Like My IQ Will Fall",
+      "id": 300,
+      "volume": 3,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-300-i-feel-like-my-iq-will-fall",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 301: Please Give a Proper Croak",
+      "id": 301,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-301-please-give-a-proper-croak",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 302: A Radish in a Single Hole",
+      "id": 302,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-302-a-radish-in-a-single-hole",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 303: Even in Death, I Must be Beautiful",
+      "id": 303,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-303-even-in-death-i-must-be-beautiful",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 304: Picking Up Beasts Everyday",
+      "id": 304,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-304-picking-up-beasts-everyday",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 305: Towards Wandering City",
+      "id": 305,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-305-towards-wandering-city",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 306: Practitioners\u2019 Great Tournament Reality TV",
+      "id": 306,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-306-practitioners%E2%80%99-great-tournament-reality-tv",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 307: Rising New Star",
+      "id": 307,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-307-rising-new-star",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 308: Hua Lin, Don\u2019t Cry",
+      "id": 308,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-308-hua-lin-don%E2%80%99t-cry",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 309: Run, Little Tyrant",
+      "id": 309,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-309-run-little-tyrant",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 310: Hua Lin Sent a Friend Verification Notification",
+      "id": 310,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-310-hua-lin-sent-a-friend-verification-notification",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 311: Can the Gift be Converted to Cash?",
+      "id": 311,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-311-can-the-gift-be-converted-to-cash",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 312: Suicide Attack",
+      "id": 312,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-312-suicide-attack",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 313: Protect the Dandelions",
+      "id": 313,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-313-protect-the-dandelions",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 314: Victims\u2019 Delusional Stone",
+      "id": 314,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-314-victims%E2%80%99-delusional-stone",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 315: You Should Have a Heart Demon Inside You",
+      "id": 315,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-315-you-should-have-a-heart-demon-inside-you",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 316: Heart Demon Immunity Skill",
+      "id": 316,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-316-heart-demon-immunity-skill",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 317: Removing the Bug of Righteousness",
+      "id": 317,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-317-removing-the-bug-of-righteousness",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 318: Come One Come All, Let\u2019s Conduct a Meeting",
+      "id": 318,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-318-come-one-come-all-let%E2%80%99s-conduct-a-meeting",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 319: Truth Behind the Sect Massacre",
+      "id": 319,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-319-truth-behind-the-sect-massacre",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 320: Villains Should Not Talk So Much Crap",
+      "id": 320,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-320-villains-should-not-talk-so-much-crap",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chaptew 321: Don\u2019t Want to be a Good Giww",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chaptew-321-don%E2%80%99t-want-to-be-a-good-giww",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 321: Don\u2019t Want to be a Good Girl (Actual)",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-321-don%E2%80%99t-want-to-be-a-good-girl-actual",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 322: Packing Up and Heading Home",
+      "id": 322,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-322-packing-up-and-heading-home",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 323: Forced Disconnection",
+      "id": 323,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-323-forced-disconnection",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 324: All-round Technical Support",
+      "id": 324,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-324-all-round-technical-support",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 325: High-Level Scenario",
+      "id": 325,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-325-high-level-scenario",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 326: The Magical Brush",
+      "id": 326,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-326-the-magical-brush",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 327: A Clown That Could Topple Countries",
+      "id": 327,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-327-a-clown-that-could-topple-countries",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 328: Female Lead\u2019s Night Assault",
+      "id": 328,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-328-female-lead%E2%80%99s-night-assault",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 329: Spewing All Over Your Face",
+      "id": 329,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-329-spewing-all-over-your-face",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 330: I Can Read",
+      "id": 330,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-330-i-can-read",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 331: Contracting the Spirit Guiding Beast",
+      "id": 331,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-331-contracting-the-spirit-guiding-beast",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 332: Five Words Floated in the Air",
+      "id": 332,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-332-five-words-floated-in-the-air",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 333: Cheat has Disconnected",
+      "id": 333,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-333-cheat-has-disconnected",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 334: Let Me Conduct Some Research",
+      "id": 334,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-334-let-me-conduct-some-research",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 335: Open (the Path) Sesame",
+      "id": 335,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-335-open-the-path-sesame",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 336: All Roads Lead to the Female Lead",
+      "id": 336,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-336-all-roads-lead-to-the-female-lead",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 337: The Young Man Still Has Two Other Faces",
+      "id": 337,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-337-the-young-man-still-has-two-other-faces",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 338: Avatar Download Complete",
+      "id": 338,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-338-avatar-download-complete",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 339: A Godly Development Suddenly Unfolds",
+      "id": 339,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-339-a-godly-development-suddenly-unfolds",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 340: It\u2019s Time to Disconnect",
+      "id": 340,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-340-it%E2%80%99s-time-to-disconnect",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 341: Become One with the Darkness, Single Puppy",
+      "id": 341,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-341-become-one-with-the-darkness-single-puppy",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 343: Curse of the FFF Inquisition",
+      "id": 343,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-343-curse-of-the-fff-inquisition",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 344: Stupider Than an Idiot",
+      "id": 344,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-344-stupider-than-an-idiot",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 345: Barrierless Two-Way Switch",
+      "id": 345,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-345-barrierless-two-way-switch",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 346: I Dare You to Try Being Impudent",
+      "id": 346,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-346-i-dare-you-to-try-being-impudent",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 347: Heaven or Hell, Look for My Disciple I Shall",
+      "id": 347,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-347-heaven-or-hell-look-for-my-disciple-i-shall",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 348: The Hell is a Female Sword?",
+      "id": 348,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-348-the-hell-is-a-female-sword",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 349: Let Me Quietly Get Zapped",
+      "id": 349,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-349-let-me-quietly-get-zapped",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 350: I Have Just Hit Menopause, I Want Some Peace and Quiet",
+      "id": 350,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-350-i-have-just-hit-menopause-i-want-some-peace-and-quiet",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 351: Floor Master\u2019s Dignity Recovery Plan",
+      "id": 351,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-351-floor-master%E2%80%99s-dignity-recovery-plan",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 352: The Promised Blissful Life",
+      "id": 352,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-352-the-promised-blissful-life",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 353: The Worries of Beasties",
+      "id": 353,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-353-the-worries-of-beasties",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 354: Sesame is Trash",
+      "id": 354,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-354-sesame-is-trash",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 355: Realm Escaping Godly Artifact",
+      "id": 355,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-355-realm-escaping-godly-artifact",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 356: Go and Seek Abuse, Young Man!",
+      "id": 356,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-356-go-and-seek-abuse-young-man",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 357: Let\u2019s Chat About Life",
+      "id": 357,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-357-let%E2%80%99s-chat-about-life",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 358: How to Abandon Delusion Treatment",
+      "id": 358,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-358-how-to-abandon-delusion-treatment",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 359: Your Sister\u2019s a Life Artifact",
+      "id": 359,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-359-your-sister%E2%80%99s-a-life-artifact",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 360: Let\u2019s Clear the Tower Together, Young Maiden",
+      "id": 360,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-360-let%E2%80%99s-clear-the-tower-together-young-maiden",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 361: The Biology Teacher Left Early",
+      "id": 361,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-361-the-biology-teacher-left-early",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 362: Look At My Pure and Clear Eyes",
+      "id": 362,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-362-look-at-my-pure-and-clear-eyes",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 363: Don\u2019t Be Abstract, Be Realistic",
+      "id": 363,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-363-don%E2%80%99t-be-abstract-be-realistic",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 364: Demonic Beast Raid Guide",
+      "id": 364,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-364-demonic-beast-raid-guide",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 365: Exorcism Squad",
+      "id": 365,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-365-exorcism-squad",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 366: Poke the Demonic Beast For Show",
+      "id": 366,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-366-poke-the-demonic-beast-for-show",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 367: The Three Levels of Bastard Aura",
+      "id": 367,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-367-the-three-levels-of-bastard-aura",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 368: Meeting Another Mary Sue",
+      "id": 368,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-368-meeting-another-mary-sue",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 369: Please Call Me Lei Feng",
+      "id": 369,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-369-please-call-me-lei-feng",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 370: It\u2019s Definitely Not That Easy",
+      "id": 370,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-370-it%E2%80%99s-definitely-not-that-easy",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 371: Two-Person Instance",
+      "id": 371,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-371-two-person-instance",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 372: National Big Giveaway",
+      "id": 372,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-372-national-big-giveaway",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 373: Evolved Heart Demon Tribulation",
+      "id": 373,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-373-evolved-heart-demon-tribulation",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 374: Please Speak Politely",
+      "id": 374,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-374-please-speak-politely",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 375: This Sure is Fate",
+      "id": 375,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-375-this-sure-is-fate",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 376: Don\u2019t Pull Aggro Off Tanks",
+      "id": 376,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-376-don%E2%80%99t-pull-aggro-off-tanks",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 377: The Truth Behind the Final Floor",
+      "id": 377,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-377-the-truth-behind-the-final-floor",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 378: The Fate of the Scheming Mary Sue",
+      "id": 378,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-378-the-fate-of-the-scheming-mary-sue",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 379: Realizing an Incredible Secret",
+      "id": 379,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-379-realizing-an-incredible-secret",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 380: I Want to Eat Your Brains",
+      "id": 380,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-380-i-want-to-eat-your-brains",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 381: Second Battle \u2013 Cob Cannon",
+      "id": 381,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-381-second-battle-%E2%80%93-cob-cannon",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 382: The Sunflower Welcoming Group",
+      "id": 382,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-382-the-sunflower-welcoming-group",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 383: Friendly Visit to the Sunflower Country",
+      "id": 383,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-383-friendly-visit-to-the-sunflower-country",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 384: Undefeatable Enemy",
+      "id": 384,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-384-undefeatable-enemy",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 385: Ascend to Godhood, or Fall into Devilhood?",
+      "id": 385,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-385-ascend-to-godhood-or-fall-into-devilhood",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 386: Lightning Divine Tower Ceases to Exist",
+      "id": 386,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-386-lightning-divine-tower-ceases-to-exist",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 387: Become a CEO",
+      "id": 387,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-387-become-a-ceo",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 388: Realmspirit\u2019s Plans",
+      "id": 388,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-388-realmspirit%E2%80%99s-plans",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 389: A Very Mysterious Plane Management Office",
+      "id": 389,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-389-a-very-mysterious-plane-management-office",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 390: The Manager of Guoguo\u2019s Home",
+      "id": 390,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-390-the-manager-of-guoguo%E2%80%99s-home",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 391: Realmspirit\u2019s Return",
+      "id": 391,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-391-realmspirit%E2%80%99s-return",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 392: Divine Realm Management Plan",
+      "id": 392,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-392-divine-realm-management-plan",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 393: The Final Finale",
+      "id": 393,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-393-the-final-finale",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Afterword",
+      "id": 395,
+      "volume": 4,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-afterword",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 442: Awakening Notice",
+      "id": 442,
+      "volume": 5,
+      "url": "http://boxnovel.org/my-disciple-died-yet-again-chapter-442-awakening-notice",
+      "volume_title": "Volume 5"
+    }
+  ],
+  "rtl": false
+}

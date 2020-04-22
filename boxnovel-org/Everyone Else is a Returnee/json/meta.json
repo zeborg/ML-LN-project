@@ -1,0 +1,2521 @@
+{
+  "url": "http://boxnovel.org/novel/everyone-else-is-a-returnee",
+  "title": "Everyone Else is a Returnee",
+  "author": "Toy Car",
+  "cover": "https://4.bp.blogspot.com/-uFkPTTcWiQc/XbBoWmwvFjI/AAAAAAAAGy4/rkMtIiXrd1IW3SQkpdRIaAMeIdFB2JbfgCLcBGAsYHQ/s320/everyone-else-is-a-returnee-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 106,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 100,
+      "final_chapter": 300,
+      "start_chapter": 201
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 48,
+      "final_chapter": 354,
+      "start_chapter": 301
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Prologue Part 1",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-prologue-part-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 1 I Live Alone (1)",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-1-i-live-alone-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Extra Chapter 1: Graduating Lonership, Entering Marriage",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-extra-chapter-1-graduating-lonership-entering-marriage",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Prologue Part 2",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-prologue-part-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2 I Live Alone (2)",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-2-i-live-alone-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Extra Chapter 2: \u2013 My Subordinate Love Comedy is Wrong as I Expected",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-extra-chapter-2-%E2%80%93-my-subordinate-love-comedy-is-wrong-as-i-expected",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3 I Live Alone (3)",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-3-i-live-alone-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Extra Chapter 3: Demigod Eleven",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-extra-chapter-3-demigod-eleven",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4 You Can\u2019t See Me? (1)",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-4-you-can%E2%80%99t-see-me-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Extra Chapter 4: I am the Destroyer of All Foreshadows",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-extra-chapter-4-i-am-the-destroyer-of-all-foreshadows",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5 You Can\u2019t See Me? (2)",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-5-you-can%E2%80%99t-see-me-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6 You Can\u2019t See Me? (3)",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-6-you-can%E2%80%99t-see-me-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7 You Can\u2019t See Me? (4)",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-7-you-can%E2%80%99t-see-me-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8 You Can\u2019t See Me (5)",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-8-you-can%E2%80%99t-see-me-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9 I Hunt Alone (1)",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-9-i-hunt-alone-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10 I Hunt Alone (2)",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-10-i-hunt-alone-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11 I Hunt Alone (3)",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-11-i-hunt-alone-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12 I Hunt Alone (4)",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-12-i-hunt-alone-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13 I Hunt Alone (5)",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-13-i-hunt-alone-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14 I Make Them (1)",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-14-i-make-them-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15 I Make Them (2)",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-15-i-make-them-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16 I Make Them (3)",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-16-i-make-them-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17 I Make Them (4)",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-17-i-make-them-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18 I Make Them (5)",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-18-i-make-them-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19 You Want to Hunt With Me!? (1)",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-19-you-want-to-hunt-with-me-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20 You Want to Hunt With Me!? (2)",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-20-you-want-to-hunt-with-me-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21 You Want to Hunt With Me!? (3)",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-21-you-want-to-hunt-with-me-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22 You Want to Hunt With Me!? (4)",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-22-you-want-to-hunt-with-me-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23 You Want to Hunt With Me!? (5)",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-23-you-want-to-hunt-with-me-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24 You Want to Hunt with Me!? (6)",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-24-you-want-to-hunt-with-me-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25 Call me Ishmael (1)",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-25-call-me-ishmael-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26 Call me Ishmael (2)",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-26-call-me-ishmael-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27 Call Me Ishmael (3)",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-27-call-me-ishmael-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28 Call me Ishmael (4)",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-28-call-me-ishmael-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29 I Also Go to Dungeons",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-29-i-also-go-to-dungeons",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30 I Also Go to Dungeons (2)",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-30-i-also-go-to-dungeons-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31 I Also Go to Dungeons (3)",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-31-i-also-go-to-dungeons-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32 I also go to Dungeons (4)",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-32-i-also-go-to-dungeons-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33 Overflow (1)",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-33-overflow-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34 Overflow (2)",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-34-overflow-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35 Overflow 3",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-35-overflow-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36 Overflow 4",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-36-overflow-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37 Overflow 5",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-37-overflow-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38 -I Also Do 2nd Job Advancement \u2013 1",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-38-i-also-do-2nd-job-advancement-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39 I Also Do 2nd Job Advancement \u2013 2",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-39-i-also-do-2nd-job-advancement-%E2%80%93-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40 I Also Do 2nd Job Advancement 3",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-40-i-also-do-2nd-job-advancement-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41 I Also Do 2nd Job Advancement \u2013 4",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-41-i-also-do-2nd-job-advancement-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42 I Also Do 2nd Job Advancement \u2013 5",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-42-i-also-do-2nd-job-advancement-%E2%80%93-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43 I Also Do 2nd Job Advancement \u2013 6",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-43-i-also-do-2nd-job-advancement-%E2%80%93-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44 I Also Do 2nd Job Advancement \u2013 7",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-44-i-also-do-2nd-job-advancement-%E2%80%93-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45 I Also Do 2nd Job Advancement \u2013 8",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-45-i-also-do-2nd-job-advancement-%E2%80%93-8",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46 I Also Do 2nd Job Advancement \u2013 9",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-46-i-also-do-2nd-job-advancement-%E2%80%93-9",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47 I Also Do 2nd Job Advancement \u2013 10",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-47-i-also-do-2nd-job-advancement-%E2%80%93-10",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48 A Partner Only for Me \u2013 1",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-48-a-partner-only-for-me-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49 A Partner Only for Me \u2013 2",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-49-a-partner-only-for-me-%E2%80%93-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50 A Partner Only for Me \u2013 3",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-50-a-partner-only-for-me-%E2%80%93-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51 A Partner Only for Me \u2013 4",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-51-a-partner-only-for-me-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52 A Partner Only for Me \u2013 5",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-52-a-partner-only-for-me-%E2%80%93-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53: I Carry \u2013 1",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-53-i-carry-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54: I Carry \u2013 2",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-54-i-carry-%E2%80%93-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55: I Carry \u2013 3",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-55-i-carry-%E2%80%93-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56: I Carry \u2013 4",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-56-i-carry-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57: I Carry \u2013 5",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-57-i-carry-%E2%80%93-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58: I Carry \u2013 6",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-58-i-carry-%E2%80%93-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59: I Carry \u2013 7",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-59-i-carry-%E2%80%93-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60: I Carry \u2013 8",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-60-i-carry-%E2%80%93-8",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61: I Carry \u2013 9",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-61-i-carry-%E2%80%93-9",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62: I am also a Building Owner \u2013 1",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-62-i-am-also-a-building-owner-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63: I am also a Building Owner \u2013 2",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-63-i-am-also-a-building-owner-%E2%80%93-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64: I am also a Building Owner \u2013 3",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-64-i-am-also-a-building-owner-%E2%80%93-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65: I am also a Building Owner \u2013 4",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-65-i-am-also-a-building-owner-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66: I am also a Building Owner \u2013 5",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-66-i-am-also-a-building-owner-%E2%80%93-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67: I am also a Building Owner \u2013 6",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-67-i-am-also-a-building-owner-%E2%80%93-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68: Me, a God!? \u2013 1",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-68-me-a-god-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69: Me, a God!? \u2013 2",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-69-me-a-god-%E2%80%93-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70: Me, a God!? \u2013 3",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-70-me-a-god-%E2%80%93-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71: Me, a God!? \u2013 4",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-71-me-a-god-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72: Me, a God!? \u2013 5",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-72-me-a-god-%E2%80%93-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73: Me, a God!? \u2013 6",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-73-me-a-god-%E2%80%93-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74: Me, a God!? \u2013 7",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-74-me-a-god-%E2%80%93-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75: I, too, now \u2013 1",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-75-i-too-now-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76: I, too, now \u2013 2",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-76-i-too-now-%E2%80%93-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77: I, too, now \u2013 3",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-77-i-too-now-%E2%80%93-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78: I, too, now \u2013 4",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-78-i-too-now-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79: I, too, now \u2013 4",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-79-i-too-now-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80: I, too, now \u2013 5",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-80-i-too-now-%E2%80%93-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81: I, too, now \u2013 6",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-81-i-too-now-%E2%80%93-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82: You, I, Strangers \u2013 1",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-82-you-i-strangers-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83: You, I, Strangers \u2013 2",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-83-you-i-strangers-%E2%80%93-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84: You, I, Strangers \u2013 3",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-84-you-i-strangers-%E2%80%93-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85: You, I, Strangers \u2013 4",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-85-you-i-strangers-%E2%80%93-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86: You, I, Strangers \u2013 5",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-86-you-i-strangers-%E2%80%93-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87: You, I, Strangers \u2013 6",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-87-you-i-strangers-%E2%80%93-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88: You, I, Strangers \u2013 7",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-88-you-i-strangers-%E2%80%93-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89: You, I, Strangers \u2013 8",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-89-you-i-strangers-%E2%80%93-8",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90: You, I, Strangers \u2013 9",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-90-you-i-strangers-%E2%80%93-9",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91: You, I, Strangers \u2013 10",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-91-you-i-strangers-%E2%80%93-10",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92: You, I, Strangers \u2013 11",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-92-you-i-strangers-%E2%80%93-11",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93: You, I, Strangers \u2013 12",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-93-you-i-strangers-%E2%80%93-12",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94: You, I, Strangers \u2013 13",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-94-you-i-strangers-%E2%80%93-13",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95: You, I, Strangers \u2013 14",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-95-you-i-strangers-%E2%80%93-14",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96: You, I, Strangers \u2013 15",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-96-you-i-strangers-%E2%80%93-15",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97: You, I, Strangers \u2013 16",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-97-you-i-strangers-%E2%80%93-16",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98: You, I, Strangers \u2013 17",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-98-you-i-strangers-%E2%80%93-17",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99: You, I, Strangers \u2013 18",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-99-you-i-strangers-%E2%80%93-18",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100. I Am A Drifter of My Soul \u2013 1",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-100-i-am-a-drifter-of-my-soul-%E2%80%93-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101. I Am A Drifter of My Soul \u2013 2",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-101-i-am-a-drifter-of-my-soul-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102: I Am A Drifter of My Soul \u2013 3",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-102-i-am-a-drifter-of-my-soul-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103: I Am A Drifter of My Soul \u2013 4",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-103-i-am-a-drifter-of-my-soul-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104: I Am A Drifter of My Soul \u2013 5",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-104-i-am-a-drifter-of-my-soul-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105: I Am A Drifter of My Soul \u2013 6",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-105-i-am-a-drifter-of-my-soul-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106: I Am A Drifter of My Soul \u2013 7",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-106-i-am-a-drifter-of-my-soul-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107: I Am A Drifter of My Soul \u2013 8",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-107-i-am-a-drifter-of-my-soul-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108: I Am A Drifter of My Soul \u2013 9",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-108-i-am-a-drifter-of-my-soul-%E2%80%93-9",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109: I\u2019m the Master of Your Lives \u2013 1",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-109-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110: I\u2019m the Master of Your Lives \u2013 2",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-110-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111: I\u2019m the Master of Your Lives \u2013 3",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-111-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112: I\u2019m the Master of Your Lives \u2013 4",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-112-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113: I\u2019m the Master of Your Lives \u2013 5",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-113-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114: I\u2019m the Master of Your Lives \u2013 6",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-114-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115: I\u2019m the Master of Your Lives \u2013 7",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-115-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116: I\u2019m the Master of Your Lives \u2013 8",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-116-i%E2%80%99m-the-master-of-your-lives-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117: Combine Everyone\u2019s Strength Into One! \u2013 1",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-117-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118: Combine Everyone\u2019s Strength Into One! \u2013 2",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-118-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119: Combine Everyone\u2019s Strength Into One! \u2013 3",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-119-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120: Combine Everyone\u2019s Strength Into One! \u2013 4",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-120-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121: Combine Everyone\u2019s Strength Into One! \u2013 5",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-121-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122: Combine Everyone\u2019s Strength Into One! \u2013 6",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-122-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123: Combine Everyone\u2019s Strength Into One! \u2013 7",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-123-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124: Combine Everyone\u2019s Strength Into One! \u2013 8",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-124-combine-everyone%E2%80%99s-strength-into-one-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125: Invade \u2013 1",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-125-invade-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126: I Invade \u2013 2",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-126-i-invade-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127: I Invade \u2013 3",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-127-i-invade-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128: I Invade \u2013 4",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-128-i-invade-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129: I Invade \u2013 5",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-129-i-invade-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130: I Invade \u2013 6",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-130-i-invade-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131: I Invade \u2013 7",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-131-i-invade-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132: I Invade \u2013 8",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-132-i-invade-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133: Not Me But My Son?! \u2013 1",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-133-not-me-but-my-son-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134: Not Me But My Son?! \u2013 2",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-134-not-me-but-my-son-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135: Not Me But My Son?! \u2013 3",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-135-not-me-but-my-son-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136: Not Me But My Son?! \u2013 4",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-136-not-me-but-my-son-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137: Not Me But My Son?! \u2013 5",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-137-not-me-but-my-son-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138: Not Me But My Son?! \u2013 6",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-138-not-me-but-my-son-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139: Not Me But My Son?! \u2013 7",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-139-not-me-but-my-son-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140: Not Me But My Son?! \u2013 8",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-140-not-me-but-my-son-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141: Not Me But My Son?! \u2013 9",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-141-not-me-but-my-son-%E2%80%93-9",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142: The MVP Is Mine \u2013 1",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-142-the-mvp-is-mine-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143: The MVP Is Mine- 2",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-143-the-mvp-is-mine-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144: MVP \u2013 3",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-144-mvp-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145: The MVP is Mine \u2013 4",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-145-the-mvp-is-mine-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146: The MVP is Mine \u2013 5",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-146-the-mvp-is-mine-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147: I Make My Own Home \u2013 1",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-147-i-make-my-own-home-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148: I Make My Own Home \u2013 2",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-148-i-make-my-own-home-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149: I Make My Own Home \u2013 3",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-149-i-make-my-own-home-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150: I Make My Own Home \u2013 4 Posted on May 11, 2017 by Koukouseidesu \u2014 46 Comments \u2193",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-150-i-make-my-own-home-%E2%80%93-4-posted-on-may-11-2017-by-koukouseidesu-%E2%80%94-46-comments-%E2%86%93",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151: I Make My Own Home \u2013 5",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-151-i-make-my-own-home-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152: I Make My Own Home \u2013 6",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-152-i-make-my-own-home-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153: If I Open It, It\u2019s The Gate To Hell \u2013 1",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-153-if-i-open-it-it%E2%80%99s-the-gate-to-hell-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154: If I Open It, It\u2019s The Gate To Hell \u2013 2",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-154-if-i-open-it-it%E2%80%99s-the-gate-to-hell-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155: If I Open It, It\u2019s The Gate To Hell \u2013 3",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-155-if-i-open-it-it%E2%80%99s-the-gate-to-hell-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156: If I Open It, It\u2019s The Gate To Hell \u2013 4",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-156-if-i-open-it-it%E2%80%99s-the-gate-to-hell-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157: If I Open It, It\u2019s The Gate To Hell \u2013 5",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-157-if-i-open-it-it%E2%80%99s-the-gate-to-hell-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158: If I Open It, It\u2019s The Gate To Hell \u2013 6",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-158-if-i-open-it-it%E2%80%99s-the-gate-to-hell-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159: I am the Center of the World \u2013 1",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-159-i-am-the-center-of-the-world-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160: I am the Center of the World \u2013 2",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-160-i-am-the-center-of-the-world-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161: I am the Center of the World \u2013 3",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-161-i-am-the-center-of-the-world-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162: I am the Center of the World \u2013 4",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-162-i-am-the-center-of-the-world-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163: I am the Center of the World \u2013 5",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-163-i-am-the-center-of-the-world-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164: I am the Center of the World \u2013 6",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-164-i-am-the-center-of-the-world-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165: I am the Center of the World \u2013 7",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-165-i-am-the-center-of-the-world-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166: I am the Center of the World \u2013 8",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-166-i-am-the-center-of-the-world-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167: I am the Digger \u2013 1",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-167-i-am-the-digger-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168: I am the Digger \u2013 2",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-168-i-am-the-digger-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169: I am the Digger \u2013 3",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-169-i-am-the-digger-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170: I am the Digger \u2013 4",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-170-i-am-the-digger-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171: Hell Picnic,Alone \u2013 1",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-171-hell-picnic-alone-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172: Hell Picnic, Alone \u2013 2",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-172-hell-picnic-alone-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173: Hell Picnic, Alone \u2013 3",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-173-hell-picnic-alone-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174: Hell Picnic, Alone \u2013 4",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-174-hell-picnic-alone-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175: Everyone Else Is a Guardian \u2013 1",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-175-everyone-else-is-a-guardian-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176: Everyone Else Is a Guardian \u2013 2",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-176-everyone-else-is-a-guardian-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177: Everyone Else Is a Guardian \u2013 3",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-177-everyone-else-is-a-guardian-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178: Everyone Else Is a Guardian \u2013 4",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-178-everyone-else-is-a-guardian-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179: Everyone Else is a Guardian \u2013 5",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-179-everyone-else-is-a-guardian-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180: Everyone Else is a Guardian \u2013 6",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-180-everyone-else-is-a-guardian-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181: Everyone Else is a Guardian \u2013 7",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-181-everyone-else-is-a-guardian-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182: Everyone Else is a Guardian \u2013 8",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-182-everyone-else-is-a-guardian-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183: Everyone Else is a Guardian \u2013 9",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-183-everyone-else-is-a-guardian-%E2%80%93-9",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184: The Path I Walk \u2013 1",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-184-the-path-i-walk-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185: The Path I Walk \u2013 2",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-185-the-path-i-walk-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186: The Path I Walk \u2013 3",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-186-the-path-i-walk-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187: The Path I Walk \u2013 4",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-187-the-path-i-walk-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188: The Path I Walk \u2013 5",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-188-the-path-i-walk-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189: The Path I Walk \u2013 6",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-189-the-path-i-walk-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190: The Path I Walk \u2013 7",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-190-the-path-i-walk-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191: The Path I Walk \u2013 8",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-191-the-path-i-walk-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192: I Create \u2013 1",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-192-i-create-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193: I Create \u2013 2",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-193-i-create-%E2%80%93-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194: I Create \u2013 3",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-194-i-create-%E2%80%93-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195: I Create \u2013 4",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-195-i-create-%E2%80%93-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196: I Create \u2013 5",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-196-i-create-%E2%80%93-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197: I Create \u2013 6",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-197-i-create-%E2%80%93-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198: I Create \u2013 7",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-198-i-create-%E2%80%93-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199: I Create \u2013 8",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-199-i-create-%E2%80%93-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200: If You See Me \u2013 1",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-200-if-you-see-me-%E2%80%93-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201: If You See Me \u2013 2",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-201-if-you-see-me-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202: If You See Me \u2013 3",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-202-if-you-see-me-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203: If You See Me \u2013 4",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-203-if-you-see-me-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204: If You See Me \u2013 5",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-204-if-you-see-me-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205: If You See Me \u2013 6",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-205-if-you-see-me-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206: If You See Me \u2013 7",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-206-if-you-see-me-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207: If You See Me \u2013 8",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-207-if-you-see-me-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208: If You See Me \u2013 9",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-208-if-you-see-me-%E2%80%93-9",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209: I, Too \u2013 1",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-209-i-too-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210: I, Too \u2013 2",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-210-i-too-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211: I, Too \u2013 3",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-211-i-too-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212: I, Too \u2013 4",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-212-i-too-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213: I, Too \u2013 5",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-213-i-too-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214: I, Too \u2013 6",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-214-i-too-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215: I, Too \u2013 7",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-215-i-too-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216: I, Too \u2013 8",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-216-i-too-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217: I\u2019m Coming To Get You Now \u2013 1",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-217-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218: I\u2019m Coming To Get You Now \u2013 2",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-218-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219: I\u2019m Coming To Get You Now \u2013 3",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-219-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220: I\u2019m Coming To Get You Now \u2013 4",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-220-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221: I\u2019m Coming To Get You Now \u2013 5",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-221-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222: I\u2019m Coming To Get You Now \u2013 6",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-222-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223: I\u2019m Coming To Get You Now \u2013 7",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-223-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224: I\u2019m Coming To Get You Now \u2013 8",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-224-i%E2%80%99m-coming-to-get-you-now-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225: I Go With You \u2013 1",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-225-i-go-with-you-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226: I Go With You \u2013 2",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-226-i-go-with-you-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227: I Go With You \u2013 3",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-227-i-go-with-you-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228: I Go With You \u2013 4",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-228-i-go-with-you-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 229: I Go With You \u2013 5",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-229-i-go-with-you-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 230: I Go With You \u2013 6",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-230-i-go-with-you-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 231: I Go With You \u2013 7",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-231-i-go-with-you-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 232: I Go With You \u2013 8",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-232-i-go-with-you-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 233: I Hear Your Voice \u2013 1",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-233-i-hear-your-voice-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 234: I Hear Your Voice \u2013 2",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-234-i-hear-your-voice-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 235: I Hear Your Voice \u2013 3",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-235-i-hear-your-voice-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 236: I Hear Your Voice \u2013 4",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-236-i-hear-your-voice-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 237: I Hear Your Voice \u2013 5",
+      "id": 237,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-237-i-hear-your-voice-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 238: You Are Already Dead \u2013 1",
+      "id": 238,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-238-you-are-already-dead-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 239: You Are Already Dead \u2013 2",
+      "id": 239,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-239-you-are-already-dead-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 240: You Are Already Dead \u2013 3",
+      "id": 240,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-240-you-are-already-dead-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 241: You Are Already Dead \u2013 4",
+      "id": 241,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-241-you-are-already-dead-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 242: You Are Already Dead \u2013 5",
+      "id": 242,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-242-you-are-already-dead-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 243: You Are Already Dead \u2013 6",
+      "id": 243,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-243-you-are-already-dead-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 244: You Are Already Dead \u2013 7",
+      "id": 244,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-244-you-are-already-dead-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 245: You Are Already Dead \u2013 8",
+      "id": 245,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-245-you-are-already-dead-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 246: You Are Already Dead \u2013 9",
+      "id": 246,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-246-you-are-already-dead-%E2%80%93-9",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 247: You Are Already Dead \u2013 10",
+      "id": 247,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-247-you-are-already-dead-%E2%80%93-10",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 248: You Are Already Dead \u2013 11",
+      "id": 248,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-248-you-are-already-dead-%E2%80%93-11",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249: You Are Already Dead \u2013 12",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-249-you-are-already-dead-%E2%80%93-12",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 250: You\u2019re Welcome Too \u2013 1",
+      "id": 250,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-250-you%E2%80%99re-welcome-too-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 251: You\u2019re Welcome, Too \u2013 2",
+      "id": 251,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-251-you%E2%80%99re-welcome-too-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 252: You\u2019re Welcome, Too \u2013 3",
+      "id": 252,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-252-you%E2%80%99re-welcome-too-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 253: You\u2019re Welcome, Too \u2013 4",
+      "id": 253,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-253-you%E2%80%99re-welcome-too-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 254: You\u2019re Welcome, Too \u2013 5",
+      "id": 254,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-254-you%E2%80%99re-welcome-too-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 255: You\u2019re Welcome, Too \u2013 6",
+      "id": 255,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-255-you%E2%80%99re-welcome-too-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 256: You\u2019re Welcome, Too \u2013 7",
+      "id": 256,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-256-you%E2%80%99re-welcome-too-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 257: You\u2019re Welcome, Too \u2013 8",
+      "id": 257,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-257-you%E2%80%99re-welcome-too-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 258: You\u2019re Welcome, Too \u2013 9",
+      "id": 258,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-258-you%E2%80%99re-welcome-too-%E2%80%93-9",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 259: Wherever I Go \u2013 1",
+      "id": 259,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-259-wherever-i-go-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 260: Wherever I Go \u2013 2",
+      "id": 260,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-260-wherever-i-go-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 261: Wherever I Go \u2013 3",
+      "id": 261,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-261-wherever-i-go-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 262: Wherever I Go \u2013 4",
+      "id": 262,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-262-wherever-i-go-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 263: Wherever I Go \u2013 5",
+      "id": 263,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-263-wherever-i-go-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 264: Wherever I Go \u2013 6",
+      "id": 264,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-264-wherever-i-go-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 265: Wherever I Go \u2013 7",
+      "id": 265,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-265-wherever-i-go-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 266: Wherever I Go \u2013 8",
+      "id": 266,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-266-wherever-i-go-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 267: If You Wish To Follow Me \u2013 1",
+      "id": 267,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-267-if-you-wish-to-follow-me-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 268: If You Wish To Follow Me \u2013 2",
+      "id": 268,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-268-if-you-wish-to-follow-me-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 269: If You Wish To Follow Me \u2013 3",
+      "id": 269,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-269-if-you-wish-to-follow-me-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 270: If You Wish To Follow Me \u2013 4",
+      "id": 270,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-270-if-you-wish-to-follow-me-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 271: If You Wish To Follow Me \u2013 5",
+      "id": 271,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-271-if-you-wish-to-follow-me-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 272: If You Wish To Follow Me \u2013 6",
+      "id": 272,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-272-if-you-wish-to-follow-me-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 273: If You Wish To Follow Me \u2013 7",
+      "id": 273,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-273-if-you-wish-to-follow-me-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 274: If You Wish To Follow Me \u2013 8",
+      "id": 274,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-274-if-you-wish-to-follow-me-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 275: Why Only Me? \u2013 1",
+      "id": 275,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-275-why-only-me-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 276: Why Only Me? \u2013 2",
+      "id": 276,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-276-why-only-me-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 277: Why Only Me? \u2013 3",
+      "id": 277,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-277-why-only-me-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 278: Why Only Me? \u2013 4",
+      "id": 278,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-278-why-only-me-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 279: Why Only Me? \u2013 5",
+      "id": 279,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-279-why-only-me-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 280: Why Only Me? \u2013 6",
+      "id": 280,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-280-why-only-me-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 281: Why Only Me? \u2013 7",
+      "id": 281,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-281-why-only-me-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 282: Why Only Me? \u2013 8",
+      "id": 282,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-282-why-only-me-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 283: I Will Prepare \u2013 1",
+      "id": 283,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-283-i-will-prepare-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 284: I Will Prepare \u2013 2",
+      "id": 284,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-284-i-will-prepare-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 285: I Will Prepare \u2013 3",
+      "id": 285,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-285-i-will-prepare-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 286: I Will Prepare \u2013 4",
+      "id": 286,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-286-i-will-prepare-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 287: I Will Prepare \u2013 5",
+      "id": 287,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-287-i-will-prepare-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 288: I Will Prepare \u2013 6",
+      "id": 288,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-288-i-will-prepare-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 289: I Will Prepare \u2013 7",
+      "id": 289,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-289-i-will-prepare-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 290 I Will Prepare \u2013 8",
+      "id": 290,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-290-i-will-prepare-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 291: I Will Achieve \u2013 1",
+      "id": 291,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-291-i-will-achieve-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 292: I Will Achieve \u2013 2",
+      "id": 292,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-292-i-will-achieve-%E2%80%93-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 293: I Will Achieve \u2013 3",
+      "id": 293,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-293-i-will-achieve-%E2%80%93-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 294: I Will Achieve \u2013 4",
+      "id": 294,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-294-i-will-achieve-%E2%80%93-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 295: I Will Achieve \u2013 5",
+      "id": 295,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-295-i-will-achieve-%E2%80%93-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 296: I Will Achieve \u2013 6",
+      "id": 296,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-296-i-will-achieve-%E2%80%93-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 297: I Will Achieve \u2013 7",
+      "id": 297,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-297-i-will-achieve-%E2%80%93-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 298: I Will Achieve \u2013 8",
+      "id": 298,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-298-i-will-achieve-%E2%80%93-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 299: I Will Achieve \u2013 9",
+      "id": 299,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-299-i-will-achieve-%E2%80%93-9",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 300: I Am Your Father \u2013 1",
+      "id": 300,
+      "volume": 3,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-300-i-am-your-father-%E2%80%93-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 301: I Am Your Father \u2013 2",
+      "id": 301,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-301-i-am-your-father-%E2%80%93-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 302: I Am Your Father \u2013 3",
+      "id": 302,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-302-i-am-your-father-%E2%80%93-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 303: I Am Your Father \u2013 4",
+      "id": 303,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-303-i-am-your-father-%E2%80%93-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 304: I Am Your Father \u2013 5",
+      "id": 304,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-304-i-am-your-father-%E2%80%93-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 305: I Am Your Father \u2013 6",
+      "id": 305,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-305-i-am-your-father-%E2%80%93-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 306: I Am Your Father \u2013 7",
+      "id": 306,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-306-i-am-your-father-%E2%80%93-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 307: I Am Your Father \u2013 8",
+      "id": 307,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-307-i-am-your-father-%E2%80%93-8",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 308: I Am Your Father \u2013 9",
+      "id": 308,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-308-i-am-your-father-%E2%80%93-9",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 309: You Are The Same As Me \u2013 1",
+      "id": 309,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-309-you-are-the-same-as-me-%E2%80%93-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 310: You Are The Same As Me \u2013 2",
+      "id": 310,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-310-you-are-the-same-as-me-%E2%80%93-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 311: You Are The Same As Me \u2013 3",
+      "id": 311,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-311-you-are-the-same-as-me-%E2%80%93-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 312: You Are The Same As Me \u2013 4",
+      "id": 312,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-312-you-are-the-same-as-me-%E2%80%93-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 313: You Are The Same As Me \u2013 5",
+      "id": 313,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-313-you-are-the-same-as-me-%E2%80%93-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 314: You Are The Same As Me \u2013 6",
+      "id": 314,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-314-you-are-the-same-as-me-%E2%80%93-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 315: You Are The Same As Me \u2013 7",
+      "id": 315,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-315-you-are-the-same-as-me-%E2%80%93-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 316: You Are The Same As Me \u2013 8",
+      "id": 316,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-316-you-are-the-same-as-me-%E2%80%93-8",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 317: I\u2019m One That Closes The Curtain \u2013 1",
+      "id": 317,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-317-i%E2%80%99m-one-that-closes-the-curtain-%E2%80%93-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 318: I\u2019m One That Closes The Curtain \u2013 2",
+      "id": 318,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-318-i%E2%80%99m-one-that-closes-the-curtain-%E2%80%93-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 319: I\u2019m One That Closes The Curtain \u2013 3",
+      "id": 319,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-319-i%E2%80%99m-one-that-closes-the-curtain-%E2%80%93-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 321: I\u2019m One That Closes The Curtain \u2013 5",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-321-i%E2%80%99m-one-that-closes-the-curtain-%E2%80%93-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 322: I\u2019m One That Closes The Curtain \u2013 6",
+      "id": 322,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-322-i%E2%80%99m-one-that-closes-the-curtain-%E2%80%93-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 323: I\u2019m One That Closes The Curtain \u2013 7",
+      "id": 323,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-323-i%E2%80%99m-one-that-closes-the-curtain-%E2%80%93-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 324: I\u2019m One That Closes The Curtain \u2013 8",
+      "id": 324,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-324-i%E2%80%99m-one-that-closes-the-curtain-%E2%80%93-8",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 325: Harmageddon \u2013 1",
+      "id": 325,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-325-harmageddon-%E2%80%93-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 326: Harmageddon \u2013 2",
+      "id": 326,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-326-harmageddon-%E2%80%93-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 327: Harmageddon \u2013 3",
+      "id": 327,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-327-harmageddon-%E2%80%93-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 328: Harmageddon \u2013 4",
+      "id": 328,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-328-harmageddon-%E2%80%93-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 329: Harmageddon \u2013 5",
+      "id": 329,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-329-harmageddon-%E2%80%93-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 330: Harmageddon \u2013 6",
+      "id": 330,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-330-harmageddon-%E2%80%93-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 331: Harmageddon \u2013 7",
+      "id": 331,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-331-harmageddon-%E2%80%93-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 332: Harmageddon \u2013 8",
+      "id": 332,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-332-harmageddon-%E2%80%93-8",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 333: Harmageddon \u2013 9",
+      "id": 333,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-333-harmageddon-%E2%80%93-9",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 334: Harmageddon \u2013 10",
+      "id": 334,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-334-harmageddon-%E2%80%93-10",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 335: Harmageddon \u2013 11",
+      "id": 335,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-335-harmageddon-%E2%80%93-11",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 336: Harmageddon \u2013 12",
+      "id": 336,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-336-harmageddon-%E2%80%93-12",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 337: Harmageddon \u2013 13",
+      "id": 337,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-337-harmageddon-%E2%80%93-13",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 338: Harmageddon \u2013 14",
+      "id": 338,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-338-harmageddon-%E2%80%93-14",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 339: Harmageddon \u2013 15",
+      "id": 339,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-339-harmageddon-%E2%80%93-15",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 340: Sole God \u2013 1",
+      "id": 340,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-340-sole-god-%E2%80%93-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 341: Sole God \u2013 2",
+      "id": 341,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-341-sole-god-%E2%80%93-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 342: Sole God \u2013 3",
+      "id": 342,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-342-sole-god-%E2%80%93-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 343: Sole God \u2013 4",
+      "id": 343,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-343-sole-god-%E2%80%93-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 344: Sole God \u2013 5",
+      "id": 344,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-344-sole-god-%E2%80%93-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 345: Sole God \u2013 6",
+      "id": 345,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-345-sole-god-%E2%80%93-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 346: Sole God \u2013 7",
+      "id": 346,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-346-sole-god-%E2%80%93-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 347: Sole God \u2013 8",
+      "id": 347,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-347-sole-god-%E2%80%93-8",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 348: Epilogue",
+      "id": 348,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-chapter-348-epilogue",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Afterword (END)",
+      "id": 354,
+      "volume": 4,
+      "url": "http://boxnovel.org/everyone-else-is-a-returnee-afterword-end",
+      "volume_title": "Volume 4"
+    }
+  ],
+  "rtl": false
+}

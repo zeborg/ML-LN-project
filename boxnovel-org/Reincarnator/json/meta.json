@@ -1,0 +1,3425 @@
+{
+  "url": "http://boxnovel.org/novel/reincarnator",
+  "title": "Reincarnator",
+  "author": "\u5c71\u57ce",
+  "cover": "https://3.bp.blogspot.com/-8C8gOwoBmR0/XbBroltjGDI/AAAAAAAAHbs/l0ylLJLi4ZcHrw_daL_dxPcBnnY3Gnq_ACLcBGAsYHQ/s320/reincarnator-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 100,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 100,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 100,
+      "final_chapter": 300,
+      "start_chapter": 201
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 100,
+      "final_chapter": 400,
+      "start_chapter": 301
+    },
+    {
+      "id": 5,
+      "title": "Volume 5",
+      "volume": "5",
+      "chapter_count": 82,
+      "final_chapter": 484,
+      "start_chapter": 401
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1: Returning to the Beginning",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-1-returning-to-the-beginning",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 2: Tutorial (1)",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-2-tutorial-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 3: Tutorial (2)",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-3-tutorial-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 4: Tutorial (3)",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-4-tutorial-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 5: Gangnam Station (1)",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-5-gangnam-station-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 6: Gangnam Station (2)",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-6-gangnam-station-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 7: Gangnam Station (3)",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-7-gangnam-station-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 8: Gangnam Station (4)",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-8-gangnam-station-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 9: Gangnam Station (5)",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-9-gangnam-station-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10: Gangnam Station (6)",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-10-gangnam-station-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11: Otherworld\u2019s Moon (1)",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-11-otherworld%E2%80%99s-moon-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12: Otherworld\u2019s Moon (2)",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-12-otherworld%E2%80%99s-moon-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13: Otherworld\u2019s Moon (3)",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-13-otherworld%E2%80%99s-moon-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14: Otherworld\u2019s Moon (4)",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-14-otherworld%E2%80%99s-moon-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15: Otherworld\u2019s Moon (5)",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-15-otherworld%E2%80%99s-moon-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16: Altar (1)",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-16-altar-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17: Altar (2)",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-17-altar-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18: Altar (3)",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-18-altar-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19: Altar (4)",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-19-altar-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20: Altar (5)",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-20-altar-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21: Altar (6)",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-21-altar-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22: Sky Road (1)",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-22-sky-road-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23: Sky Road (2)",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-23-sky-road-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24: Sky Road (3)",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-24-sky-road-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25: Sky Road (4)",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-25-sky-road-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26: Ticket (1)",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-26-ticket-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27: Ticket (2)",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-27-ticket-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28: Central Island (1)",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-28-central-island-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29: Central Island (2)",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-29-central-island-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30: Central Island (3)",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-30-central-island-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31: Central Island (4)",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-31-central-island-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32: Central Island (5)",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-32-central-island-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33: Central Island (6)",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-33-central-island-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34: Demon Lord\u2019s Castle (1)",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-34-demon-lord%E2%80%99s-castle-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35: Demon Lord\u2019s Castle (2)",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-35-demon-lord%E2%80%99s-castle-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36: Demon Lord\u2019s Castle (3)",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-36-demon-lord%E2%80%99s-castle-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37: Demon Lord\u2019s Castle (4)",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-37-demon-lord%E2%80%99s-castle-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38: Demon Lord\u2019s Castle (5)",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-38-demon-lord%E2%80%99s-castle-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39: Demon Lord\u2019s Castle (6)",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-39-demon-lord%E2%80%99s-castle-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40: Demon Lord\u2019s Castle (7)",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-40-demon-lord%E2%80%99s-castle-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41: Demon Lord\u2019s Castle (8)",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-41-demon-lord%E2%80%99s-castle-8",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42: Tower (1)",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-42-tower-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43: Tower (2)",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-43-tower-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44: Tower (3)",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-44-tower-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45: Tower (4)",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-45-tower-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46: Tower (5)",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-46-tower-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47: Tower (6)",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-47-tower-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48: Tower (7)",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-48-tower-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49: Three Gateways (1)",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-49-three-gateways-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50: Three Gateways (2)",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-50-three-gateways-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51: Red Zone (1)",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-51-red-zone-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52: Red Zone (2)",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-52-red-zone-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53: Red Zone (3)",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-53-red-zone-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54: Red Zone (4)",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-54-red-zone-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55: Red Zone (5)",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-55-red-zone-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56: Calamity Fish Hunting (1)",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-56-calamity-fish-hunting-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57: Calamity Fish Hunting (2)",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-57-calamity-fish-hunting-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58: Calamity Fish Hunting (3)",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-58-calamity-fish-hunting-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59: Calamity Fish Hunting (4)",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-59-calamity-fish-hunting-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60: Calamity Fish Hunting (5)",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-60-calamity-fish-hunting-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61: Calamity Fish Hunting (6)",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-61-calamity-fish-hunting-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62: Calamity Fish Hunting (7)",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-62-calamity-fish-hunting-7",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63: Galadriang\u2019s Relic (1)",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-63-galadriang%E2%80%99s-relic-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64: Galadriang\u2019s Relic (2)",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-64-galadriang%E2%80%99s-relic-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65: Galadriang\u2019s Relic (3)",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-65-galadriang%E2%80%99s-relic-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66: Galadriang\u2019s Relic (4)",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-66-galadriang%E2%80%99s-relic-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67: Galadriang\u2019s Relic (5)",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-67-galadriang%E2%80%99s-relic-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68: Cataclysm (1)",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-68-cataclysm-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69: Cataclysm (2)",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-69-cataclysm-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70: Cataclysm (3)",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-70-cataclysm-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71: Incursion (1)",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-71-incursion-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72: Incursion (2)",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-72-incursion-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73: Incursion (3)",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-73-incursion-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74: Incursion (4)",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-74-incursion-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75: Plant (1)",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-75-plant-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76: Plant (2)",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-76-plant-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77: Plant (3)",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-77-plant-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78: Racial War (1)",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-78-racial-war-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79: Racial War (2)",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-79-racial-war-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80: Racial War (3)",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-80-racial-war-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81: Racial War (4)",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-81-racial-war-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82: Akuma (1)",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-82-akuma-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83: Akuma (2)",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-83-akuma-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84: Akuma (3)",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-84-akuma-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85: Ouroboros (1)",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-85-ouroboros-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86: Ouroboros (2)",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-86-ouroboros-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87: Ouroboros (3)",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-87-ouroboros-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88: Ouroboros (4)",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-88-ouroboros-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89: Ouroboros (5)",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-89-ouroboros-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90: Wasp Legion (1)",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-90-wasp-legion-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91: Wasp Legion (2)",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-91-wasp-legion-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92: Wasp Legion (3)",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-92-wasp-legion-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93: Wasp Legion (4)",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-93-wasp-legion-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94: Wasp Legion (5)",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-94-wasp-legion-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95: Orange Zone (1)",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-95-orange-zone-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96: Orange Zone (2)",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-96-orange-zone-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97: Orange Zone (3)",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-97-orange-zone-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98: Orange Zone (4)",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-98-orange-zone-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99: Orange Zone (5)",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-99-orange-zone-5",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100: Orange Zone (6)",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/reincarnator-chapter-100-orange-zone-6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101: Body Enhancement Surgery (1)",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-101-body-enhancement-surgery-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102: Body Enhancement Surgery (2)",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-102-body-enhancement-surgery-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103: Body Enhancement Surgery (3)",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-103-body-enhancement-surgery-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104: Body Enhancement Surgery (4)",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-104-body-enhancement-surgery-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105: Body Enhancement Surgery (5)",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-105-body-enhancement-surgery-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106: Akaron (1)",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-106-akaron-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107: Akaron (2)",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-107-akaron-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108: Akaron (3)",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-108-akaron-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109: Akaron (4)",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-109-akaron-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110: Akaron (5)",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-110-akaron-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111: Gragos (1)",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-111-gragos-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112: Gragos (2)",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-112-gragos-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113: Gragos (3)",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-113-gragos-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114: Gragos (4)",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-114-gragos-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115: Gragos (5)",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-115-gragos-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116: Gragos (6)",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-116-gragos-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117: Tiradus (1)",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-117-tiradus-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118: Tiradus (2)",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-118-tiradus-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119: Tiradus (3)",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-119-tiradus-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120: Tiradus (4)",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-120-tiradus-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121: Tiradus (5)",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-121-tiradus-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122: Tiradus (6)",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-122-tiradus-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123: Lazar (1)",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-123-lazar-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124: Lazar (2)",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-124-lazar-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125: Lazar (3)",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-125-lazar-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126: Lazar (4)",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-126-lazar-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127: Crown of Thorns (1)",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-127-crown-of-thorns-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128: Crown of Thorns (2)",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-128-crown-of-thorns-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129: Crown of Thorns (3)",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-129-crown-of-thorns-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130: Crown of Thorns (4)",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-130-crown-of-thorns-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131: Crown of Thorns (5)",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-131-crown-of-thorns-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132: Infection(1)",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-132-infection1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133: Infection(2)",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-133-infection2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134: Infection (3)",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-134-infection-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135: Infection (3)",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-135-infection-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136: Elkadion (1)",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-136-elkadion-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137: Elkadion (2)",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-137-elkadion-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138 : Elkadion (3)",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-138-elkadion-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139 : Elkadion (4)",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-139-elkadion-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140 : Dark Cloud (1)",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-140-dark-cloud-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141 : Dark Cloud (2)",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-141-dark-cloud-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142 : Dark Cloud (3)",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-142-dark-cloud-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143 : Dark Cloud (4)",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-143-dark-cloud-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144 : Dark Cloud (5)",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-144-dark-cloud-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145 : The Hunter\u2019s Plateau (1)",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-145-the-hunter%E2%80%99s-plateau-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146 : The Hunter\u2019s Plateau (2)",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-146-the-hunter%E2%80%99s-plateau-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148 : The Hunter\u2019s Plateau (3)",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-148-the-hunter%E2%80%99s-plateau-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148 : Village of the Tired. (1)",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-148-village-of-the-tired-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149 : Village of the Tired. (2)",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-149-village-of-the-tired-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150 : Village of the Tired. (3)",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-150-village-of-the-tired-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151 : 1st Area (1)",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-151-1st-area-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152 : 1st Area (2)",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-152-1st-area-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153 : 1st Area (3)",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-153-1st-area-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154 : 1st Area (4)",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-154-1st-area-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155 : 1st Area (5)",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-155-1st-area-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156 : 1st Area (6)",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-156-1st-area-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157 : Voting Offerings (1)",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-157-voting-offerings-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158 : Voting Offerings (2)",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-158-voting-offerings-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159 : Voting Offerings (3)",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-159-voting-offerings-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160 : Lawless (1)",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-160-lawless-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161 : Lawless (2)",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-161-lawless-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162 : Lawless (3)",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-162-lawless-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163 : Fallen God (1)",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-163-fallen-god-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164 : Fallen God (2)",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-164-fallen-god-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165 : Fallen God (3)",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-165-fallen-god-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166 : Test (1)",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-166-test-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167 : Test (2)",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-167-test-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168 : Test (3)",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-168-test-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169 : Test (4)",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-169-test-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170 : Embers (1)",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-170-embers-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171 : Embers (2)",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-171-embers-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172 : Embers (3)",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-172-embers-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173 : Embers (4)",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-173-embers-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174 : Green Road (1)",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-174-green-road-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175 : Green Road (2)",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-175-green-road-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176 : Green Road (3)",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-176-green-road-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177 : Maze (1)",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-177-maze-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178 : Maze (2)",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-178-maze-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179 : Maze (3)",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-179-maze-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180 : Maze (4)",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-180-maze-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181 : Proposition (1)",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-181-proposition-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182 : Proposition (2)",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-182-proposition-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183 : The King\u2019s Tomb (1)",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-183-the-king%E2%80%99s-tomb-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184 : The King\u2019s Tomb (2)",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-184-the-king%E2%80%99s-tomb-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185 : The King\u2019s Tomb (3)",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-185-the-king%E2%80%99s-tomb-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186 : The King\u2019s Tomb (4)",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-186-the-king%E2%80%99s-tomb-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187 : Demonic Beast (1)",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-187-demonic-beast-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188 : Demonic Beast (2)",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-188-demonic-beast-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189 : Birdcage (1)",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-189-birdcage-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190 : Birdcage (2)",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-190-birdcage-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191 : Birdcage (3)",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-191-birdcage-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192 : Pektoril (1)",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-192-pektoril-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193 : Pektoril (2)",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-193-pektoril-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194 : Pektoril (3)",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-194-pektoril-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195 : Pektoril (4)",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-195-pektoril-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196 : Experiment (1)",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-196-experiment-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197 : Experiment (2)",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-197-experiment-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198 : Experiment (3)",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-198-experiment-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199 : The Plan (1)",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-199-the-plan-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200 : The Plan (2)",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/reincarnator-chapter-200-the-plan-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201 : Transference (1)",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-201-transference-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202 : Transference (2)",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-202-transference-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203 : Garmeia (1)",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-203-garmeia-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204 : Garmeia (2)",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-204-garmeia-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205 : Garmeia (3)",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-205-garmeia-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206 : Garmeia (4)",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-206-garmeia-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207 : Garmeia (5)",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-207-garmeia-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208 : Gael-Tara (1)",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-208-gael-tara-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209 : Gael-Tara (2)",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-209-gael-tara-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210 : Gael-Tara (3)",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-210-gael-tara-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211 : Gael-Tara (4)",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-211-gael-tara-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212 : Gael-Tara (5)",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-212-gael-tara-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213 : Gael-Tara (6)",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-213-gael-tara-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214 : Gael-Tara (7)",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-214-gael-tara-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215 : Reward (1)",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-215-reward-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216 : Reward (2)",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-216-reward-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217 : Exodus (1)",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-217-exodus-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218 : Exodus (2)",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-218-exodus-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219 : Exodus (3)",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-219-exodus-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220 : The Great Maze of the Ains (1)",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-220-the-great-maze-of-the-ains-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221 : The Great Maze of the Ains (2)",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-221-the-great-maze-of-the-ains-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222 : The Great Maze of the Ains (3)",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-222-the-great-maze-of-the-ains-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223 : The Great Maze of the Ains (4)",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-223-the-great-maze-of-the-ains-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224 : The Great Maze of the Ains (5)",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-224-the-great-maze-of-the-ains-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225 : The Great Maze of the Ains (6)",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-225-the-great-maze-of-the-ains-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226 : God\u2019s Destruction Maul (1)",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-226-god%E2%80%99s-destruction-maul-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227 : God\u2019s Destruction Maul (2)",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-227-god%E2%80%99s-destruction-maul-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228 : God\u2019s Destruction Maul (3)",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-228-god%E2%80%99s-destruction-maul-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 229 : God\u2019s Destruction Maul (4)",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-229-god%E2%80%99s-destruction-maul-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 230 : God\u2019s Destruction Maul (5)",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-230-god%E2%80%99s-destruction-maul-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 231 : The Great Seal (1)",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-231-the-great-seal-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 232 : The Great Seal (2)",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-232-the-great-seal-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 233 : The Great Seal (3)",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-233-the-great-seal-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 234 : The Great Seal (4)",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-234-the-great-seal-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 235 : The Great Seal (5)",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-235-the-great-seal-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 236 : The Great Seal (6)",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-236-the-great-seal-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 237 : The Great Seal (7)",
+      "id": 237,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-237-the-great-seal-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 238 : The Great Seal (8)",
+      "id": 238,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-238-the-great-seal-8",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 239 : Unsealing (1)",
+      "id": 239,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-239-unsealing-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 240 : Unsealing (2)",
+      "id": 240,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-240-unsealing-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 241 : Unsealing (3)",
+      "id": 241,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-241-unsealing-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 242 : Unsealing (4)",
+      "id": 242,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-242-unsealing-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 243 : Unsealing (5)",
+      "id": 243,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-243-unsealing-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 244 : Unsealing (6)",
+      "id": 244,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-244-unsealing-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 245 : Unsealing (7)",
+      "id": 245,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-245-unsealing-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 246 : Ain (1)",
+      "id": 246,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-246-ain-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 247 : Ain (2)",
+      "id": 247,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-247-ain-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 248 : Ain (3)",
+      "id": 248,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-248-ain-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249 : Ain (4)",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-249-ain-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 250 : Power (1)",
+      "id": 250,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-250-power-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 251 : Power (2)",
+      "id": 251,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-251-power-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 252 : Power (3)",
+      "id": 252,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-252-power-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 253 : Power (4)",
+      "id": 253,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-253-power-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 254 : War Fortress (1)",
+      "id": 254,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-254-war-fortress-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 255 : War Fortress (2)",
+      "id": 255,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-255-war-fortress-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 256 : War Fortress (3)",
+      "id": 256,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-256-war-fortress-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 257 : War Fortress (4)",
+      "id": 257,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-257-war-fortress-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 258 : Golden Dragon Formation (1)",
+      "id": 258,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-258-golden-dragon-formation-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 259 : Golden Dragon Formation (2)",
+      "id": 259,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-259-golden-dragon-formation-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 260 : Golden Dragon Formation (3)",
+      "id": 260,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-260-golden-dragon-formation-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 261 : Golden Dragon Formation (4)",
+      "id": 261,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-261-golden-dragon-formation-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 262 : Golden Dragon Formation (5)",
+      "id": 262,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-262-golden-dragon-formation-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 263 : Golden Dragon Formation (6)",
+      "id": 263,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-263-golden-dragon-formation-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 264 : Spirit Land (1)",
+      "id": 264,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-264-spirit-land-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 265 : Spirit Land (2)",
+      "id": 265,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-265-spirit-land-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 266 : Spirit Land (3)",
+      "id": 266,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-266-spirit-land-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 267 : Underground (1)",
+      "id": 267,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-267-underground-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 268 : Underground (2)",
+      "id": 268,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-268-underground-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 269 : Underground (3)",
+      "id": 269,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-269-underground-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 270 : Underground (4)",
+      "id": 270,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-270-underground-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 271 : Berserk (1)",
+      "id": 271,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-271-berserk-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 272 : Berserk (2)",
+      "id": 272,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-272-berserk-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 273 : Berserk (3)",
+      "id": 273,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-273-berserk-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 274 : Land from the past (1)",
+      "id": 274,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-274-land-from-the-past-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 275 : Land from the past (2)",
+      "id": 275,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-275-land-from-the-past-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 276 : Land from the past (3)",
+      "id": 276,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-276-land-from-the-past-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 277 : Land from the past (4)",
+      "id": 277,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-277-land-from-the-past-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 278 : Land from the past (5)",
+      "id": 278,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-278-land-from-the-past-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 279 : Land from the past (6)",
+      "id": 279,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-279-land-from-the-past-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 280 : Egg (1)",
+      "id": 280,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-280-egg-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 281 : Egg (2)",
+      "id": 281,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-281-egg-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 282 : Train headed to destruction (1)",
+      "id": 282,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-282-train-headed-to-destruction-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 283 : Train headed to destruction (2)",
+      "id": 283,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-283-train-headed-to-destruction-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 284 : Train headed to destruction (3)",
+      "id": 284,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-284-train-headed-to-destruction-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 285 : Star of transcendence (1)",
+      "id": 285,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-285-star-of-transcendence-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 286 : Star of transcendence (2)",
+      "id": 286,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-286-star-of-transcendence-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 287 : Star of transcendence (3)",
+      "id": 287,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-287-star-of-transcendence-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 288 : Star of transcendence (4)",
+      "id": 288,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-288-star-of-transcendence-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 289 : Star of transcendence (5)",
+      "id": 289,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-289-star-of-transcendence-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 290 : Transcendence (1)",
+      "id": 290,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-290-transcendence-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 291 : Transcendence (2)",
+      "id": 291,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-291-transcendence-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 292 : Transcendence (3)",
+      "id": 292,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-292-transcendence-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 293 : Transcendence (4)",
+      "id": 293,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-293-transcendence-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 294 : Transcendence (5)",
+      "id": 294,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-294-transcendence-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 295 : The Great Collapse (1)",
+      "id": 295,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-295-the-great-collapse-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 296 : The Great Collapse (2)",
+      "id": 296,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-296-the-great-collapse-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 297 : The Great Collapse (3)",
+      "id": 297,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-297-the-great-collapse-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 298 : Demon King\u2019s Egg (1)",
+      "id": 298,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-298-demon-king%E2%80%99s-egg-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 299 : Demon King\u2019s Egg (2)",
+      "id": 299,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-299-demon-king%E2%80%99s-egg-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 300 : Demon King\u2019s Egg (3)",
+      "id": 300,
+      "volume": 3,
+      "url": "http://boxnovel.org/reincarnator-chapter-300-demon-king%E2%80%99s-egg-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 301 : Season 2 : Demon King\u2019s Tower - The world after 2 years (1)",
+      "id": 301,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-301-season-2-demon-king%E2%80%99s-tower-the-world-after-2-years-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 302 : Season 2 : Demon King\u2019s Tower - The world after 2 years (2)",
+      "id": 302,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-302-season-2-demon-king%E2%80%99s-tower-the-world-after-2-years-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 303 : Transcendent (1)",
+      "id": 303,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-303-transcendent-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 304 : Transcendent (2)",
+      "id": 304,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-304-transcendent-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 305 : Transcendent (3)",
+      "id": 305,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-305-transcendent-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 306 : Transcendent (4)",
+      "id": 306,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-306-transcendent-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 307 : Transcendent (5)",
+      "id": 307,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-307-transcendent-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 308 : Nursery (1)",
+      "id": 308,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-308-nursery-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 309 : Nursery (2)",
+      "id": 309,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-309-nursery-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 310 : Nursery (3)",
+      "id": 310,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-310-nursery-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 311 : Nursery (4)",
+      "id": 311,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-311-nursery-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 312 : Clash (1)",
+      "id": 312,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-312-clash-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 313 : Clash (2)",
+      "id": 313,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-313-clash-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 314 : Beast (1)",
+      "id": 314,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-314-beast-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 315 : Beast (2)",
+      "id": 315,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-315-beast-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 316 : Bait (1)",
+      "id": 316,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-316-bait-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 317 : Bait (2)",
+      "id": 317,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-317-bait-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 318 : Bait (3)",
+      "id": 318,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-318-bait-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 319 : Darkness (1)",
+      "id": 319,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-319-darkness-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 320 : Darkness (2)",
+      "id": 320,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-320-darkness-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 321 : Darkness (3)",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-321-darkness-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 322 : Ark-Roa (1)",
+      "id": 322,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-322-ark-roa-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 323 : Ark-Roa (2)",
+      "id": 323,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-323-ark-roa-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 324 : Ark-Roa (3)",
+      "id": 324,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-324-ark-roa-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 325 : Ark-Roa (4)",
+      "id": 325,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-325-ark-roa-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 326 : Ark-Roa (5)",
+      "id": 326,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-326-ark-roa-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 327 : Ark-Roa (6)",
+      "id": 327,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-327-ark-roa-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 328 : The Grand Scheme (1)",
+      "id": 328,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-328-the-grand-scheme-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 329 : The Grand Scheme (2)",
+      "id": 329,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-329-the-grand-scheme-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 330 : The Grand Scheme (3)",
+      "id": 330,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-330-the-grand-scheme-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 331 : The Grand Scheme (4)",
+      "id": 331,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-331-the-grand-scheme-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 332 : Mj?lnir (1)",
+      "id": 332,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-332-mjlnir-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 333 : Mj?lnir (2)",
+      "id": 333,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-333-mjlnir-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 334 : Mj?lnir (3)",
+      "id": 334,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-334-mjlnir-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 335 : Mj?lnir (4)",
+      "id": 335,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-335-mjlnir-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 336 : 5th area, Old Blue Zone (1)",
+      "id": 336,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-336-5th-area-old-blue-zone-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 337 : 5th area, Old Blue Zone (2)",
+      "id": 337,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-337-5th-area-old-blue-zone-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 338 : 5th area, Old Blue Zone (3)",
+      "id": 338,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-338-5th-area-old-blue-zone-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 339 : Main Research Center (1)",
+      "id": 339,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-339-main-research-center-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 340 : Main Research Center (2)",
+      "id": 340,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-340-main-research-center-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 341 : Main Research Center (3)",
+      "id": 341,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-341-main-research-center-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 342 : Refinement (1)",
+      "id": 342,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-342-refinement-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 343 : Refinement (2)",
+      "id": 343,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-343-refinement-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 344 : Refinement (3)",
+      "id": 344,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-344-refinement-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 345 : Refinement (4)",
+      "id": 345,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-345-refinement-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 346 : Inhabitants (1)",
+      "id": 346,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-346-inhabitants-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 347 : Inhabitants (2)",
+      "id": 347,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-347-inhabitants-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 348 : Inhabitants (3)",
+      "id": 348,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-348-inhabitants-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 349 : Entering (1)",
+      "id": 349,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-349-entering-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 350 : Entering (2)",
+      "id": 350,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-350-entering-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 351 : Entering (3)",
+      "id": 351,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-351-entering-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 352 : A legacy from the depths(1)",
+      "id": 352,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-352-a-legacy-from-the-depths1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 353: A legacy from the depths (2)",
+      "id": 353,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-353-a-legacy-from-the-depths-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 354: A legacy from the depths (3)",
+      "id": 354,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-354-a-legacy-from-the-depths-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 355 : A legacy from the depths (4)",
+      "id": 355,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-355-a-legacy-from-the-depths-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 356: A legacy from the depths (5)",
+      "id": 356,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-356-a-legacy-from-the-depths-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 357: A legacy from the depths (6)",
+      "id": 357,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-357-a-legacy-from-the-depths-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 358: Breeding City (1)",
+      "id": 358,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-358-breeding-city-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 359: Breeding City (2)",
+      "id": 359,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-359-breeding-city-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 360: Breeding City (3)",
+      "id": 360,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-360-breeding-city-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 361: Bomb (1)",
+      "id": 361,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-361-bomb-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 362: Bomb (2)",
+      "id": 362,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-362-bomb-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 363: Bomb (3)",
+      "id": 363,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-363-bomb-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 364: The buried natives (1)",
+      "id": 364,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-364-the-buried-natives-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 365: The buried natives (2)",
+      "id": 365,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-365-the-buried-natives-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 366: The buried natives (3)",
+      "id": 366,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-366-the-buried-natives-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 367: The buried natives (4)",
+      "id": 367,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-367-the-buried-natives-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 368: The buried natives (5)",
+      "id": 368,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-368-the-buried-natives-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 369: The buried natives (6)",
+      "id": 369,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-369-the-buried-natives-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 370: The buried natives (7)",
+      "id": 370,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-370-the-buried-natives-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 371: Inheritance War (1)",
+      "id": 371,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-371-inheritance-war-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 372: Inheritance War (2)",
+      "id": 372,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-372-inheritance-war-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 373: Inheritance War (3)",
+      "id": 373,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-373-inheritance-war-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 374: Inheritance War (4)",
+      "id": 374,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-374-inheritance-war-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 375: Inheritance War (5)",
+      "id": 375,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-375-inheritance-war-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 376: Inheritance War (6)",
+      "id": 376,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-376-inheritance-war-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 377: Inheritance War (7)",
+      "id": 377,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-377-inheritance-war-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 378: Nerpa (1)",
+      "id": 378,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-378-nerpa-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 379: Nerpa (2)",
+      "id": 379,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-379-nerpa-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 380: Nerpa (3)",
+      "id": 380,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-380-nerpa-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 381: Nerpa (4)",
+      "id": 381,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-381-nerpa-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 382: Nerpa (5)",
+      "id": 382,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-382-nerpa-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 383: Nerpa (6)",
+      "id": 383,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-383-nerpa-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 384: Nerpa (7)",
+      "id": 384,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-384-nerpa-7",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 385: Angkara (1)",
+      "id": 385,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-385-angkara-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 386: Angkara (2)",
+      "id": 386,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-386-angkara-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 387: Flameless Land (1)",
+      "id": 387,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-387-flameless-land-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 388: Flameless Land (2)",
+      "id": 388,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-388-flameless-land-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 389: Flameless Land (3)",
+      "id": 389,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-389-flameless-land-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 390: Flameless Land (4)",
+      "id": 390,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-390-flameless-land-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 391: Flameless Land (5)",
+      "id": 391,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-391-flameless-land-5",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 392: Flameless Land (6)",
+      "id": 392,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-392-flameless-land-6",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 393: Owner of the crystal (1)",
+      "id": 393,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-393-owner-of-the-crystal-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 394: Owner of the crystal (2)",
+      "id": 394,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-394-owner-of-the-crystal-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 395: Owner of the crystal (3)",
+      "id": 395,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-395-owner-of-the-crystal-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 396: Owner of the crystal (4)",
+      "id": 396,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-396-owner-of-the-crystal-4",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 397: Continental War (1)",
+      "id": 397,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-397-continental-war-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 398: Continental War (2)",
+      "id": 398,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-398-continental-war-2",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 399: Continental War (3)",
+      "id": 399,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-399-continental-war-3",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 400: Guerrilla Warfare (1)",
+      "id": 400,
+      "volume": 4,
+      "url": "http://boxnovel.org/reincarnator-chapter-400-guerrilla-warfare-1",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 401: Guerrilla Warfare (2)",
+      "id": 401,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-401-guerrilla-warfare-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 402: The Fifth Seed (1)",
+      "id": 402,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-402-the-fifth-seed-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 403: The Fifth Seed (2)",
+      "id": 403,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-403-the-fifth-seed-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 404: The Fifth Seed (3)",
+      "id": 404,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-404-the-fifth-seed-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 405: The Price (1)",
+      "id": 405,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-405-the-price-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 406: The Price (2)",
+      "id": 406,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-406-the-price-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 407: Wall (1)",
+      "id": 407,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-407-wall-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 408: Wall (2)",
+      "id": 408,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-408-wall-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 409: Wall (3)",
+      "id": 409,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-409-wall-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 410: Metamorphosis (1)",
+      "id": 410,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-410-metamorphosis-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 411: Metamorphosis (2)",
+      "id": 411,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-411-metamorphosis-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 412 Metamorphosis 4",
+      "id": 412,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-412-metamorphosis-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 413 A step towards Desolation 1",
+      "id": 413,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-413-a-step-towards-desolation-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 414 A Step Toward Desolation 2",
+      "id": 414,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-414-a-step-toward-desolation-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 415 A Step Toward Desolation 3",
+      "id": 415,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-415-a-step-toward-desolation-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 416 A Step Toward Desolation 4",
+      "id": 416,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-416-a-step-toward-desolation-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 417 A Step Towards Desolation 5",
+      "id": 417,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-417-a-step-towards-desolation-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 418 Experiment 1",
+      "id": 418,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-418-experiment-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 419 Experiment 2",
+      "id": 419,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-419-experiment-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 420 Transition 1",
+      "id": 420,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-420-transition-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 421 Transition 2",
+      "id": 421,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-421-transition-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 422 Transition 3",
+      "id": 422,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-422-transition-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 423 Transition 4",
+      "id": 423,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-423-transition-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 424 Transition 5",
+      "id": 424,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-424-transition-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 425 Transition 6",
+      "id": 425,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-425-transition-6",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 426 Transition 7",
+      "id": 426,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-426-transition-7",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 427 Transition 4",
+      "id": 427,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-427-transition-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 428 Transition 5",
+      "id": 428,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-428-transition-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 429 Transition 6",
+      "id": 429,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-429-transition-6",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 430 Transition 7",
+      "id": 430,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-430-transition-7",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 431 Transition 8",
+      "id": 431,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-431-transition-8",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 432 Final Zone 1",
+      "id": 432,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-432-final-zone-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 434 Final Zone 3",
+      "id": 434,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-434-final-zone-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 435 Final Zone 4",
+      "id": 435,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-435-final-zone-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 436 Desire Tree 1",
+      "id": 436,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-436-desire-tree-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 437 Desire Tree 2",
+      "id": 437,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-437-desire-tree-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 438 Desire Tree 3",
+      "id": 438,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-438-desire-tree-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 439 Noah 1",
+      "id": 439,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-439-noah-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 440 Noah 2",
+      "id": 440,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-440-noah-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 441 Noah 3",
+      "id": 441,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-441-noah-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 442 Noah 4",
+      "id": 442,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-442-noah-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 443 Noah 5",
+      "id": 443,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-443-noah-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 444 Desire Return 1",
+      "id": 444,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-444-desire-return-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 445 Desire Return 2",
+      "id": 445,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-445-desire-return-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 446 Desire Return 3",
+      "id": 446,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-446-desire-return-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 447 Desire Return 4",
+      "id": 447,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-447-desire-return-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 448 Desire Return 5",
+      "id": 448,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-448-desire-return-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 449 Desire Return 6",
+      "id": 449,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-449-desire-return-6",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 450 To Noah 1",
+      "id": 450,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-450-to-noah-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 451 To Noah 2",
+      "id": 451,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-451-to-noah-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 452 To Noah 3",
+      "id": 452,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-452-to-noah-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 454 Solitude 1",
+      "id": 454,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-454-solitude-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 455 Solitude 2",
+      "id": 455,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-455-solitude-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 456 Solitude 3",
+      "id": 456,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-456-solitude-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 457 Solitude 4",
+      "id": 457,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-457-solitude-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 458 Solitude 5",
+      "id": 458,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-458-solitude-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 459 Heaven 1",
+      "id": 459,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-459-heaven-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 460 Heaven 2",
+      "id": 460,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-460-heaven-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 461 Heaven 3",
+      "id": 461,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-461-heaven-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 462 Heaven 4",
+      "id": 462,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-462-heaven-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 463 Mad Demon 1",
+      "id": 463,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-463-mad-demon-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 464 Mad Demon 2",
+      "id": 464,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-464-mad-demon-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 465 Mad Demon 3",
+      "id": 465,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-465-mad-demon-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 466 Fateful Encounter 1",
+      "id": 466,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-466-fateful-encounter-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 467 Fateful Encounter 2",
+      "id": 467,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-467-fateful-encounter-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 468 Fateful Encounter 3",
+      "id": 468,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-468-fateful-encounter-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 469 Descent 1",
+      "id": 469,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-469-descent-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 470 Descent 2",
+      "id": 470,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-470-descent-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 471 Descent 3",
+      "id": 471,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-471-descent-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 472 Descent 4",
+      "id": 472,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-472-descent-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 473 Descent 5",
+      "id": 473,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-473-descent-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 474 Savior 1",
+      "id": 474,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-474-savior-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 475 Savior 2",
+      "id": 475,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-475-savior-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 476 Savior 3",
+      "id": 476,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-476-savior-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 477 Savior 4",
+      "id": 477,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-477-savior-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 478 Savior 5",
+      "id": 478,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-478-savior-5",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 479 Third Life 1",
+      "id": 479,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-479-third-life-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 480 Third Life 2",
+      "id": 480,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-480-third-life-2",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 481 Third Life 3",
+      "id": 481,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-481-third-life-3",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 482 Third Life 4",
+      "id": 482,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-482-third-life-4",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 483 Angel 1",
+      "id": 483,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-483-angel-1",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 484 Angel 2",
+      "id": 484,
+      "volume": 5,
+      "url": "http://boxnovel.org/reincarnator-chapter-484-angel-2",
+      "volume_title": "Volume 5"
+    }
+  ],
+  "rtl": false
+}

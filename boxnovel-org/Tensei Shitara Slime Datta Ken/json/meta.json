@@ -1,0 +1,2956 @@
+{
+  "url": "http://boxnovel.org/novel/tensei-shitara-slime-datta-ken",
+  "title": "Tensei Shitara Slime Datta Ken",
+  "author": "Fuse",
+  "cover": "https://1.bp.blogspot.com/-qH4FMLBlC4A/XbBsfj6oH4I/AAAAAAAAHm8/RbaOkiZlVaswXUUSKB2xleWigV_44PHQQCLcBGAsYHQ/s320/tensei-shitara-slime-datta-ken-d.jpg",
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Volume 1",
+      "volume": "1",
+      "chapter_count": 102,
+      "final_chapter": 100,
+      "start_chapter": 1
+    },
+    {
+      "id": 2,
+      "title": "Volume 2",
+      "volume": "2",
+      "chapter_count": 103,
+      "final_chapter": 200,
+      "start_chapter": 101
+    },
+    {
+      "id": 3,
+      "title": "Volume 3",
+      "volume": "3",
+      "chapter_count": 101,
+      "final_chapter": 300,
+      "start_chapter": 201
+    },
+    {
+      "id": 4,
+      "title": "Volume 4",
+      "volume": "4",
+      "chapter_count": 100,
+      "final_chapter": 400,
+      "start_chapter": 301
+    },
+    {
+      "id": 5,
+      "title": "Volume 5",
+      "volume": "5",
+      "chapter_count": 9,
+      "final_chapter": 409,
+      "start_chapter": 401
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Prologue",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-prologue",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 01 \u2013 Let\u2019s see what I can do",
+      "id": 1,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-01-%E2%80%93-let%E2%80%99s-see-what-i-can-do",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 02 \u2013 First Contact",
+      "id": 2,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-02-%E2%80%93-first-contact",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 03 \u2013 First Conversation",
+      "id": 3,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-03-%E2%80%93-first-conversation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 04 \u2013 First Friend",
+      "id": 4,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-04-%E2%80%93-first-friend",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 05 \u2013 First Steps",
+      "id": 5,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-05-%E2%80%93-first-steps",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 06 \u2013 Skill Acquisition",
+      "id": 6,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-06-%E2%80%93-skill-acquisition",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 07 \u2013 First Battle",
+      "id": 7,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-07-%E2%80%93-first-battle",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 08 \u2013 The Power in my Hands",
+      "id": 8,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-08-%E2%80%93-the-power-in-my-hands",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 09 \u2013 Negotiating with the Goblins",
+      "id": 9,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-09-%E2%80%93-negotiating-with-the-goblins",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 10 \u2013 The Battle of the Goblin Village",
+      "id": 10,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-10-%E2%80%93-the-battle-of-the-goblin-village",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 11 \u2013 Evolving Monsters",
+      "id": 11,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-11-%E2%80%93-evolving-monsters",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 12 \u2013 Preparing our Environment",
+      "id": 12,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-12-%E2%80%93-preparing-our-environment",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 13 \u2013 To the Dwarf Kingdom",
+      "id": 13,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-13-%E2%80%93-to-the-dwarf-kingdom",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 14 \u2013 Trouble",
+      "id": 14,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-14-%E2%80%93-trouble",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 15 \u2013 A Deal with the Guards",
+      "id": 15,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-15-%E2%80%93-a-deal-with-the-guards",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 16 \u2013 The Dwarf Blacksmith",
+      "id": 16,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-16-%E2%80%93-the-dwarf-blacksmith",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 17 \u2013 The Outcome of the Promise",
+      "id": 17,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-17-%E2%80%93-the-outcome-of-the-promise",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 18 \u2013 The End of Turmoil",
+      "id": 18,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-18-%E2%80%93-the-end-of-turmoil",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 19 \u2013 Return to the Village",
+      "id": 19,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-19-%E2%80%93-return-to-the-village",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Intermission ~Bagworm Gobuta~",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-intermission-bagworm-gobuta",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 20 \u2013 Toward the Village\u2019s Revival",
+      "id": 20,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-20-%E2%80%93-toward-the-village%E2%80%99s-revival",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 21 \u2013 A New Movement",
+      "id": 21,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-21-%E2%80%93-a-new-movement",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 22 \u2013 The Adventurers who finally arrived",
+      "id": 22,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-22-%E2%80%93-the-adventurers-who-finally-arrived",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 23 \u2013 Flame Giant",
+      "id": 23,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-23-%E2%80%93-flame-giant",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 24 \u2013 Reminiscence~ Funeral March",
+      "id": 24,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-24-%E2%80%93-reminiscence-funeral-march",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 25 \u2013 Human Transformation!",
+      "id": 25,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-25-%E2%80%93-human-transformation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 26 \u2013 New Abilities",
+      "id": 26,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-26-%E2%80%93-new-abilities",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 27 \u2013 The Ogre Tribe",
+      "id": 27,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-27-%E2%80%93-the-ogre-tribe",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 28 \u2013 Jobs",
+      "id": 28,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-28-%E2%80%93-jobs",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 29 \u2013 Lizardmen\u2019s Invasion",
+      "id": 29,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-29-%E2%80%93-lizardmen%E2%80%99s-invasion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 30 \u2013 Envoy",
+      "id": 30,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-30-%E2%80%93-envoy",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 31 \u2013 Emergency Meeting",
+      "id": 31,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-31-%E2%80%93-emergency-meeting",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 32 \u2013 Stage Curtain Rises",
+      "id": 32,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-32-%E2%80%93-stage-curtain-rises",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 33 \u2013 Audience",
+      "id": 33,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-33-%E2%80%93-audience",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 34 \u2013 The Outbreak of War",
+      "id": 34,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-34-%E2%80%93-the-outbreak-of-war",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 35 \u2013 War Preparations",
+      "id": 35,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-35-%E2%80%93-war-preparations",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 36 \u2013 Participation in the War",
+      "id": 36,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-36-%E2%80%93-participation-in-the-war",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 37 \u2013 Encounter ~ Benimaru & Ranga",
+      "id": 37,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-37-%E2%80%93-encounter-benimaru-ranga",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 38 \u2013 Devil Gelmudo",
+      "id": 38,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-38-%E2%80%93-devil-gelmudo",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 39 \u2013 Gears of Fate",
+      "id": 39,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-39-%E2%80%93-gears-of-fate",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 40 \u2013 Orc Disaster",
+      "id": 40,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-40-%E2%80%93-orc-disaster",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 41 \u2013 Predator",
+      "id": 41,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-41-%E2%80%93-predator",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 42 \u2013 The Great Jura Forest Coalition",
+      "id": 42,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-42-%E2%80%93-the-great-jura-forest-coalition",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 43 \u2013 War Reparations",
+      "id": 43,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-43-%E2%80%93-war-reparations",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 44 \u2013 And thus we finished the city",
+      "id": 44,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-44-%E2%80%93-and-thus-we-finished-the-city",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 45 \u2013 Those Who Observe",
+      "id": 45,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-45-%E2%80%93-those-who-observe",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 46 \u2013 A Country\u2019s Name and Two Treaties",
+      "id": 46,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-46-%E2%80%93-a-country%E2%80%99s-name-and-two-treaties",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 47 \u2013 A City\u2019s Specialty",
+      "id": 47,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-47-%E2%80%93-a-city%E2%80%99s-specialty",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 48 \u2013 Demon Lords\u2019 Invasion",
+      "id": 48,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-48-%E2%80%93-demon-lords%E2%80%99-invasion",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 49 \u2013 Hurricane Milim",
+      "id": 49,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-49-%E2%80%93-hurricane-milim",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 50 \u2013 Frontier Garrison",
+      "id": 50,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-50-%E2%80%93-frontier-garrison",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 51 \u2013 To the Human City",
+      "id": 51,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-51-%E2%80%93-to-the-human-city",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 52 \u2013 Journey",
+      "id": 52,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-52-%E2%80%93-journey",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 53 \u2013 Freedom Association",
+      "id": 53,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-53-%E2%80%93-freedom-association",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 54 \u2013 Business ~ The Start of a Trade",
+      "id": 54,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-54-%E2%80%93-business-the-start-of-a-trade",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 55 \u2013 Adventurer Registration",
+      "id": 55,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-55-%E2%80%93-adventurer-registration",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 56 \u2013 Ingrasia Kingdom",
+      "id": 56,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-56-%E2%80%93-ingrasia-kingdom",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 57 \u2013 To Learn Magic",
+      "id": 57,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-57-%E2%80%93-to-learn-magic",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 58 \u2013 The Summoned ~ those who are called heroes ~",
+      "id": 58,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-58-%E2%80%93-the-summoned-those-who-are-called-heroes",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 59 \u2013 The Church Moved",
+      "id": 59,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-59-%E2%80%93-the-church-moved",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 60 \u2013 A bit sudden, but let\u2019s have a test",
+      "id": 60,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-60-%E2%80%93-a-bit-sudden-but-let%E2%80%99s-have-a-test",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 61 \u2013 The First Dungeon Conquest",
+      "id": 61,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-61-%E2%80%93-the-first-dungeon-conquest",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 62 \u2013 A Spirit is\u2026",
+      "id": 62,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-62-%E2%80%93-a-spirit-is%E2%80%A6",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 63 \u2013 Children and Spirits",
+      "id": 63,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-63-%E2%80%93-children-and-spirits",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 64 \u2013 Last Days in the Royal Capital",
+      "id": 64,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-64-%E2%80%93-last-days-in-the-royal-capital",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 65 \u2013 The Prelude to Disaster",
+      "id": 65,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-65-%E2%80%93-the-prelude-to-disaster",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 66 \u2013 Chance Meeting",
+      "id": 66,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-66-%E2%80%93-chance-meeting",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 67 \u2013 Forest Assailants",
+      "id": 67,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-67-%E2%80%93-forest-assailants",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 68 \u2013 Soul and Hope",
+      "id": 68,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-68-%E2%80%93-soul-and-hope",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 69 \u2013 Birth of Demon Lord",
+      "id": 69,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-69-%E2%80%93-birth-of-demon-lord",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 70 \u2013 Harvest Festival",
+      "id": 70,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-70-%E2%80%93-harvest-festival",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 71 \u2013 I, the one who had sprouted",
+      "id": 71,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-71-%E2%80%93-i-the-one-who-had-sprouted",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 72 \u2013 Upon Awakening",
+      "id": 72,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-72-%E2%80%93-upon-awakening",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 73 \u2013 The Freed One",
+      "id": 73,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-73-%E2%80%93-the-freed-one",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 74 \u2013 Veldora",
+      "id": 74,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-74-%E2%80%93-veldora",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 75 \u2013 Conference",
+      "id": 75,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-75-%E2%80%93-conference",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 76 \u2013 Conference \u2013 Main act",
+      "id": 76,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-76-%E2%80%93-conference-%E2%80%93-main-act",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 77 \u2013 Ramiris\u2019 Report",
+      "id": 77,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-77-%E2%80%93-ramiris%E2%80%99-report",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 78 \u2013 Demon Lords",
+      "id": 78,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-78-%E2%80%93-demon-lords",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 79 \u2013 Dino and Dagruel",
+      "id": 79,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-79-%E2%80%93-dino-and-dagruel",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 80 \u2013 The Incident before the Banquet",
+      "id": 80,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-80-%E2%80%93-the-incident-before-the-banquet",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 81 \u2013 At the Banquet",
+      "id": 81,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-81-%E2%80%93-at-the-banquet",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 82 \u2013 Equality in Death",
+      "id": 82,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-82-%E2%80%93-equality-in-death",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 83 \u2013 Eight-star demon lords",
+      "id": 83,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-83-%E2%80%93-eight-star-demon-lords",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 84 \u2013 The Downfall of Falmas Kingdom",
+      "id": 84,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-84-%E2%80%93-the-downfall-of-falmas-kingdom",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 85 \u2013 The words that reached",
+      "id": 85,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-85-%E2%80%93-the-words-that-reached",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 86 \u2013 Those who move in the dark",
+      "id": 86,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-86-%E2%80%93-those-who-move-in-the-dark",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 87 \u2013 The Holy City",
+      "id": 87,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-87-%E2%80%93-the-holy-city",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 88 \u2013 Towards the second encounter",
+      "id": 88,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-88-%E2%80%93-towards-the-second-encounter",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 89 \u2013 Different Plans",
+      "id": 89,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-89-%E2%80%93-different-plans",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 90 \u2013 VS. Holy Knights Part 1",
+      "id": 90,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-90-%E2%80%93-vs-holy-knights-part-1",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 91 \u2013 VS. Holy Knights Part 2",
+      "id": 91,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-91-%E2%80%93-vs-holy-knights-part-2",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 92 \u2013 VS. Holy Knights Part 3",
+      "id": 92,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-92-%E2%80%93-vs-holy-knights-part-3",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 93 \u2013 VS. Holy Knights Part 4",
+      "id": 93,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-93-%E2%80%93-vs-holy-knights-part-4",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 94 \u2013 Mastermind",
+      "id": 94,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-94-%E2%80%93-mastermind",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 95 \u2013 Complete Victory",
+      "id": 95,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-95-%E2%80%93-complete-victory",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 96 \u2013 Chance to Speak",
+      "id": 96,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-96-%E2%80%93-chance-to-speak",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 97 \u2013 Compensation and future relations!",
+      "id": 97,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-97-%E2%80%93-compensation-and-future-relations",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 98 \u2013 Letter of Invitation",
+      "id": 98,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-98-%E2%80%93-letter-of-invitation",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 99 \u2013 Tournament Preparations",
+      "id": 99,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-99-%E2%80%93-tournament-preparations",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 100 \u2013 Underground Labyrinth",
+      "id": 100,
+      "volume": 1,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-100-%E2%80%93-underground-labyrinth",
+      "volume_title": "Volume 1"
+    },
+    {
+      "title": "Chapter 101 \u2013 Smooth Plan",
+      "id": 101,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-101-%E2%80%93-smooth-plan",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 102 \u2013 Audience with Monsters",
+      "id": 102,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-102-%E2%80%93-audience-with-monsters",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 103 \u2013 Monster Slave",
+      "id": 103,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-103-%E2%80%93-monster-slave",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 104 \u2013 The Night Before",
+      "id": 104,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-104-%E2%80%93-the-night-before",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 105 \u2013 Preliminary Round",
+      "id": 105,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-105-%E2%80%93-preliminary-round",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 106 \u2013 Tournament \u2013 Finals Part 1",
+      "id": 106,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-106-%E2%80%93-tournament-%E2%80%93-finals-part-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 107 \u2013 Tournament \u2013 Finals Part 2",
+      "id": 107,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-107-%E2%80%93-tournament-%E2%80%93-finals-part-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 108 \u2013 Tournament \u2013 Finals Part 3",
+      "id": 108,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-108-%E2%80%93-tournament-%E2%80%93-finals-part-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 109 \u2013 Tournament \u2013 Finals Part 4",
+      "id": 109,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-109-%E2%80%93-tournament-%E2%80%93-finals-part-4",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 110 \u2013 Tournament \u2013 Finals Part 5",
+      "id": 110,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-110-%E2%80%93-tournament-%E2%80%93-finals-part-5",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 111 \u2013 Tournament \u2013 Finals Part 6",
+      "id": 111,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-111-%E2%80%93-tournament-%E2%80%93-finals-part-6",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 112 \u2013 Tournament \u2013 Finals Part 7",
+      "id": 112,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-112-%E2%80%93-tournament-%E2%80%93-finals-part-7",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 113 \u2013 Tournament \u2013 Finals Part 8",
+      "id": 113,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-113-%E2%80%93-tournament-%E2%80%93-finals-part-8",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 114 \u2013 Tournament \u2013 Finals Part 9",
+      "id": 114,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-114-%E2%80%93-tournament-%E2%80%93-finals-part-9",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 115 \u2013 Underground Labyrinth Exploration Party",
+      "id": 115,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-115-%E2%80%93-underground-labyrinth-exploration-party",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 116 \u2013 Evaluation Conference",
+      "id": 116,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-116-%E2%80%93-evaluation-conference",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 117 \u2013 Smooth Sailing",
+      "id": 117,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-117-%E2%80%93-smooth-sailing",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 118 \u2013 Labyrinth and Trust",
+      "id": 118,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-118-%E2%80%93-labyrinth-and-trust",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 119 \u2013 The way to enjoy a dungeon",
+      "id": 119,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-119-%E2%80%93-the-way-to-enjoy-a-dungeon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 120 \u2013 Setting Off",
+      "id": 120,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-120-%E2%80%93-setting-off",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 121 \u2013 Hinata and the Kids",
+      "id": 121,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-121-%E2%80%93-hinata-and-the-kids",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 122 \u2013 Hinata and Yuuki",
+      "id": 122,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-122-%E2%80%93-hinata-and-yuuki",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 123 \u2013 Predestined Fate",
+      "id": 123,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-123-%E2%80%93-predestined-fate",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 124 \u2013 Birth of a Hero",
+      "id": 124,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-124-%E2%80%93-birth-of-a-hero",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 125 \u2013 The Memories of the Hero",
+      "id": 125,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-125-%E2%80%93-the-memories-of-the-hero",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 126 \u2013 The Rebellion\u2019s Beginning",
+      "id": 126,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-126-%E2%80%93-the-rebellion%E2%80%99s-beginning",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 127 \u2013 Excuse and Reflection",
+      "id": 127,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-127-%E2%80%93-excuse-and-reflection",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 128 \u2013 Alliance of Three Kingdoms",
+      "id": 128,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-128-%E2%80%93-alliance-of-three-kingdoms",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 129 \u2013 Yuuki Subjugation Raid",
+      "id": 129,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-129-%E2%80%93-yuuki-subjugation-raid",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 130 \u2013 A suddent Invitation",
+      "id": 130,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-130-%E2%80%93-a-suddent-invitation",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 131 \u2013 Demon Lord Leon",
+      "id": 131,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-131-%E2%80%93-demon-lord-leon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 132 \u2013 Kagurazaka Yuuki",
+      "id": 132,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-132-%E2%80%93-kagurazaka-yuuki",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 133 \u2013 Leon vs Yuuki Part 1",
+      "id": 133,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-133-%E2%80%93-leon-vs-yuuki-part-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 134 \u2013 Leon vs Yuuki Part 2",
+      "id": 134,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-134-%E2%80%93-leon-vs-yuuki-part-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 135 \u2013 After the Incident",
+      "id": 135,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-135-%E2%80%93-after-the-incident",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 136 \u2013 Eastern Empire",
+      "id": 136,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-136-%E2%80%93-eastern-empire",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 137 \u2013 A year of Progress",
+      "id": 137,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-137-%E2%80%93-a-year-of-progress",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 138 \u2013 A request from the council",
+      "id": 138,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-138-%E2%80%93-a-request-from-the-council",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 139 \u2013 The Whole Story of the Assembly",
+      "id": 139,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-139-%E2%80%93-the-whole-story-of-the-assembly",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 140 \u2013 Research Results",
+      "id": 140,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-140-%E2%80%93-research-results",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 141 \u2013 u An Unexpected Guest",
+      "id": 141,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-141-%E2%80%93-u-an-unexpected-guest",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 142 \u2013 Military Affairs",
+      "id": 142,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-142-%E2%80%93-military-affairs",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 143 \u2013 The Dreadful Corps",
+      "id": 143,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-143-%E2%80%93-the-dreadful-corps",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 144 \u2013 Underground Labyrinth Capture \u2013Enforcer Scout Platoon-",
+      "id": 144,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-144-%E2%80%93-underground-labyrinth-capture-%E2%80%93enforcer-scout-platoon-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 145 \u2013 Underground Labyrinth Capture-Capture of Irresistible Force-",
+      "id": 145,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-145-%E2%80%93-underground-labyrinth-capture-capture-of-irresistible-force-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Intermission -Venom\u2019s Story-",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-intermission-venom%E2%80%99s-story-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 146 \u2013 Underground Labyrinth Capture \u2013Outcome and Conclusion-",
+      "id": 146,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-146-%E2%80%93-underground-labyrinth-capture-%E2%80%93outcome-and-conclusion-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 147 \u2013 The Empire that Start to Move.",
+      "id": 147,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-147-%E2%80%93-the-empire-that-start-to-move",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 148 \u2013 A decision made too late.",
+      "id": 148,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-148-%E2%80%93-a-decision-made-too-late",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 149 \u2013 Night Before the War Begin",
+      "id": 149,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-149-%E2%80%93-night-before-the-war-begin",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 150 \u2013 Expectations that Became True",
+      "id": 150,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-150-%E2%80%93-expectations-that-became-true",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 151 \u2013 Great War Outbreak \u2013Start\u2013",
+      "id": 151,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-151-%E2%80%93-great-war-outbreak-%E2%80%93start%E2%80%93",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 152 \u2013 Great War Outbreak \u2013 Agitation and Resolution-",
+      "id": 152,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-152-%E2%80%93-great-war-outbreak-%E2%80%93-agitation-and-resolution-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 153 \u2013 Great war outbreak \u2013The beginning of the trampling-",
+      "id": 153,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-153-%E2%80%93-great-war-outbreak-%E2%80%93the-beginning-of-the-trampling-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 154 \u2013 Great War Outbreak \u2013The Smiling Demon\u2013",
+      "id": 154,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-154-%E2%80%93-great-war-outbreak-%E2%80%93the-smiling-demon%E2%80%93",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 155 \u2013 First Battle Victory and Enemy Main Forces",
+      "id": 155,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-155-%E2%80%93-first-battle-victory-and-enemy-main-forces",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 156 \u2013 The Mysterious Lion Mask",
+      "id": 156,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-156-%E2%80%93-the-mysterious-lion-mask",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 157 \u2013 Battle of the Dungeon.",
+      "id": 157,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-157-%E2%80%93-battle-of-the-dungeon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 158 \u2013 The absolute strongest of the dungeon.",
+      "id": 158,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-158-%E2%80%93-the-absolute-strongest-of-the-dungeon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 159 \u2013 The Capital\u2019s defensive battle.",
+      "id": 159,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-159-%E2%80%93-the-capital%E2%80%99s-defensive-battle",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 160 \u2013 The Clean-up annihilation war.",
+      "id": 160,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-160-%E2%80%93-the-clean-up-annihilation-war",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 161 \u2013 A demon lord\u2019s work isn\u2019t a god\u2019s",
+      "id": 161,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-161-%E2%80%93-a-demon-lord%E2%80%99s-work-isn%E2%80%99t-a-god%E2%80%99s",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 162 \u2013 Reward and Evolution Part 1",
+      "id": 162,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-162-%E2%80%93-reward-and-evolution-part-1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 163 \u2013 Reward and Evolution Part 2",
+      "id": 163,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-163-%E2%80%93-reward-and-evolution-part-2",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 164 \u2013 Reward and Evolution Part 3",
+      "id": 164,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-164-%E2%80%93-reward-and-evolution-part-3",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Intermission \u2013Shinji\u2019s situation-",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-intermission-%E2%80%93shinji%E2%80%99s-situation-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 165 \u2013 The Out-Of-Control Gears.",
+      "id": 165,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-165-%E2%80%93-the-out-of-control-gears",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 166 \u2013 A Coup D\u2019\u00e9Tat In The Imperial Capital.",
+      "id": 166,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-166-%E2%80%93-a-coup-d%E2%80%99etat-in-the-imperial-capital",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 167 \u2013 The segregation point of the era",
+      "id": 167,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-167-%E2%80%93-the-segregation-point-of-the-era",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 168 \u2013 Guy ? Crimson",
+      "id": 168,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-168-%E2%80%93-guy-crimson",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 169 \u2013 Negotiations With Guy",
+      "id": 169,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-169-%E2%80%93-negotiations-with-guy",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 170 \u2013 A Pleasant Tea Party",
+      "id": 170,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-170-%E2%80%93-a-pleasant-tea-party",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 171 \u2013 Clash! Storm Dragon Vs Scorch Dragon \u2013 First Half \u2013",
+      "id": 171,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-171-%E2%80%93-clash-storm-dragon-vs-scorch-dragon-%E2%80%93-first-half-%E2%80%93",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 172 \u2013 Clash! Storm Dragon Vs Scorch Dragon -Last Half-",
+      "id": 172,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-172-%E2%80%93-clash-storm-dragon-vs-scorch-dragon-last-half-",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 173 \u2013 Rage",
+      "id": 173,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-173-%E2%80%93-rage",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 174 \u2013 Rimuru Vs Storm Dragon & Scorch Dragon",
+      "id": 174,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-174-%E2%80%93-rimuru-vs-storm-dragon-scorch-dragon",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 175 \u2013 Veldora Released",
+      "id": 175,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-175-%E2%80%93-veldora-released",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 176 \u2013 Sword Of Tempest",
+      "id": 176,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-176-%E2%80%93-sword-of-tempest",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 177 \u2013 The Black Numbers",
+      "id": 177,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-177-%E2%80%93-the-black-numbers",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 178 \u2013 The Black Numbers Vs The Empire \u2015 First Half\u2015",
+      "id": 178,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-178-%E2%80%93-the-black-numbers-vs-the-empire-%E2%80%95-first-half%E2%80%95",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 179 \u2013 The Black Numbers Vs The Empire \u2013 Last Half \u2013",
+      "id": 179,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-179-%E2%80%93-the-black-numbers-vs-the-empire-%E2%80%93-last-half-%E2%80%93",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 180 \u2013 Duel On Deck",
+      "id": 180,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-180-%E2%80%93-duel-on-deck",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 181 \u2013 Towards The Final Stage",
+      "id": 181,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-181-%E2%80%93-towards-the-final-stage",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 182 \u2013 The Entrusted Will",
+      "id": 182,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-182-%E2%80%93-the-entrusted-will",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 183 \u2013 establishing the contract",
+      "id": 183,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-183-%E2%80%93-establishing-the-contract",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 184 \u2013 The Faceoff",
+      "id": 184,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-184-%E2%80%93-the-faceoff",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 185 \u2013 The Beginning Of A New Game",
+      "id": 185,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-185-%E2%80%93-the-beginning-of-a-new-game",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 186 \u2013 First Move",
+      "id": 186,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-186-%E2%80%93-first-move",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 187 \u2013 The One Who Observes",
+      "id": 187,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-187-%E2%80%93-the-one-who-observes",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 188 \u2013 Apostle of the End",
+      "id": 188,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-188-%E2%80%93-apostle-of-the-end",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 189 \u2013 Army in the Sky",
+      "id": 189,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-189-%E2%80%93-army-in-the-sky",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Intermission \u2013 Guy ? Crimson \u2013",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-intermission-%E2%80%93-guy-crimson-%E2%80%93",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 190 \u2013 Ultimate Skill",
+      "id": 190,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-190-%E2%80%93-ultimate-skill",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 191 \u2013 Ciel-Sensei\u2019s Skill Synthesis",
+      "id": 191,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-191-%E2%80%93-ciel-sensei%E2%80%99s-skill-synthesis",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 192 \u2013 Walpurgis",
+      "id": 192,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-192-%E2%80%93-walpurgis",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 193 \u2013 To Each Preparations",
+      "id": 193,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-193-%E2%80%93-to-each-preparations",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 194 \u2013 World Rumbling",
+      "id": 194,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-194-%E2%80%93-world-rumbling",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 195 \u2013 Chaos and Counter-moves",
+      "id": 195,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-195-%E2%80%93-chaos-and-counter-moves",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 196 \u2013 Lion King vs The Four Fiends of the Heaven Commanders\u2019 Vega",
+      "id": 196,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-196-%E2%80%93-lion-king-vs-the-four-fiends-of-the-heaven-commanders%E2%80%99-vega",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 197 \u2013 Demon vs Angel",
+      "id": 197,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-197-%E2%80%93-demon-vs-angel",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 198 \u2013 Gobuta & Karion vs The Four Fiends of the Heaven Commanders\u2019 Vega",
+      "id": 198,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-198-%E2%80%93-gobuta-karion-vs-the-four-fiends-of-the-heaven-commanders%E2%80%99-vega",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 199 \u2013 Rimuru Disappearance[1]",
+      "id": 199,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-199-%E2%80%93-rimuru-disappearance1",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 200 \u2013 Each of Their Reactions",
+      "id": 200,
+      "volume": 2,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-200-%E2%80%93-each-of-their-reactions",
+      "volume_title": "Volume 2"
+    },
+    {
+      "title": "Chapter 201 \u2013 Preparations on Leon\u2019s Side",
+      "id": 201,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-201-%E2%80%93-preparations-on-leon%E2%80%99s-side",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 202 \u2013 Moderate Clown Troupe",
+      "id": 202,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-202-%E2%80%93-moderate-clown-troupe",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 203 \u2013 Great Demon Lord Kazaream",
+      "id": 203,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-203-%E2%80%93-great-demon-lord-kazaream",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 204 \u2013 The Confused World",
+      "id": 204,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-204-%E2%80%93-the-confused-world",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 205 \u2013 Vs Dagruel Part 1",
+      "id": 205,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-205-%E2%80%93-vs-dagruel-part-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 206 \u2013 Vs Dagruel Part 2",
+      "id": 206,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-206-%E2%80%93-vs-dagruel-part-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 207 \u2013 Vs Dagruel Part 3",
+      "id": 207,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-207-%E2%80%93-vs-dagruel-part-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 208 \u2013 Vs Dagruel Part 4",
+      "id": 208,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-208-%E2%80%93-vs-dagruel-part-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 209 \u2013 Sprout of Envy",
+      "id": 209,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-209-%E2%80%93-sprout-of-envy",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 210 \u2013 Leon\u2019s Feelings",
+      "id": 210,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-210-%E2%80%93-leon%E2%80%99s-feelings",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 211 \u2013 Calculation that Goes Amiss",
+      "id": 211,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-211-%E2%80%93-calculation-that-goes-amiss",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 212 \u2013 Foolish Kazaream",
+      "id": 212,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-212-%E2%80%93-foolish-kazaream",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 213 \u2013 Unjust Ending",
+      "id": 213,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-213-%E2%80%93-unjust-ending",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 214 \u2013 The Closed World",
+      "id": 214,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-214-%E2%80%93-the-closed-world",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 215 \u2013 Time Accelerated",
+      "id": 215,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-215-%E2%80%93-time-accelerated",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 216 \u2013 Vs Dagruel Part 5",
+      "id": 216,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-216-%E2%80%93-vs-dagruel-part-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 217 \u2013 Vs Dagruel Part 6",
+      "id": 217,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-217-%E2%80%93-vs-dagruel-part-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 218 \u2013 Vs Dagruel Part 7",
+      "id": 218,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-218-%E2%80%93-vs-dagruel-part-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 219 \u2013 Vs Dagruel Part 8 \u2013Conclusion-",
+      "id": 219,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-219-%E2%80%93-vs-dagruel-part-8-%E2%80%93conclusion-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 220 \u2013 Royal Capital Disturbance",
+      "id": 220,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-220-%E2%80%93-royal-capital-disturbance",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 221 \u2013 Royal Capital Disturbance \u2013Hero-",
+      "id": 221,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-221-%E2%80%93-royal-capital-disturbance-%E2%80%93hero-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 222 \u2013 Royal Capital Disturbance -Sudden Change-",
+      "id": 222,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-222-%E2%80%93-royal-capital-disturbance-sudden-change-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 223 \u2013 Royal Capital Disturbance -Evacuation-",
+      "id": 223,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-223-%E2%80%93-royal-capital-disturbance-evacuation-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 224 \u2013 Royal Capital Disturbance -Defeat-",
+      "id": 224,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-224-%E2%80%93-royal-capital-disturbance-defeat-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 225 \u2013 Intersected Checkmate",
+      "id": 225,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-225-%E2%80%93-intersected-checkmate",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 226 \u2013 Labyrinth\u2019s Encroachment - Part 1",
+      "id": 226,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-226-%E2%80%93-labyrinth%E2%80%99s-encroachment-part-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 227 \u2013 Labyrinth\u2019s Encroachment Part 2",
+      "id": 227,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-227-%E2%80%93-labyrinth%E2%80%99s-encroachment-part-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 228 \u2013 Labyrinth\u2019s Encroachment Part 3",
+      "id": 228,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-228-%E2%80%93-labyrinth%E2%80%99s-encroachment-part-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 229 \u2013 Labyrinth\u2019s Encroachment Part 4",
+      "id": 229,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-229-%E2%80%93-labyrinth%E2%80%99s-encroachment-part-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 230 \u2013 Labyrinth\u2019s Encroachment Part 5",
+      "id": 230,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-230-%E2%80%93-labyrinth%E2%80%99s-encroachment-part-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 231 \u2013 Labyrinth Encroachment Part 6",
+      "id": 231,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-231-%E2%80%93-labyrinth-encroachment-part-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 232 \u2013 Labyrinth\u2019s Encroachment Part 7",
+      "id": 232,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-232-%E2%80%93-labyrinth%E2%80%99s-encroachment-part-7",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 233 \u2013 Labyrinth\u2019s Encroachment Part 8 -Conclusion-",
+      "id": 233,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-233-%E2%80%93-labyrinth%E2%80%99s-encroachment-part-8-conclusion-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 234 \u2013 Archangel\u2019s Domination",
+      "id": 234,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-234-%E2%80%93-archangel%E2%80%99s-domination",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 235 \u2013 In the Northern Land \u2013First Part-",
+      "id": 235,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-235-%E2%80%93-in-the-northern-land-%E2%80%93first-part-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 236 \u2013 In the Northern Land -Middle Part-",
+      "id": 236,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-236-%E2%80%93-in-the-northern-land-middle-part-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 237 \u2013 In the Northern Land -Last Part-",
+      "id": 237,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-237-%E2%80%93-in-the-northern-land-last-part-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 238 \u2013 Justice and Contradiction",
+      "id": 238,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-238-%E2%80%93-justice-and-contradiction",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 239 \u2013 Soaring Wall",
+      "id": 239,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-239-%E2%80%93-soaring-wall",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 240 \u2013 Final Decisive Battle Part 1",
+      "id": 240,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-240-%E2%80%93-final-decisive-battle-part-1",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 241 \u2013 Final Decisive Battle Part 2",
+      "id": 241,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-241-%E2%80%93-final-decisive-battle-part-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 242 \u2013 Final Decisive Battle Part 3",
+      "id": 242,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-242-%E2%80%93-final-decisive-battle-part-3",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 243 \u2013 Final Decisive Battle Part 4",
+      "id": 243,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-243-%E2%80%93-final-decisive-battle-part-4",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 244 \u2013 Final Decisive Battle Part 5",
+      "id": 244,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-244-%E2%80%93-final-decisive-battle-part-5",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 245 \u2013 Final Decisive Battle Part 6",
+      "id": 245,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-245-%E2%80%93-final-decisive-battle-part-6",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 246 \u2013 Rimuru vs Yuuki \u2013First Part\u2013",
+      "id": 246,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-246-%E2%80%93-rimuru-vs-yuuki-%E2%80%93first-part%E2%80%93",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 247 - Rimuru vs Yuuki \u2013 Part 2",
+      "id": 247,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-247-rimuru-vs-yuuki-%E2%80%93-part-2",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 248 - Rimuru vs Yuuki \u2013 Part 3-",
+      "id": 248,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-248-rimuru-vs-yuuki-%E2%80%93-part-3-",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-249",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 249 (END)",
+      "id": 249,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-249-end",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 250",
+      "id": 250,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-250",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 251",
+      "id": 251,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-251",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 252",
+      "id": 252,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-252",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 253",
+      "id": 253,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-253",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 254",
+      "id": 254,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-254",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 255",
+      "id": 255,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-255",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 256",
+      "id": 256,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-256",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 257",
+      "id": 257,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-257",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 258",
+      "id": 258,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-258",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 259",
+      "id": 259,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-259",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 260",
+      "id": 260,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-260",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 261",
+      "id": 261,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-261",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 262",
+      "id": 262,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-262",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 263",
+      "id": 263,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-263",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 264",
+      "id": 264,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-264",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 265",
+      "id": 265,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-265",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 266",
+      "id": 266,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-266",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 267",
+      "id": 267,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-267",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 268",
+      "id": 268,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-268",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 269",
+      "id": 269,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-269",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 270",
+      "id": 270,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-270",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 271",
+      "id": 271,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-271",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 272",
+      "id": 272,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-272",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 273",
+      "id": 273,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-273",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 274",
+      "id": 274,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-274",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 275",
+      "id": 275,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-275",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 276",
+      "id": 276,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-276",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 277",
+      "id": 277,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-277",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 278",
+      "id": 278,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-278",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 279",
+      "id": 279,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-279",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 280",
+      "id": 280,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-280",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 281",
+      "id": 281,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-281",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 282",
+      "id": 282,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-282",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 283",
+      "id": 283,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-283",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 284",
+      "id": 284,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-284",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 285",
+      "id": 285,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-285",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 286",
+      "id": 286,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-286",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 287",
+      "id": 287,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-287",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 288",
+      "id": 288,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-288",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 289",
+      "id": 289,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-289",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 290",
+      "id": 290,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-290",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 291",
+      "id": 291,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-291",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 292",
+      "id": 292,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-292",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 293",
+      "id": 293,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-293",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 294",
+      "id": 294,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-294",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 295",
+      "id": 295,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-295",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 296",
+      "id": 296,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-296",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 297",
+      "id": 297,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-297",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 298",
+      "id": 298,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-298",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 299",
+      "id": 299,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-299",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 300",
+      "id": 300,
+      "volume": 3,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-300",
+      "volume_title": "Volume 3"
+    },
+    {
+      "title": "Chapter 301",
+      "id": 301,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-301",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 302",
+      "id": 302,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-302",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 303",
+      "id": 303,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-303",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 304",
+      "id": 304,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-304",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 305",
+      "id": 305,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-305",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 306",
+      "id": 306,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-306",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 307",
+      "id": 307,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-307",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 308",
+      "id": 308,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-308",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 309",
+      "id": 309,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-309",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 310",
+      "id": 310,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-310",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 311",
+      "id": 311,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-311",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 312",
+      "id": 312,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-312",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 313",
+      "id": 313,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-313",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 314",
+      "id": 314,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-314",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 315",
+      "id": 315,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-315",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 316",
+      "id": 316,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-316",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 317",
+      "id": 317,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-317",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 318",
+      "id": 318,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-318",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 319",
+      "id": 319,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-319",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 320",
+      "id": 320,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-320",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 321",
+      "id": 321,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-321",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 322",
+      "id": 322,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-322",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 323",
+      "id": 323,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-323",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 324",
+      "id": 324,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-324",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 325",
+      "id": 325,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-325",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 326",
+      "id": 326,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-326",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 327",
+      "id": 327,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-327",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 328",
+      "id": 328,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-328",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 329",
+      "id": 329,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-329",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 330",
+      "id": 330,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-330",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 331",
+      "id": 331,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-331",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 332",
+      "id": 332,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-332",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 333",
+      "id": 333,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-333",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 334",
+      "id": 334,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-334",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 335",
+      "id": 335,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-335",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 336",
+      "id": 336,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-336",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 337",
+      "id": 337,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-337",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 338",
+      "id": 338,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-338",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 339",
+      "id": 339,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-339",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 340",
+      "id": 340,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-340",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 341",
+      "id": 341,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-341",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 342",
+      "id": 342,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-342",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 343",
+      "id": 343,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-343",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 344",
+      "id": 344,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-344",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 345",
+      "id": 345,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-345",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 346",
+      "id": 346,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-346",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 347",
+      "id": 347,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-347",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 348",
+      "id": 348,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-348",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 349",
+      "id": 349,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-349",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 350",
+      "id": 350,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-350",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 351",
+      "id": 351,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-351",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 352",
+      "id": 352,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-352",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 353",
+      "id": 353,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-353",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 354",
+      "id": 354,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-354",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 355",
+      "id": 355,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-355",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 356",
+      "id": 356,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-356",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 357",
+      "id": 357,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-357",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 358",
+      "id": 358,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-358",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 359",
+      "id": 359,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-359",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 360",
+      "id": 360,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-360",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 361",
+      "id": 361,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-361",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 362",
+      "id": 362,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-362",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 363",
+      "id": 363,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-363",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 364",
+      "id": 364,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-364",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 365",
+      "id": 365,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-365",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 366",
+      "id": 366,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-366",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 367",
+      "id": 367,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-367",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 368",
+      "id": 368,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-368",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 369",
+      "id": 369,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-369",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 370",
+      "id": 370,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-370",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 371",
+      "id": 371,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-371",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 372",
+      "id": 372,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-372",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 373",
+      "id": 373,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-373",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 374",
+      "id": 374,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-374",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 375",
+      "id": 375,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-375",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 376",
+      "id": 376,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-376",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 377",
+      "id": 377,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-377",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 378",
+      "id": 378,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-378",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 379",
+      "id": 379,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-379",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 380",
+      "id": 380,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-380",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 381",
+      "id": 381,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-381",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 382",
+      "id": 382,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-382",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 383",
+      "id": 383,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-383",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 384",
+      "id": 384,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-384",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 385",
+      "id": 385,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-385",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 386",
+      "id": 386,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-386",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 387",
+      "id": 387,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-387",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 388",
+      "id": 388,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-388",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 389",
+      "id": 389,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-389",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 390",
+      "id": 390,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-390",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 391",
+      "id": 391,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-391",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 392",
+      "id": 392,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-392",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 393",
+      "id": 393,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-393",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 394",
+      "id": 394,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-394",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 395",
+      "id": 395,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-395",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 396",
+      "id": 396,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-396",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 397",
+      "id": 397,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-397",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 398",
+      "id": 398,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-398",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 399",
+      "id": 399,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-399",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 400",
+      "id": 400,
+      "volume": 4,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-400",
+      "volume_title": "Volume 4"
+    },
+    {
+      "title": "Chapter 401",
+      "id": 401,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-401",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 402",
+      "id": 402,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-402",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 403",
+      "id": 403,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-403",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 404",
+      "id": 404,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-404",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 405",
+      "id": 405,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-405",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 406",
+      "id": 406,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-406",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 407",
+      "id": 407,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-407",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 408",
+      "id": 408,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-408",
+      "volume_title": "Volume 5"
+    },
+    {
+      "title": "Chapter 409",
+      "id": 409,
+      "volume": 5,
+      "url": "http://boxnovel.org/tensei-shitara-slime-datta-ken-chapter-409",
+      "volume_title": "Volume 5"
+    }
+  ],
+  "rtl": false
+}
